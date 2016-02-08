@@ -1,8 +1,8 @@
-import timestring 
-dte = timestring.Date('27 Mar 2014 12:32:29 PST')
-print "sdsd" , dte
-print "s", dte.tzname
+import time
+import datetime
+d = datetime.date(2015,1,5)
 
+unixtime = time.mktime(d.timetuple())
 
 from calendar import timegm
 from datetime import datetime, timedelta, tzinfo
