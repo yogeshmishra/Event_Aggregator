@@ -1,2 +1,2 @@
 # Event_Aggregator
-Aggregating the Events on spatial and temporal Basis
+Aggregating the Events on spatial and temporal basis
