@@ -13,9 +13,9 @@ BOT_NAME = 'NYtimes'
 
 SPIDER_MODULES = ['NYtimes.spiders']
 NEWSPIDER_MODULE = 'NYtimes.spiders'
-ITEM_PIPELINES = {
-	'NYtimes.pipelines.NYtimesPipeline' : 500,
-}
+#ITEM_PIPELINES = {
+#	'NYtimes.pipelines.NYtimesPipeline' : 500,
+#}
 ITEM_PIPELINES = [
             'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline',
             ]
