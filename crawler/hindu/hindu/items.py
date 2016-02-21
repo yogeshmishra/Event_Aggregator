@@ -23,5 +23,6 @@ class NewsItem(Item):
     day_of_week = Field()
     article = Field()
     location = Field()
+    focus=Field()
     origin = Field()
     pass
