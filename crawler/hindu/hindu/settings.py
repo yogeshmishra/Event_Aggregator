@@ -26,7 +26,11 @@ ELASTICSEARCH_TYPE = 'articles'
 ELASTICSEARCH_UNIQ_KEY = 'link'  # Custom uniqe key like 'student_id'
 ELASTICSEARCH_LOG_LEVEL= logging.DEBUG
 
+SPLASH_URL = 'http://127.0.0.1:8050'
 
+DOWNLOADER_MIDDLEWARES = {'scrapyjs.SplashMiddleware': 725}
+DUPEFILTER_CLASS = 'scrapyjs.SplashAwareDupeFilter'
+HTTPCACHE_STORAGE = 'scrapyjs.SplashAwareFSCacheStorage'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'hindu (+http://www.yourdomain.com)'
