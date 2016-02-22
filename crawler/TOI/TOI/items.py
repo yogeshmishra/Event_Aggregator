@@ -17,7 +17,12 @@ class NewsItem(Item):
     title = Field()
     author = Field()
     date = Field()
+    year = Field()
+    month = Field()
+    day = Field()
+    day_of_week = Field()
     article = Field()
     location = Field()
+    focus=Field()
     origin = Field()
     pass

@@ -5,19 +5,27 @@ from TOI.items import NewsItem
 
 class NYtimesSpider(Spider):
         name = "TOI"
-        allowed_domains = [""]
-        #start_urls = []
-        #for x in xrange(1860,1865):
-        #       start_urls.append("http://spiderbites.nytimes.com/free_" + str(x) + "/index.html")
-        start_urls = ["http://spiderbites.nytimes.com/free_2014/index.html"]
-        baseURL1 = "http://spiderbites.nytimes.com"
-        baseURL2 = "http://www.nytimes.com/"
+        #allowed_domains = [""]
+        start_urls = []
+        for year in range(2015,2017):
+            for month in range(1,13):
+                start_urls.append("http://timesofindia.indiatimes.com/archive/year-" + str(year) +",month-" + str(month) +".cms")
+        baseURL1 = "http://timesofindia.indiatimes.com"
+        baseURL2 = "http://timesofindia.indiatimes.com"
 
+        def start_requests(self):
+            for url in self.start_urls:
+                print "INDEX URL : " + url 
+                yield scrapy.Request(url, self.parse, meta={
+                    'splash': {
+                        'endpoint': 'render.html',
+                        'args': {'wait': 10.0}
+                    }   
+                })
         def parse(self, response):
-                for url in response.xpath('//div[@class="articlesMonth"]/ul/li/a/@href').extract():
-                        #self.log('@@@@ Got URL: %s' % (self.baseURL1+url))
-                        #yield scrapy.Request(self.baseURL1 + url.split("_")[-3] + "/" + url, callback = self.parseNews) #There are two kinds format exist,e.g. 2003
-                        yield scrapy.Request(self.baseURL1 + url, callback = self.parseNews)
+            for url in response.xpath('//td[@align="center"]/a/@href').extract():
+                print url
+                yield scrapy.Request(self.baseURL1 + url, callback = self.parseNews)
 
 
         def parseNews(self, response):
@@ -33,12 +41,13 @@ class NYtimesSpider(Spider):
                 item["link"] = unicode(response.url)
                 item["category"] = unicode(','.join(response.xpath('//div[@class="navbdcrumb"]//text()').extract()[2:]))
                 item["title"] = unicode(response.xpath('//h1[@class="heading1"]/text()').extract())
-                dateItem = unicode(response.xpath('//span[@class="time_c    ptn"]/text()').extract())
+                dateItem = unicode(response.xpath('//span[@class="time_cptn"]/text()').extract())
                 dateItem = dateItem.split("|")
                 item["author"] = ""
-                if(len(dateItem) > 2)
+                if(len(dateItem) > 2):
                     item["author"] = dateItem[0]
                 item["date"] = dateItem[len(dateItem) - 1]
-                item["article"] = unicode(response.xpath('//div[@class="Normal"]//text()').extract())
+                item["focus"] = ""
+                item["article"] = unicode(' ', join(response.xpath('//div[@class="Normal"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["origin"]="TOI"
                 yield item

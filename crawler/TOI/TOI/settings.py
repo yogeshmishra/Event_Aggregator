@@ -8,12 +8,30 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
+import logging
 
 BOT_NAME = 'TOI'
 
 SPIDER_MODULES = ['TOI.spiders']
 NEWSPIDER_MODULE = 'TOI.spiders'
 
+ITEM_PIPELINES = { 'TOI.pipelines.ToiPipeline':1 }
+        #'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
+
+ELASTICSEARCH_SERVER = 'localhost' # If not 'localhost' prepend 'http://'
+ELASTICSEARCH_PORT = 9200 # If port 80 leave blank
+ELASTICSEARCH_USERNAME = ''
+ELASTICSEARCH_PASSWORD = ''
+ELASTICSEARCH_INDEX = 'news'
+ELASTICSEARCH_TYPE = 'articles'
+ELASTICSEARCH_UNIQ_KEY = 'link'  # Custom uniqe key like 'student_id'
+ELASTICSEARCH_LOG_LEVEL= logging.DEBUG
+
+SPLASH_URL = 'http://127.0.0.1:8050'
+
+DOWNLOADER_MIDDLEWARES = {'scrapyjs.SplashMiddleware': 725}
+DUPEFILTER_CLASS = 'scrapyjs.SplashAwareDupeFilter'
+HTTPCACHE_STORAGE = 'scrapyjs.SplashAwareFSCacheStorage'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'TOI (+http://www.yourdomain.com)'
