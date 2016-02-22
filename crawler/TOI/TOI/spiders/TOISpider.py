@@ -3,7 +3,7 @@ from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from TOI.items import NewsItem
 
-class NYtimesSpider(Spider):
+class TOISpider(Spider):
         name = "TOI"
         #allowed_domains = [""]
         start_urls = []

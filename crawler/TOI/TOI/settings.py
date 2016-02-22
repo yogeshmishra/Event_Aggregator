@@ -15,7 +15,8 @@ BOT_NAME = 'TOI'
 SPIDER_MODULES = ['TOI.spiders']
 NEWSPIDER_MODULE = 'TOI.spiders'
 
-ITEM_PIPELINES = {'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
+ITEM_PIPELINES = {#'TOI.pipelines.ToiPipeline':1}
+        'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
 
 ELASTICSEARCH_SERVER = 'localhost' # If not 'localhost' prepend 'http://'
 ELASTICSEARCH_PORT = 9200 # If port 80 leave blank

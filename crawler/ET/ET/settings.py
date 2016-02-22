@@ -15,8 +15,8 @@ BOT_NAME = 'ET'
 SPIDER_MODULES = ['ET.spiders']
 NEWSPIDER_MODULE = 'ET.spiders'
 
-ITEM_PIPELINES = { 'ET.pipelines.EtPipeline':1}
-#'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
+ITEM_PIPELINES = { #'ET.pipelines.EtPipeline':1}
+'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
 
 ELASTICSEARCH_SERVER = 'localhost' # If not 'localhost' prepend 'http://'
 ELASTICSEARCH_PORT = 9200 # If port 80 leave blank
