@@ -2,6 +2,10 @@ import scrapy
 from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from TOI.items import NewsItem
+import dateutil.parser as dparser
+
+def parseDate( date_string):
+    return dparser.parse(date_string, fuzzy=True)
 
 class TOISpider(Spider):
         name = "TOI"
@@ -42,15 +46,21 @@ class TOISpider(Spider):
                 item["category"] = unicode(','.join(response.xpath('//div[@class="navbdcrumb"]//text()').extract()[2:]).replace(u'\xbb', u''))
                 item["keywords"] = unicode(''.join(response.xpath('//meta[@name="news_keywords"]/@content').extract()))
                 item["title"] = unicode(''.join(response.xpath('//h1[@class="heading1"]/text()').extract()))
-                dateItem = unicode(''.join(response.xpath('//span[@class="time_cptn"]/text()').extract()))
-                dateItem = dateItem.split("|")
-                item["author"] = ""
-                if(len(dateItem) > 2):
-                    item["author"] = dateItem[0]
-                if(len(item["author"]) < 4 ):
-                    item["author"] = unicode(''.join(response.xpath('//*[@class="auth_detail"]/text()').extract()))
-                item["date"] = dateItem[len(dateItem) - 1]
-                item["focus"] = ""
+                date = parseDate(unicode(''.join(response.xpath('//meta[@name="Last-Modified"]/@content').extract())))
+                #date =  parseDate(unicode(' '.join(response.xpath('//div[@class="story-timedate"]//text()').extract()).replace(u'\xa0',' ')))
+                item["date"] = date.strftime('%Y-%m-%d')
+                item["year"] = date.year
+                item["month"] = date.month
+                item["day"] = date.day
+                item["day_of_week"] = date.weekday()
+                #dateItem = dateItem.split("|")
+                #item["author"] = ""
+                #if(len(dateItem) > 2):
+                #    item["author"] = dateItem[0]
+                #if(len(item["author"]) < 4 ):
+                #    item["author"] = unicode(''.join(response.xpath('//*[@class="auth_detail"]/text()').extract()))
+                item["author"] =""
+                item["focus"] = unicode(''.join(response.xpath('//meta[@name="description"]/@content').extract()))
                 item["article"] = unicode(' '.join(response.xpath('//div[@class="Normal"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["origin"]="TOI"
                 yield item

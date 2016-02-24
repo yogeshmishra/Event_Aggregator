@@ -3,6 +3,12 @@ from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from statesman.items import NewsItem
 import datetime
+import dateutil.parser as dparser
+
+def parseDate( date_string):
+        return dparser.parse(date_string, fuzzy=True)
+
+
 
 class StatesmanSpider(Spider):
         name = "statesman"
@@ -58,7 +64,13 @@ class StatesmanSpider(Spider):
                 item["category"] = unicode(''.join(response.xpath('//div[@class="StoryCat"]/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["title"] = unicode(''.join(response.xpath('//title/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["author"] = unicode(' '.join(response.xpath('//div[@id="ctl00_ContentPlaceHolder2_Author"]//b/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
-                item["date"] = unicode(' '.join(response.xpath('//div[@id="ctl00_ContentPlaceHolder2_getdate"]//b/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                date = parseDate(unicode(' '.join(response.xpath('//div[@id="ctl00_ContentPlaceHolder2_getdate"]//b/text()').extract()).replace("\n","").replace("\t","").replace("\r","")))
+                #date =  parseDate(unicode(' '.join(response.xpath('//div[@class="story-timedate"]//text()').extract()).replace(u'\xa0',' ')))
+                item["date"] = date.strftime('%Y-%m-%d')
+                item["year"] = date.year
+                item["month"] = date.month
+                item["day"] = date.day
+                item["day_of_week"] = date.weekday()
                 item["focus"] = unicode(''.join(response.xpath('//meta[@property="description"]/@content').extract()))
                 item["article"] = unicode(' '.join(response.xpath('//div[@id="contentStory"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["origin"] = "STATESMAN"
