@@ -36,5 +36,5 @@ class NYtimesSpider(Spider):
                 item["author"] = unicode(response.xpath('//meta[@name="byl"]/@content').extract()[0])
                 item["date"] = unicode(response.xpath('//meta[@name="dat"]/@content').extract()[0])
                 item["article"] = response.xpath('//p/text()').extract()
-                item["origin"]="NYTIMES"
+                item["origin"]="HINDU"
                 yield item

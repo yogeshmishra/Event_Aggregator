@@ -5,6 +5,7 @@ sudo apt-get install libxml2-dev libxslt1-dev python-dev
 pip install scrapy
 pip install pyelasticsearch
 
+pip install python-dateutil
 pip install scrapyjs
 
 sudo apt-get update
