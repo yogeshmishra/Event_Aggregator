@@ -2,6 +2,10 @@ import scrapy
 from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from ET.items import NewsItem
+import dateutil.parser as dparser
+
+def parseDate( date_string):
+        return dparser.parse(date_string, fuzzy=True)
 
 class ETSpider(Spider):
         name = "ET"
@@ -42,13 +46,18 @@ class ETSpider(Spider):
                 item["category"] = unicode(','.join(response.xpath('//span[@typeof="v:Breadcrumb"]//a/text()').extract()[1:]))
                 item["keywords"] = unicode(''.join(response.xpath('//meta[@name="news_keywords"]/@content').extract()))
                 item["title"] = unicode(''.join(response.xpath('//h1[@class="title"]/text()').extract()))
-                dateItem = unicode(''.join(response.xpath('//div[@class="byline"]/text()').extract())) 
-                dateItem = dateItem.split("|")
-                item["author"] = ""
-                if(len(dateItem) > 2):
-                    item["author"] = dateItem[0]
-                item["date"] = dateItem[len(dateItem) - 1]
-                item["focus"] = ""
+                date = parseDate(unicode(''.join(response.xpath('//div[@class="byline"]/text()').extract())))
+                #dateItem = dateItem.split("|")
+                author = unicode(''.join(response.xpath('//div[@class="byline"]//text()').extract())).split('|')
+                if(len(author) >= 1):
+                    item["author"] = author[0]
+                else:
+                    item["author"] = ""
+                item["date"] = date.strftime('%Y-%m-%d')
+                item["year"] = date.year
+                item["month"] = date.month
+                item["day"] = date.day
+                item["focus"] = unicode(''.join(response.xpath('//meta[@name="description"]/@content').extract()))
                 item["article"] = unicode(' '.join(response.xpath('//div[@class="Normal"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["origin"]="ET"
                 yield item

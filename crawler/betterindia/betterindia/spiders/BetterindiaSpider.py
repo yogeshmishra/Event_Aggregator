@@ -3,6 +3,11 @@ from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from betterindia.items import NewsItem
 import datetime
+import dateutil.parser as dparser
+
+def parseDate( date_string):
+        return dparser.parse(date_string, fuzzy=True)
+
 
 class BetterindiaSpider(Spider):
         name = "betterindia"
@@ -52,7 +57,12 @@ class BetterindiaSpider(Spider):
                 item["category"] = unicode(''.join(response.xpath('//meta[@property="article:section"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["title"] = unicode(''.join(response.xpath('//title/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["author"] = unicode(' '.join(response.xpath('//div[@class="cb-author"]//a/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
-                item["date"] = unicode(' '.join(response.xpath('//meta[@property="article:published_time"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                date = parseDate(unicode(' '.join(response.xpath('//meta[@property="article:published_time"]/@content').extract()).replace("\n","").replace("\t","").replace("\r","")))
+                item["date"] = date.strftime('%Y-%m-%d')
+                item["year"] = date.year
+                item["month"] = date.month
+                item["day"] = date.day
+                item["day_of_week"] = date.weekday()
                 item["focus"] = unicode(''.join(response.xpath('//meta[@name="description"]/@content').extract()))
                 item["article"] = unicode(' '.join(response.xpath('//section[@itemprop="articleBody"]//p/text() | //section[@itemprop="articleBody"]//h2/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                 item["origin"] = "BETTER_INDIA"

@@ -13,6 +13,7 @@ class NewsItem(Item):
     # define the fields for your item here like:
     # name = Field()
     link = Field()
+    keywords =Field()
     category = Field()
     title = Field()
     author = Field()
@@ -23,5 +24,6 @@ class NewsItem(Item):
     day_of_week = Field()
     article = Field()
     location = Field()
+    focus=Field()
     origin = Field()
     pass
