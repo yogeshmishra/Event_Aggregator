@@ -3,9 +3,10 @@
 3.  TIMES OF INDIA              --> DONE
 4.  THE TELEGRAPH               --> FAILED
 5.  ECONOMIC TIMES              --> DONE
-6.  FINANCIAL EXPRESS           --> PICKED_yOgesh
+6.  FINANCIAL EXPRESS           --> FAILED 
 7.  THE STATESMAN               --> DONE 
 8.  BUSINESS STANDARD           -->
 9.  ASSAM TRIBUNE               -->
 10. NDTV                        --> DONE
 11. DAILYEXCELSIOR              -->
+12. FirstPost			--> DONE 
