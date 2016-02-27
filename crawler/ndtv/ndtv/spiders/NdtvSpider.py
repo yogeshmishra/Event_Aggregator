@@ -2,6 +2,12 @@ import scrapy
 from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from ndtv.items import NewsItem
+import dateutil.parser as dparser
+
+def parseDate( date_string):
+        return dparser.parse(date_string, fuzzy=True)
+
+
 
 class NdtvSpider(Spider):
         name = "ndtv"
@@ -49,7 +55,12 @@ class NdtvSpider(Spider):
                     item["category"] = unicode(''.join(response.xpath('//meta[@property="category"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["title"] = unicode(''.join(response.xpath('//title/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["author"] = ""
-                    item["date"] = unicode(''.join(response.xpath('//meta[@name="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                    date = parseDate(unicode(''.join(response.xpath('//meta[@property="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r","")))
+                    item["date"] = date.strftime('%Y-%m-%d')
+                    item["year"] = date.year
+                    item["month"] = date.month
+                    item["day"] = date.day
+                    item["day_of_week"] = date.weekday()
                     item["focus"] = unicode(' '.join(response.xpath('//h1[@itemprop="headline"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["article"] = unicode(' '.join(response.xpath('//div[@itemprop="description"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["origin"] = "NDTV"
@@ -61,7 +72,13 @@ class NdtvSpider(Spider):
                     item["category"] = unicode(''.join(response.xpath('//meta[@property="category"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["title"] = unicode(''.join(response.xpath('//title/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["author"] = unicode(' '.join(response.xpath('//div[@class="dateline"]/a/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
-                    item["date"] = unicode(''.join(response.xpath('//meta[@name="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                    #item["date"] = unicode(''.join(response.xpath('//meta[@name="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                    date = parseDate(unicode(''.join(response.xpath('//meta[@name="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r","")))
+                    item["date"] = date.strftime('%Y-%m-%d')
+                    item["year"] = date.year
+                    item["month"] = date.month
+                    item["day"] = date.day
+                    item["day_of_week"] = date.weekday()
                     item["focus"] = unicode(' '.join(response.xpath('//p[@class="ins_mainimg_caption"]//text()').extract()))
                     item["article"] = unicode(' '.join(response.xpath('//div[@class="pdl200"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["origin"] = "NDTV"
@@ -73,7 +90,13 @@ class NdtvSpider(Spider):
                     item["category"] = unicode(''.join(response.xpath('//meta[@property="category"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["title"] = unicode(''.join(response.xpath('//title/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["author"] = unicode(' '.join(response.xpath('//div[@class="dateline"]/a/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
-                    item["date"] = unicode(''.join(response.xpath('//meta[@name="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                    #item["date"] = unicode(''.join(response.xpath('//meta[@name="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                    date = parseDate(unicode(''.join(response.xpath('//meta[@name="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r","")))
+                    item["date"] = date.strftime('%Y-%m-%d')
+                    item["year"] = date.year
+                    item["month"] = date.month
+                    item["day"] = date.day
+                    item["day_of_week"] = date.weekday()
                     item["focus"] = unicode(' '.join(response.xpath('//h2[@class="synopsis"]/text()').extract()))
                     item["article"] = unicode(' '.join(response.xpath('//div[@itemprop="articleBody"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["origin"] = "NDTV"
@@ -85,7 +108,13 @@ class NdtvSpider(Spider):
                     item["category"] = unicode(''.join(response.xpath('//meta[@property="section"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["title"] = unicode(''.join(response.xpath('//title/text()').extract()))
                     item["author"] = unicode(' '.join(response.xpath('//div[@class="ins_dateline"]//a/span/text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
-                    item["date"] = unicode(''.join(response.xpath('//meta[@property="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                    #item["date"] = unicode(''.join(response.xpath('//meta[@property="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r",""))
+                    date = parseDate(unicode(''.join(response.xpath('//meta[@property="publish-date"]/@content').extract()).replace("\n","").replace("\t","").replace("\r","")))
+                    item["date"] = date.strftime('%Y-%m-%d')
+                    item["year"] = date.year
+                    item["month"] = date.month
+                    item["day"] = date.day
+                    item["day_of_week"] = date.weekday()
                     item["focus"] = unicode(''.join(response.xpath('//meta[@property="description"]/@content').extract()))
                     item["article"] = unicode(' '.join(response.xpath('//div[@itemprop="articleBody"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
                     item["origin"]="NDTV"

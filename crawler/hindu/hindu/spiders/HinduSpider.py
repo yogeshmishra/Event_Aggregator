@@ -2,6 +2,10 @@ import scrapy
 from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from hindu.items import NewsItem
+import dateutil.parser as dparser
+
+def parseDate( date_string):
+        return dparser.parse(date_string, fuzzy=True)
 
 class HinduSpider(Spider):
         name = "hindu"
@@ -11,8 +15,8 @@ class HinduSpider(Spider):
         #       start_urls.append("http://spiderbites.nytimes.com/free_" + str(x) + "/index.html")
         start_urls =[]
         for year in range(2015,2016):
-            for month in range(1,12):
-                for day in range(1,31):
+            for month in range(1,13):
+                for day in range(1,32):
                     start_urls.append("http://www.thehindu.com/archive/web/"+ str(year) +"/"+ str(month).zfill(2) +"/"+ str(day).zfill(2) +"/")
         #start_urls = ["http://www.thehindu.com/archive/web/2016/01/01/"]
         baseURL1 = ""
@@ -46,11 +50,17 @@ class HinduSpider(Spider):
                 item = NewsItem()
 
                 item["link"] = unicode(response.url)
-                item["category"] = unicode(','.join(response.xpath('//h3[@class="cat"]/a/text()').extract()))
-                item["title"] = unicode(response.xpath('//h1[@class="detail-title"]/text()').extract())
-                item["author"] = unicode(','.join(response.xpath('//span[@class="artauthor"]//li/text()').extract()))
-                item["date"] = unicode(''.join(response.xpath('//div[@class="artPubUpdate"]/text()').extract()).replace('Updated:','').replace("\n","").replace("\t","").replace("\r",""))
-                item["focus"] = unicode(' '.join(response.xpath('//div[@class="articleLead"]//text()').extract()))
-                item["article"] = unicode(' '.join(response.xpath('//div[@class="article-text"]//p[@class="body"]/text()').extract()).replace("\n","").replace("\t",""))
+                item["keywords"] = unicode(''.join(response.xpath('//meta[@name="news_keywords"]/@content').extract()))
+                item["category"] = unicode(','.join(response.xpath('//meta[@property="article:section"]/@content').extract()))
+                item["title"] = unicode(' '.join(response.xpath('//meta[@property="og:title"]/@content').extract()))
+                item["author"] = unicode(','.join(response.xpath('//meta[@name="author"]/@content').extract()))
+                date = parseDate(unicode(' '.join(response.xpath('//meta[@property="article:published_time"]/@content').extract())))
+                item["date"] = date.strftime('%Y-%m-%d')
+                item["year"] = date.year
+                item["month"] = date.month
+                item["day"] = date.day
+                item["day_of_week"] = date.weekday()
+                item["focus"] = unicode(' '.join(response.xpath('//meta[@name="description"]/@content').extract())).replace("\n","").replace("\t","")
+                item["article"] = unicode(' '.join(response.xpath('//div[@class="article-text"]//p[@class="body"]/text()').extract()).replace("\n","").replace("\t","").replace(u'\xa0',' '))
                 item["origin"]="THE_HINDU"
                 yield item

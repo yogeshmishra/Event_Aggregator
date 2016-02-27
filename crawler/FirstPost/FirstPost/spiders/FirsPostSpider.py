@@ -3,6 +3,11 @@ from scrapy.spiders import Spider
 from scrapy.selector import Selector
 from FirstPost.items import NewsItem
 
+import dateutil.parser as dparser
+
+def parseDate( date_string):
+    return dparser.parse(date_string, fuzzy=True)
+
 class FirstPostSpider(Spider):
         name = "FirstPost"
         #allowed_domains = [""]
@@ -52,9 +57,14 @@ class FirstPostSpider(Spider):
                 item["category"] = unicode(','.join(response.xpath('//span[@itemprop="title"]/text()').extract()[1:]))
                 item["keywords"] = unicode(''.join(response.xpath('//meta[@name="news_keywords"]/@content').extract()))
                 item["title"] = unicode(''.join(response.xpath('//h1[@class="artTitle"]/text()').extract()))
-                item["date"] = unicode(''.join(response.xpath('//div[@class="lCont"]/text()').extract()))
+                date = parseDate(unicode(''.join(response.xpath('//meta[@property="article:published_time"]/@content').extract())))
+                item["date"] = date.strftime('%Y-%m-%d')
+                item["year"] = date.year
+                item["month"] = date.month
+                item["day"] = date.day
+                item["day_of_week"] = date.weekday()
                 item["author"] = unicode(''.join(response.xpath('//span[@class="by"]/a/text()').extract())) 
-                item["focus"] = ""
+                item["focus"] = unicode(''.join(response.xpath('//meta[@name="description"]/@content').extract()))
                 item["article"] = unicode(' '.join(response.xpath('//div[@class="fullCont1"]//text()').extract()).replace("\n","").replace("\t","").replace("\r",""))
-                item["origin"]="FirstPost"
+                item["origin"]="FIRST_POST"
                 yield item

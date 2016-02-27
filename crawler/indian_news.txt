@@ -1,12 +1,12 @@
 1.  THE BETTER INDIA            --> DONE 
 2.  THE HINDU                   --> DONE 
 3.  TIMES OF INDIA              --> DONE
-4.  THE TELEGRAPH               --> FAILED
+4.  INDIA TODAY                 --> DONE 
 5.  ECONOMIC TIMES              --> DONE
-6.  FINANCIAL EXPRESS           --> FAILED 
+6.  FINANCIAL EXPRESS           --> DONE (DATA UPTO 2014)
 7.  THE STATESMAN               --> DONE 
-8.  BUSINESS STANDARD           -->
+8.  BUSINESS STANDARD           --> PICKUP 
 9.  ASSAM TRIBUNE               -->
 10. NDTV                        --> DONE
 11. DAILYEXCELSIOR              -->
-12. FirstPost			--> DONE 
+12. FIRST POST                  --> DONE 
