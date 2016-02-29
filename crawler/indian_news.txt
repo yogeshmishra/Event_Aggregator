@@ -8,5 +8,6 @@
 8.  BUSINESS STANDARD           --> DONE( RUn Scrapy with sudo, im unable to do) 
 9.  ASSAM TRIBUNE               -->
 10. NDTV                        --> DONE
-11. DAILYEXCELSIOR              -->
-12. FIRST POST                  --> DONE 
+11. DAILYEXCELSIOR              --> DONE
+12. FIRST POST                  --> DONE
+13. LiveMint			--> 
