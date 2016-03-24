@@ -18,7 +18,8 @@ NEWSPIDER_MODULE = 'FirstPost.spiders'
 ITEM_PIPELINES = {# 'FirstPost.pipelines.FirstpostPipeline':1}
 'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
 
-ELASTICSEARCH_SERVER = 'localhost' # If not 'localhost' prepend 'http://'
+#ELASTICSEARCH_SERVER = 'localhost' # If not 'localhost' prepend 'http://'
+ELASTICSEARCH_SERVER = 'http://db03.cs.utah.edu' # If not 'localhost' prepend 'http://'
 ELASTICSEARCH_PORT = 9200 # If port 80 leave blank
 ELASTICSEARCH_USERNAME = ''
 ELASTICSEARCH_PASSWORD = ''
@@ -42,9 +43,9 @@ HTTPCACHE_STORAGE = 'scrapyjs.SplashAwareFSCacheStorage'
 # Configure a delay for requests for the same website (default: 0)
 # See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-#DOWNLOAD_DELAY=3
+DOWNLOAD_DELAY=1
 # The download delay setting will honor only one of:
-#CONCURRENT_REQUESTS_PER_DOMAIN=16
+CONCURRENT_REQUESTS_PER_DOMAIN=10
 #CONCURRENT_REQUESTS_PER_IP=16
 
 # Disable cookies (enabled by default)
