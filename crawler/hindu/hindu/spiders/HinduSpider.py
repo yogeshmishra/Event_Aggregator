@@ -14,7 +14,7 @@ class HinduSpider(Spider):
         #for x in xrange(1860,1865):
         #       start_urls.append("http://spiderbites.nytimes.com/free_" + str(x) + "/index.html")
         start_urls =[]
-        for year in range(2015,2016):
+        for year in range(2015,2017):
             for month in range(1,13):
                 for day in range(1,32):
                     start_urls.append("http://www.thehindu.com/archive/web/"+ str(year) +"/"+ str(month).zfill(2) +"/"+ str(day).zfill(2) +"/")
