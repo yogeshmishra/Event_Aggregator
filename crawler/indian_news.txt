@@ -5,8 +5,9 @@
 5.  ECONOMIC TIMES              --> DONE
 6.  FINANCIAL EXPRESS           --> DONE (DATA UPTO 2014)
 7.  THE STATESMAN               --> DONE 
-8.  BUSINESS STANDARD           --> PICKUP 
+8.  BUSINESS STANDARD           --> DONE( RUn Scrapy with sudo, im unable to do) 
 9.  ASSAM TRIBUNE               -->
 10. NDTV                        --> DONE
-11. DAILYEXCELSIOR              -->
-12. FIRST POST                  --> DONE 
+11. DAILYEXCELSIOR              --> DONE
+12. FIRST POST                  --> DONE
+13. LiveMint			--> 
