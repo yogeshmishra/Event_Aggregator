@@ -15,8 +15,8 @@ BOT_NAME = 'daily_excelsior'
 SPIDER_MODULES = ['daily_excelsior.spiders']
 NEWSPIDER_MODULE = 'daily_excelsior.spiders'
 
-ITEM_PIPELINES = { 'daily_excelsior.pipelines.DailyExcelsiorPipeline':1}
-#'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
+ITEM_PIPELINES = { #'daily_excelsior.pipelines.DailyExcelsiorPipeline':1}
+'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
 
 #ELASTICSEARCH_SERVER = 'localhost' # If not 'localhost' prepend 'http://'
 ELASTICSEARCH_SERVER = 'http://db03.cs.utah.edu' # If not 'localhost' prepend 'http://'

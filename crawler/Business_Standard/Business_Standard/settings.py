@@ -15,8 +15,8 @@ BOT_NAME = 'Business_Standard'
 SPIDER_MODULES = ['Business_Standard.spiders']
 NEWSPIDER_MODULE = 'Business_Standard.spiders'
 
-ITEM_PIPELINES = { 'Business_Standard.pipelines.BusinessStandardPipeline':1}
-#'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
+ITEM_PIPELINES = { #'Business_Standard.pipelines.BusinessStandardPipeline':1}
+'scrapyelasticsearch.scrapyelasticsearch.ElasticSearchPipeline':1}
 
 #ELASTICSEARCH_SERVER = 'localhost' # If not 'localhost' prepend 'http://'
 ELASTICSEARCH_SERVER = 'http://db03.cs.utah.edu' # If not 'localhost' prepend 'http://'

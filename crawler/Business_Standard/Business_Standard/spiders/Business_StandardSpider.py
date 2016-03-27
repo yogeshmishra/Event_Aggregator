@@ -8,9 +8,9 @@ class Business_StandardSpider(Spider):
         #allowed_domains = [""]
         start_urls = []
         for year in range(2015,2017):
-            for month in range(1,2):
-		for day in range(1,2):
-		    for page in (1,2):  
+            for month in range(1,13):
+		for day in range(1,32):
+		    for page in range(1,10):  
                 	start_urls.append("http://www.business-standard.com/advance-search?advance=Y&type=print-media&print_date=" + str(day) +"-" + str(month) +"-"+ str(year) + "&itemsPerPage=19&page=" + str(page))
         baseURL1 = "http://www.business-standard.com"
         baseURL2 =  "http://www.business-standard.com"

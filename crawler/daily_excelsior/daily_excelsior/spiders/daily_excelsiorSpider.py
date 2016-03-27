@@ -9,7 +9,7 @@ class daily_excelsiorSpider(Spider):
         start_urls = []
         for year in range(2015,2017):
             for month in range(1,13):
-		for day in range(1,31):
+		for day in range(1,32):
                     start_urls.append("http://www.dailyexcelsior.com/" + str(year)+ "/" + str(month) + "/" + str(day)+ "/")
 	baseURL1 = ""
         baseURL2 =  ""
