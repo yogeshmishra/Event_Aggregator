@@ -22,6 +22,8 @@ bootstrap/
 *.rar
 *.tar
 *.zip
+.*
+*~
 
 # Logs and databases #
 ######################
@@ -38,3 +40,4 @@ bootstrap/
 .Trashes
 ehthumbs.db
 Thumbs.db
+*topic_modeling/ToPMine/topicalPhrases/TopicalPhrases/.metadata
