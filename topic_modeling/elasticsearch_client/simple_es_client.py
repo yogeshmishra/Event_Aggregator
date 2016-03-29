@@ -1,4 +1,5 @@
 import json
+import sys
 from elasticsearch import Elasticsearch
 
 es = Elasticsearch(hosts=[{'host':'db03.cs.utah.edu'},{'host':'db04.cs.utah.edu'}])
@@ -12,8 +13,8 @@ def create_lda_input_files(size=5000, filename="articles.txt"):
         "query": {
            "bool": {
                 "must": [
-                       #{ "match": { "month": "2" } },
-                       {"match": {"year":2016}}
+                       { "match": { "month": 12 } },
+                       {"match": {"year":2015}}
                               
                                    ]
                                       }
@@ -21,7 +22,7 @@ def create_lda_input_files(size=5000, filename="articles.txt"):
                                         "sort" : 
                                                { "date" : {"order" : "desc"}},
                                                       
-                                                       "size":5000,
+                                                       "size":size,
                                                         "from":from_value
                                                         
                                                         })
@@ -38,5 +39,13 @@ def create_lda_input_files(size=5000, filename="articles.txt"):
                     f.write("\n")
                     f1.write("\n")
 
-
-create_lda_input_files()
+if __name__=="__main__":
+    s = 5000
+    f="articles.txt"
+    if len(sys.argv) == 3:
+        s = int(sys.argv[1])
+        f= sys.argv[2]
+    elif len(sys.argv)==2:
+        s = int(sys.argv[1])
+        
+    create_lda_input_files(size=s,filename=f)
