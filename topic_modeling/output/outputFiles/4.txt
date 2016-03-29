@@ -1,3 +1,871 @@
-Narendra Modi	6
-KU wins first chancellor s award	4
-Auto Expo	3
+Rahul Gandhi	279
+Delhi government	247
+West Bengal	246
+Cricket News	222
+South Africa	210
+Sonia Gandhi	207
+Federal Reserve	199
+Air India	169
+South Africa in India Series	149
+National Herald case	140
+Make in India	130
+Venkaiah Naidu	121
+High Court	119
+air pollution	119
+Aam Aadmi Party	118
+Delhi High Court	117
+Trinamool Congress	116
+Delhi Police	112
+Sun Pharma	110
+silicon valley	109
+Samajwadi Party	105
+South Korea	101
+India Pakistan	101
+national capital	99
+United Nations	96
+World Bank	95
+Congress leader	93
+West Indies	91
+Coal India	90
+South China Sea	89
+Subramanian Swamy	84
+BJP leader	79
+Amit Shah	78
+Hong Kong	77
+Delhi pollution	75
+Congress BJP	74
+National Herald	72
+AAP government	72
+Security Council	72
+central bank	71
+Kiren Rijiju	69
+assembly polls	68
+Yuvraj Singh	68
+Aam Aadmi Party  AAP	68
+Ravindra Jadeja	67
+civic body	67
+Hamid Ansari	66
+Atal Bihari Vajpayee	65
+Nirmala Sitharaman	64
+Rafael Nadal	64
+black money	64
+Rajiv Gandhi	61
+South Asia	60
+Reserve Bank of India	60
+central government	59
+Communist Party	58
+Niti Aayog	58
+Sonia Gandhi Rahul Gandhi	57
+money laundering	57
+South Korean	57
+Mahendra Singh Dhoni	56
+Brendon McCullum	56
+Sartaj Aziz	56
+VK Singh	55
+Roger Federer	55
+national highway	54
+Feroz Shah Kotla	53
+Tarun Gogoi	52
+South African	51
+North Korea	51
+Election Commission	51
+Aurobindo Pharma	51
+Middle East	51
+Digital India	50
+Maneka Gandhi	50
+police station	50
+Delhi cricket body	50
+opposition party	49
+assembly elections	49
+Congress president Sonia Gandhi	49
+India China	49
+Pakistan Cricket Board	48
+air quality	48
+Axis Bank	47
+political vendetta	47
+Indira Gandhi	47
+Kashmir Valley	46
+Shashi Tharoor	45
+Federal Reserve economy	45
+Board of Control for Cricket in India	44
+iron ore	44
+issued notices	44
+Dow Jones	43
+Mahesh Sharma	43
+Cricket in India	43
+Delhi Metro	43
+North India	43
+Legislative Council	42
+Enforcement Directorate	42
+vice president	42
+Delhi University	41
+party leaders	41
+Rohit Sharma	41
+local body	41
+Mann ki Baat	40
+Mahatma Gandhi	40
+BJP lawmaker	40
+IDBI Bank	39
+interest rates	38
+natural gas	38
+DDCA scam	38
+Chandrababu Naidu	38
+judicial custody	38
+Boxing Day	38
+Congress members	37
+International Cricket Council	37
+News   South Africa India	36
+State Bank Of India	36
+Congress party	36
+political parties	36
+Atletico de Kolkata	36
+Authority of India	36
+Delhi Dynamos	35
+December  gangrape	35
+birth anniversary	35
+South Delhi	35
+Sitaram Yechury	34
+Delhi Commission for Women	34
+China s yuan	34
+Benjamin Netanyahu	34
+Chandrasekhar Rao	34
+West Bank	34
+interest rate Federal Reserve	34
+coal mine	34
+Parliamentary panel	34
+Delhi Assembly	33
+BS Bassi	33
+Las Vegas	33
+MS Dhoni	33
+Anup Chetia	32
+law and order	32
+Delhi cricket body DDCA	32
+Delhi and District Cricket Association	32
+AB de Villiers	32
+Satya Nadella	31
+LK Advani	31
+Nestle India	31
+Vijender Singh	31
+Akali Dal	31
+Court today	31
+Congress Protests	31
+Congress vice president Rahul Gandhi	30
+Congress today	30
+China and India	30
+hits back	30
+El Nino	30
+BJP MP	30
+Central Railway	30
+European Central Bank	29
+pollution levels	29
+BJP president	29
+National Security Advisors	29
+Jyoti Singh	29
+Gujarat High Court	29
+pollution Delhi	29
+Rahul Dravid	29
+Cricket News   Pakistan	28
+Bank of Baroda	28
+National Security	28
+BJP Congress	28
+International Airport	28
+South Asian	28
+UltraTech Cement	28
+alleged corruption	28
+clean chit	28
+Cricket Association	28
+Cairn India	28
+Jurgen Klopp	28
+Delhi court	27
+Metro Rail	27
+Thomas Cook	27
+Elon Musk	27
+Janata Dal	27
+Delhi traffic	27
+government is set	26
+Court order	26
+Sonia and Rahul Gandhi	26
+foundation stone	26
+Air India flight	26
+National Disaster	26
+Sunil Gavaskar	26
+BNP Paribas	26
+police custody	25
+BJP today	25
+Test series	25
+till January	25
+India Cements	25
+India vs South Africa	25
+Ahmet Davutoglu	25
+civic polls	25
+interest rates Inflation	25
+metro station	25
+granted bail	25
+corruption case	24
+air traffic	24
+Pollution Control Board	24
+coal block	24
+corruption scandal	23
+Clean Ganga	23
+Delhi air pollution	23
+till December	23
+National Food Security Act	23
+alternate days	23
+Shaun Marsh	23
+BR Ambedkar	23
+bail plea	22
+Australia shares	22
+Left Front	22
+special court	22
+bodies found	22
+opposition leader	22
+DDCA row	22
+China landslide	22
+Congress Committee	21
+Bank of India	21
+death anniversary	21
+Rupee vs dollar	21
+Punjab and Haryana	21
+Shiromani Akali Dal	21
+Competition Commission of India	21
+Delhi and District Cricket Association  DDCA	21
+cricket body	21
+vendetta politics	21
+dollar Rupee	21
+BJP MLA	21
+state government	21
+Delhi air quality	21
+Cricket Board	20
+Beijing smog	20
+Robert Vadra	20
+Food Security	20
+Christine Lagarde	20
+Airports Authority of India	20
+staged a protest	20
+Republic Day	20
+Legislative Assembly	20
+China pollution	20
+Amitabh Bachchan	20
+West Bengal Trinamool Congress	20
+make a statement	20
+trial court	20
+Cricket   Board of Control	20
+India ranks	20
+Delhi Daredevils	20
+industry body	20
+Yoga guru	20
+Morning In Delhi	20
+Martina Hingis	20
+AAP leaders	20
+Assam Chief Minister Tarun Gogoi	19
+Delhi cricket	19
+China central bank	19
+Development Authority	19
+Peter Mukerjea	19
+tight security	19
+Haryana and Punjab	19
+Anupam Kher	19
+registered a case	19
+BCCI Cricket	19
+Prashant Bhushan	19
+India Japan	19
+Rank One Pension	19
+developed nations	19
+Uniform Civil Code	19
+University Grants Commission	19
+Indrani Mukerjea	19
+Democratic Party	19
+Manuel Valls	18
+Chris Cairns	18
+Commercial Bank	18
+Pakistan India	18
+chit fund scam	18
+Pollution Control	18
+Havells India	18
+TAPI pipeline	18
+Central Jail	18
+AAP Aam Aadmi Party	18
+Babri Masjid	18
+cases registered	18
+conflict of interest	18
+leader of opposition	18
+Test   Cricket	18
+noise pollution	18
+Kusal Perera	18
+Reserve Bank	18
+starting January	18
+Rahul Gandhi Narendra Modi	18
+district collectors	18
+Shivraj Singh Chouhan	17
+series win	17
+law enforcement	17
+Homeland Security	17
+cooking gas	17
+air quality index	17
+Dark Matter	17
+International Cricket	17
+Cricket   Pakistan	17
+traffic police	17
+Bajrang Dal	17
+black box	17
+Cricket News   India	17
+traffic jams	17
+paise to   against the US dollar	17
+Ajanta Pharma	17
+Hang Seng	17
+Natco Pharma	17
+Ishant Sharma	17
+extends deadline	17
+Todd Stern	17
+National Herald issue	17
+Popular Party	17
+Dena Bank	16
+Charles de Gaulle	16
+Australia Vs India  Cricket	16
+bribery case	16
+Canara Bank	16
+Bharatiya Janata Party	16
+gun control	16
+Central Pollution Control Board	16
+Scheduled Castes	16
+government Delhi	16
+series against India	16
+Bharatiya Janata Party  BJP	16
+Workers  Party	16
+today asked	16
+United Nations Security Council	16
+Kumari Selja	16
+Andhra Pradesh Chief Minister N Chandrababu Naidu	15
+Joe Biden	15
+government has approved	15
+bilateral series	15
+coal scam	15
+Gold Federal Reserve	15
+LPG subsidy	15
+Haryana government	15
+Congress president	15
+Harvard University	15
+India captain	15
+Labour Party	15
+Cricket News   West Indies Australia	15
+Delhi Weather Delhi	15
+invest interest rates	15
+Patiala House Court	14
+inquiry commission	14
+join hands	14
+Sonia Gandhi Rahul Gandhi National Herald	14
+Delhi pollution Delhi	14
+Test against South Africa	14
+IIT Kharagpur	14
+ICC Test	14
+curb pollution	14
+Cricket News   Pakistan India	14
+growth rate	14
+VK Singh Dog remark	14
+Security Council resolution	14
+Protesting Congress	14
+smog Beijing	13
+Hong Kong stocks	13
+Cricket News   New Zealand	13
+Beijing Air Pollution	13
+Saradha Scam	13
+China Beijing	13
+Cricket   Pakistan Cricket Board	13
+India Australia	13
+coal imports	13
+DDCA corruption	13
+government today	13
+Censor Board	13
+Dabur India	13
+Coal production	12
+Government proposes	12
+alleged corruption in the Delhi cricket body	12
+Herald case	12
+islands in the South China Sea	12
+Delhi air	12
+gas pipeline	12
+Minister Maneka Gandhi	12
+India making	12
+State Bank	12
+Rupee Rupee vs dollar	12
+South Africa in India	12
+bring back	12
+Federal Reserve equities	12
+Commission of Inquiry	12
+Air Pollution Delhi	12
+Delhi Traffic Police	12
+pollution Delhi pollution	12
+Subramanian Swamy Sonia Gandhi	12
+National Front	12
+complaint was filed	11
+Australia vs India   News	11
+Cricket News   Australia West Indies	11
+Kolkata airport	11
+Congress workers	11
+Australia vs India	11
+vice president Rahul Gandhi	11
+case National Herald	11
+Kerala BJP	11
+China smog	11
+Air quality in Delhi	11
+Sonia Gandhi Rahul Gandhi National Herald case	11
+magnitude earthquake	11
+Cricket Council	10
+Pakistan Cricket	10
+Day Test	10
+Dog remark	10
+BJP Assam	10
+Sonia and Rahul	10
+Delhi Transport	10
+Sonia Gandhi Rahul	10
+government has decided	10
+India   Cricket	10
+Punjab Congress	10
+National Herald case Congress	10
+financial markets Federal Reserve	10
+Rahul Gandhi Sonia Gandhi	10
+Court Dismisses	10
+Boxing News   Vijender Singh	10
+appeals court	9
+Test against West Indies	9
+Rahul Gandhi National Herald case	9
+gangrape case	9
+smog China	9
+markets Federal	9
+DDCA issue	9
+Delhi Weather	9
+today said government	9
+Cricket News   West Indies	9
+China stocks	9
+stocks interest rates	9
+economy China	9
+Minister M Venkaiah Naidu	9
+Delhi gangrape	9
+Police Delhi	9
+court on Tuesday	9
+Landslide China	9
+West Indies Australia	9
+National Herald Case Sonia Gandhi Rahul Gandhi	9
+Cricket   West Indies	8
+earthquake of   magnitude	8
+Japan India	8
+opposition Congress	8
+Saturday morning	8
+economy Federal Reserve	8
+senior leader	8
+Pharma stocks	8
+Cricket News   Australia	8
+BJP  Bharatiya Janata Party	8
+Asks Government	8
+India Series	8
+Ganga Clean	8
+Court Delhi	8
+Court Seeks	8
+today accused	8
+corruption in DDCA	8
+Beijing pollution	8
+News   India	8
+Cements India	8
+Boxing News	8
+Pakistan Cricket Board Cricket	8
+Delhi pollution Delhi air pollution	7
+Regulatory Authority	7
+pollution China	7
+India Digital	7
+West Indies   Cricket News	7
+GST rate	7
+Chief Minister Tarun Gogoi	7
+Centre asks	7
+pollution air pollution	7
+Delhi air pollution air pollution	7
+Court Asks	7
+Patiala House	7
+News   Australia India	7
+run case	7
+amend its constitution	7
+Naidu  Venkaiah	7
+Government Asks	7
+Chief Minister N Chandrababu Naidu	7
+today said the BJP	7
+Cricket   The International	7
+asks court	7
+president Sonia Gandhi	7
+Assam  BJP	7
+Congress National Herald case	7
+party workers	7
+filed a complaint	7
+Chicago police	7
+DDCA Delhi cricket body	7
+Leader  Congress	6
+Control of Pollution	6
+smog alert	6
+High Court today	6
+South China Sea island	6
+National Development	6
+China Sea	6
+India Air	6
+Aam Aadmi	6
+leaders party	6
+West Indies in the second Test	6
+Security Council United Nations	6
+Party Congress	6
+face challenges	6
+chit fund	6
+air pollution air pollution	6
+corruption allegations	6
+air in Delhi	6
+National Herald Case Rahul Gandhi	6
+Asian Games	6
+police registered	6
+police said today	6
+Food Security Act	6
+court in National Herald case	6
+Gandhi Rahul Gandhi	6
+Test  Day	6
+News   India South Africa	6
+Kerala government	5
+Delhi government Delhi	5
+pollution Delhi air pollution	5
+Airports Authority	5
+Sonia Gandhi National Herald Case	5
+Cricket   Delhi	5
+court on Wednesday	5
+BJP  Party	5
+Delhi government AAP	5
+government s decision	5
+Constitution Amendment	5
+government in Haryana	5
+VK Singh Dog	5
+China s economy	5
+West Indies Cricket	5
+gangrape December	5
+level of pollution	5
+South China	5
+China central	5
+Australia West Indies	5
+corruption in Delhi s cricket body	5
+Rahul Gandhi National Herald	4
+flight  An Air India	4
+Congress Behind Punjab	4
+set up by the government	4
+Pollution in Delhi Delhi	4
+Africa  South	4
+Inflation Federal Reserve	4
+AAP Delhi	4
+Nations Security Council	4
+Party  BJP	4
+Delhi Pollution air pollution in delhi	4
+asked the Centre	4
+Delhi Delhi Weather	4
+police  traffic	4
+India vs South Africa Delhi	4
+Cricket BCCI	4
+Delhi High	4
+Delhi Odd	4
+Congress  opposition	4
+Commission of India	4
+Gandhi National	4
+Singh today	4
+Beijing  China	4
+win series	4
+notices issued	4
+Congress vice president	4
+Bank Ltd    IDBI	4
+Delhi Air Pollution Delhi Pollution	4
+DDCA Delhi and District Cricket Association	4
+cricket Test	4
+Pakistan Mohammad	4
+today said the courts	4
+Federal Reserve s interest rate	4
+de Villiers	4
+railway station	4
+pollution Delhi air	4
+Delhi Delhi pollution	4
+Competition Commission	4
+University Delhi	4
+Party  AAP	4
+Gandhi Sonia	4
+United States	4
+Chinese President	4
+challenges faced	4
+AAP government Delhi	4
+News   Cricket	4
+Delhi AAP	4
+National Herald Case Sonia Gandhi	3
+News   Australia	3
+Court UN special	3
+court case National Herald	3
+Bharatiya Janata	3
+Atletico de	3
+Wednesday morning	3
+court  though trial	3
+Mukerjea Indrani	3
+Pollution Air	3
+station sent to Police	3
+Commission for Women	3
+News   South Africa	3
+president of the BJP	3
+Weather Delhi	3
+Cricket News   India Pakistan	3
+import Coal	3
+District Cricket Association	3
+today said that Congress	3
+Metro Delhi	3
+gangrape Delhi	3
+president Amit Shah	3
+state and Centre	3
+Ambedkar BR	3
+Federal Reserve  Gold	3
+government AAP	3
+Australia   Cricket News	3
+members of Congress	3
+Bengal  West	3
+Banks  The Reserve	3
+China South	3
+Rahul Gandhi Congress vice president	3
+Delhi Corruption	3
+Delhi Delhi Air Pollution	3
+High Court Delhi	3
+South Africa in Delhi	3
+Delhi pollution air	3
+Trinamool Congress  West Bengal	3
+India Bank	3
+Delhi Delhi Government	3
+today  police	3
+Gogoi  Tarun	3
+South Africa Test	3
+south India	3
+Gandhi National Herald case	3
+Air Pollution Delhi Pollution	3
+capital of National	3
+air pollution  pollution	3
+traffic Delhi	3
+Delhi Air Pollution Delhi	3
+mines Coal	3
+China Sea  South	2
+Delhi South	2
+bail granted	2
+India   Cricket News	2
+Narendra Modi Rahul Gandhi	2
+Assam Chief Minister	2
+Pollution Air Pollution Delhi	2
+government in Kerala	2
+interest rates interest rate	2
+registered a police	2
+AAP  The party	2
+seek court	2
+Rahul Gandhi Sonia Gandhi National Herald case	2
+Congress  Trinamool	2
+Pakistan   Cricket News   Pakistan India	2
+AAP Delhi government	2
+Mahendra Singh	2
+rates Inflation	2
+weather conditions	2
+Korea  South	2
+DDCA Delhi	2
+Scam Saradha	2
+West Bengal Chief Minister	2
+Korea North	2
+Delhi AAP government	2
+News   Pakistan India	2
+Meteorology India	2
+India Havells	2
+dollar  up  paise	2
+Party  samajwadi	2
+today said the High Court	2
+pollution Beijing	2
+odd even Delhi	2
+Gandhi  Maneka	2
+Pakistan India Pakistan	2
+alleged corruption in Delhi	2
+Delhi this morning	2
+series between India and South Africa	2
+National Herald  Sonia Gandhi Rahul Gandhi	2
+Africa in India	2
+BJP Kerala	2
+India Coal	2
+Air Pollution Delhi Pollution Delhi	2
+India and Africa	2
+cricket body DDCA	2
+Shivraj Singh	2
+series against South Africa  which India	2
+West Indies   Cricket News   Australia	2
+India Dabur	2
+parties for a political	2
+Chouhan  Shivraj Singh	2
+Control Board	2
+rate Federal Reserve	2
+Beijing Air	2
+MP BJP	2
+body polls	2
+ranked India	2
+Bank Axis	2
+Assembly Delhi	2
+found on the body	2
+Air Pollution Beijing	2
+Rahul Gandhi will preside	2
+air pollution Delhi air pollution	2
+Centre and state	2
+flights in India	2
+board Censor	2
+Pipeline  TAPI	2
+Selja Kumari	2
+Bank Canara	2
+Uniform Civil	2
+Rahul  Sonia Gandhi	2
+chief  West Bengal	2
+India s GDP	2
+South Africa New Delhi India	1
+Delhi cricket body corruption	1
+scam Coal	1
+caste  scheduled	1
+Bank commercial	1
+Kharagpur IIT	1
+Rupee vs dollar Rupee	1
+High Court Gujarat	1
+Gandhi National Herald	1
+Commission Delhi	1
+Delhi Cricket Corruption	1
+district near Delhi	1
+labour market	1
+quality Air	1
+National Herald Rahul Gandhi Sonia Gandhi	1
+rate decision	1
+Weather Delhi delhi	1
+Rao K Chandrasekhar	1
+Vadra  Robert	1
+Day  of the Boxing	1
+Sharma Ishant	1
+decision taken by his government	1
+Delhi cricket body corruption allegations	1
+National Rahul Gandhi	1
+de Gaulle	1
+African  South	1
+Dal Bajrang	1
+Act security	1
+Tarun Gogoi Assam Chief Minister	1
+Cricket Australia vs India	1
+Modi Mann ki Baat	1
+accused were today	1
+News   Pakistan	1
+Chandrababu Naidu  Andhra Pradesh Chief Minister	1
+Kolkata  Atletico de	1
+central bank  China	1
+Pollution Noise	1
+Chief Minister	1
+Pharma Sun	1
+Bank  World	1
+President  Congress	1
+elections assembly	1
+National Sonia Gandhi Rahul Gandhi	1
+Herald National	1
+Gandhi  Sonia Gandhi Rahul	1
+central China	1
+Dal  U  Janata	1
+Party Bharatiya Janata	1
+Federal Reserve rate	1
+Bank west	1
+University Harvard	1
+GDP India	1
+pollution curbs	1
+Gandhi Rahul Gandhi National Herald case	1
+police chief	1
+Bank State	1
+Monday morning	1
+Delhi pollution Delhi air	1
+Delhi Commission	1
+India flight	1
+Airport in Kolkata	1
+Yechury  Sitaram	1
+Gandhi Narendra Modi	1
+Board Cricket   Pakistan	1
+proposed by the government	1
+issue of the National Herald	1
+Swamy Sonia Gandhi	1
+Pollution Delhi Delhi pollution Air	1
+Shah  Amit	1
+case of corruption	1
+Panel  Parliamentary	1
+Australia   Cricket News   West Indies	1
+Modi government	1
+Herald issue	1
+Pradesh Chief Minister N Chandrababu Naidu	1
+Rating  Says Growth	1
+pension one rank	1
+vice president Rahul	1
+Herald case National	1
+Naidu  Chandrababu	1
+Kher  Anupam	1
+Swamy  Subramanian	1
+Pollution in Delhi Polluted Air	1
+Bengal Trinamool Congress	1
+Grants Commission	1
+pollution Delhi Air Pollution Air	1
+Paribas  BNP	1
+alert for smog	1
+Party Janata	1
+Pakistan   Cricket News	1
+quality of air in Delhi	1
+inflation and interest rate	1
+Sea China	1
+Court of Appeal	1
+Mann ki Baat Modi	1
+Railway Minister	1
+Delhi Pollution Pollution Air	1
+Council Cricket	1
+air  Beijing	1
+series    Former Test	1
+blocks coal	1
+Women s Commission	1
+president and vice	1
+air pollution  pollution  delhi	1
+hit and run	1
+Trinamool Congress through  rathayatras  across Bengal	1
+Tuesday morning	1
+National Herald case Rahul Gandhi Sonia Gandhi	1
+nation unit	1
+Commission Elections	1
+Sharma  Mahesh	1
+Biden  Joe	1
+members of a family	1
+interest rates stocks	1
+Pharma Ltd    Aurobindo	1
+Miss Universe	1
+rail metro	1
+India Nestle	1
+traffic Air	1
+World No   in ICC	1
+chief of Delhi	1
+Delhi Chief	1
+Advani LK	1
+corruption in Delhi	1
+Party Communist	1
+Cement UltraTech	1
+European shares	1
+case National Herald Congress	1
+Railways Central	1
+Aadmi Party  AAP	1
+stocks Pharma	1
+Cook Thomas	1
+Delhi DDCA	1
+pipeline for gas	1
+AAP Aaam Aadmi Party	1
+captain and All India	1
+Cricket Corruption Delhi	1
+National Food Security	1
+jams    Traffic	1
+Nadella Satya	1
+scam DDCA	1
+Delhi s air Delhi pollution	1
+Resolution UN Security Council	1
+subsidies LPG	1
+deadline for which was extended	1
+leader in the BJP	1
+Delhi pollution air pollution	1
+Gold import	1
+stocks China	1
+Rahul Gandhi Sonia	1
+Asia South	1
+row DDCA	1
+station Metro	1
+Baroda Bank	1

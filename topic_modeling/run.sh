@@ -1,6 +1,6 @@
 #!/bin/bash
 
-inputFile='/media/yogesh/19AB173F35236A3F/Courses/Spring-2016/DM/Project/Event_Aggregator/topic_modeling/elasticsearch_client/articles2.txt'
+inputFile='../rawFiles/articles.txt' 
 # minimum phrase frequency
 minsup=10
 #maximum size of phrase (number of words)
@@ -18,6 +18,7 @@ optimizationBurnIn=100
 alpha=2
 #optimize hyperparameters every n iterations
 optimizationInterval=50
+python simple_es_client.py $1 $2 $3 $4 
 cd TopicalPhrases 
 #Run Data preprocessing
 ./runDataPreparation.sh $inputFile

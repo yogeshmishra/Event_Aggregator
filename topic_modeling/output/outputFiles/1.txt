@@ -1,3 +1,628 @@
-Narendra Modi	7
-KU wins first chancellor s award	3
-Auto Expo	2
+Barack Obama	392
+Donald Trump	367
+Andhra Pradesh	261
+Uttar Pradesh	250
+President Barack Obama	189
+Madhya Pradesh	181
+White House	170
+Hillary Clinton	169
+oil prices	162
+Vladimir Putin	154
+Virat Kohli	151
+Municipal Corporation	149
+Salman Khan	143
+President Pranab Mukherjee	129
+Pranab Mukherjee	107
+Arunachal Pradesh	98
+degrees Celsius	97
+Ravichandran Ashwin	93
+Bharti Airtel	92
+Ajinkya Rahane	91
+Mark Zuckerberg	89
+Solar power	89
+Reliance communications	85
+Reliance Jio	85
+Boko Haram	85
+Himachal Pradesh	83
+Morgan Stanley	79
+Reliance Industries	79
+Piyush Goyal	77
+Net neutrality	76
+International Airport	73
+Mohammad Amir	70
+Crude oil	68
+John Kerry	67
+solar energy	64
+Lionel Messi	62
+Mahindra   Mahindra	61
+higher education	59
+Rio Olympics	56
+Dharmendra Pradhan	55
+rape case	55
+red alert	54
+railway station	54
+Republican presidential	53
+venture capital	52
+Angela Merkel	52
+Vasundhara Raje	51
+murder case	51
+Essar Oil	51
+International Space Station	50
+power plants	49
+Idea Cellular	47
+Juvenile Justice Bill	46
+Bill Gates	46
+Jiah Khan	45
+JP Nadda	45
+Tech Mahindra	44
+Hashim Amla	43
+Mufti Mohammad Sayeed	43
+Indian students	43
+Secretary of State John Kerry	42
+joint venture	42
+mobile phone	42
+swine flu	42
+renewable energy	42
+panchayat polls	42
+Shakur Basti	41
+Anirban Lahiri	41
+Shah Rukh Khan	40
+nuclear power	40
+Azam Khan	40
+TS Thakur	40
+Ted Cruz	39
+crude oil prices	39
+Bayern Munich	38
+Oscar Pistorius	38
+Medical College	38
+Credit Suisse	38
+Francois Hollande	37
+President Vladimir Putin	37
+ban Muslims	36
+Russian President Vladimir Putin	36
+Imran Khan	35
+Meteorological Department	35
+Indian Railways	34
+public transport	34
+Dale Steyn	34
+Hema Upadhyay	34
+Aamir Khan	34
+Steven Smith	33
+Pay Commission	33
+Andhra Pradesh government	33
+North America	33
+Amnesty International	32
+police station	32
+crude prices	32
+clean energy	31
+juvenile convict	31
+Juvenile Justice	31
+panchayat elections	30
+presidential candidate	29
+Dadri lynching	29
+Road Transport and Highways	29
+district administration	29
+Abdul Kalam	29
+Remo Fernandes	29
+Mother Teresa	29
+Miss Universe	29
+minus   degrees Celsius	29
+Reliance Capital	28
+JP Morgan	28
+Comfort Women	28
+Satellite Launch	28
+Arunachal Pradesh Governor	28
+Oil market	28
+hate crime	27
+Uttar Pradesh government	27
+Person of the Year	27
+St Stephen	27
+sex slaves	27
+family members	27
+allegedly raped	26
+Obama administration	26
+road accident	26
+Maggi noodles	26
+telecom companies	26
+Information Technology	26
+Bharti Airtel Airtel	26
+Chancellor Angela Merkel	26
+Indian Institute	25
+crime branch	25
+Sergei Lavrov	25
+Hassan Rouhani	25
+QFormat  true	25
+Justin Trudeau	25
+Bill Clinton	25
+minor girl	25
+water supply	25
+President Pranab Mukherjee today	25
+rural areas	25
+Dilma Rousseff	25
+mobile app	24
+industrial output	24
+Barack Obama  US President	24
+credit card	24
+oil exports	24
+Indian Government	24
+Anurag Thakur	24
+Novak Djokovic	24
+Indian Oil Corporation	23
+release of the juvenile convict	23
+oil company	23
+Pep Guardiola	23
+actor Salman Khan	23
+Khan Market	23
+World Health Organization	23
+presidential race	23
+Southeast Asia	23
+Hema Malini	23
+Donald Trump Calls	23
+Steve Smith	23
+Presidential election	23
+HIV AIDS	22
+power project	22
+Mehbooba Mufti	22
+Tuesday night	22
+Derek O Brien	22
+today launched	22
+Baba Ramdev	22
+Crude oil futures	22
+gang rape	22
+schools closed	21
+Facebook post	21
+Samet Hyuseinov	21
+road projects	21
+Ramesh Chennithala	21
+emergency landing	21
+Women and Child Development	21
+Wayne Rooney	21
+Life Sciences	21
+Samsung Electronics	21
+food safety	21
+Institute of Medical Sciences	21
+municipal councils	21
+Sheena Bora murder case	21
+Merrill Lynch	21
+mobile towers	21
+presidential hopeful	21
+opened fire	21
+death sentence	21
+losing streak	21
+Road Transport	20
+fire broke	20
+Indian Oil	20
+Science and Technology	20
+solar scam	20
+Reliance Defence	19
+Sun Pharmaceutical Industries	19
+Uma Bharti	19
+Azhar Ali	19
+Mumbai airport	19
+Khan Academy	19
+President Dilma Rousseff	19
+power tariff	19
+space agency	19
+Queen Elizabeth	19
+Year Award	18
+Chintan Upadhyay	18
+Narayana Hrudayalaya IPO	18
+radio station	18
+Food and Drug Administration	18
+Netaji Subhas Chandra Bose	18
+liquor ban	18
+acres of land	18
+forest department	18
+fake encounter	18
+Seventh Pay Commission	18
+pays tribute	18
+Bharti Enterprises	18
+power supply	18
+Strides Arcolab	18
+Guinness World Record	18
+Sheena Bora	18
+French President Francois Hollande	18
+double murder	17
+JP Rajkhowa	17
+Twitter account	17
+Sunday night	17
+solar panels	17
+Nuclear Plant	17
+Chetan Chauhan	17
+Atomic Energy	17
+Indian Institute of Technology	17
+PAN card	17
+Telecom Regulator	17
+power generation	17
+Donald Trump Muslims	17
+Republican presidential candidate	17
+International Solar Alliance	17
+Muslim ban	16
+Maithripala Sirisena	16
+Power Minister Piyush Goyal	16
+Strides Shasun	16
+food items	16
+road safety	16
+married couple	16
+Space Research	16
+Kim Jong	16
+Bill Passed	16
+Narayana Hrudayalaya	16
+nuclear energy	16
+HCL Technologies	15
+infant deaths	15
+Wind energy	15
+age to  years	15
+Brent crude	15
+Steve Harvey	15
+World Health Organisation	15
+Institute of Technology	15
+Passes Bill	15
+government employees	15
+Singapore satellites	15
+Edible oil	15
+Reliance Group	15
+Shah Rukh	14
+Opec oil	14
+years in jail	14
+Factory output	14
+Republican presidential candidate Donald Trump	14
+Chandra Bose	14
+Hero MotoCorp	14
+Crude palm	14
+Jailed For  Years	13
+President Mukherjee	13
+Monday morning	13
+Juvenile Bill	13
+Opec oil market	13
+Tuesday morning	13
+Nirbhaya case	13
+President Francois Hollande	12
+time of the year	12
+gram panchayats	12
+Mumbai Police	12
+prices Oil	12
+OPEC meet	12
+Rockets fired	12
+Lionel Messi Football	12
+Bill Cosby	12
+retirement age	12
+years ago	12
+Andhra Pradesh and Telangana	11
+charged with murder	11
+women safety	11
+years of age	11
+juvenile s release	11
+Hema Upadhyay Murder	11
+French President	11
+Emergency Response	11
+Facebook Mark Zuckerberg	11
+Turkish President	11
+early next year	11
+end of the year	10
+Saturday morning	10
+children out of school	10
+initial public offering	10
+transport department	10
+George W Bush	10
+oil prices Oil market	10
+Brent crude oil prices	10
+convicted of murder	10
+Democratic presidential	10
+Telangana and Andhra Pradesh	10
+ban Donald Trump	10
+school teacher	9
+Wednesday morning	9
+oil imports	9
+Development Authority	9
+Airports International	9
+Beijing red alert	9
+school children	9
+Brent crude oil	8
+Pradesh Andhra	8
+government has initiated	8
+murder conviction	8
+oil futures	8
+Delhi Gang Rape	8
+oil Crude	8
+Salman Khan case	8
+warning letter	8
+Women and Child	8
+sentenced to death	8
+Muslims from entering	7
+Transport Corporation	7
+Business School	7
+Russian President	7
+murder charges	7
+Space Station	7
+red alert Beijing	7
+safety of women	6
+case Salman Khan	6
+Pradesh  Uttar	6
+girl was allegedly	6
+Mark Zuckerberg Facebook	6
+Brent crude prices	6
+ban liquor	6
+fired rockets	6
+Muslims Donald Trump	6
+Upadhyay Hema	6
+run case	6
+juvenile convict s release	6
+Year celebrations	6
+Russia putin	6
+teacher in her school	6
+left  people	6
+presidential candidate Donald Trump	6
+Sheena Bora murder	6
+Subhash Chandra	5
+Pranab Mukherjee President	5
+Salman Khan hit and run	5
+Group Reliance	5
+release of juvenile	5
+Government proposes	5
+Uttar Pradesh Chief Minister	5
+Minister Piyush Goyal	5
+government in Uttar Pradesh	5
+State Department	5
+Donald Trump Trump	5
+Environment and Forests	5
+thermal power	5
+oil prices Oil	5
+Pharmaceutical Industries	5
+join hands	4
+Indian companies	4
+Sun Pharmaceutical	4
+Syrian President Bashar	4
+killed two persons	4
+December  juvenile convict	4
+Solar Alliance	4
+Man Killed	4
+Trump Muslims	4
+market Oil	4
+Vladimir Putin Russian President	4
+Gates Bill	4
+Murder  Hema Upadhyay	4
+public offering	4
+Forest and Environment	4
+palm oil	4
+awarded this year	4
+post on Facebook	4
+Crude palm oil	4
+case Nirbhaya	4
+challenges faced	4
+crude Brent	4
+year end	4
+Oil prices Crude	4
+candidate Donald Trump	3
+prices Crude oil	3
+Regulatory Authority	3
+Airports Authority	3
+Brent crude price Oil	3
+Bush George	3
+Commission for Women	3
+medical institute	3
+ban Muslims from entering	3
+Donald Trump ban	3
+members of a family	3
+today announced	3
+Satellites Singapore	3
+generate power	3
+Electronics Samsung	3
+minus   degrees	3
+close schools	3
+face challenges	3
+earlier this year	3
+Khan Salman Khan	3
+killed  people	3
+students Indian	3
+energy solar	3
+Railways Indian	3
+launches satellite	3
+hit and run	3
+futures Crude oil	3
+Trump Calls	3
+President Bashar	3
+put in place	3
+Obama Barack	3
+Government indian	3
+Calls Donald Trump	3
+killing a man	3
+power solar	3
+IPO Narayana Hrudayalaya	3
+Airtel Ltd    Bharti Airtel	2
+Turkish President Recep	2
+celebrate New Year	2
+Republican candidate US Presidential	2
+AIDS HIV	2
+Ramdev Baba	2
+salman  case	2
+Bill Juvenile	2
+wartime sex	2
+State John Kerry	2
+Project to Power	2
+Indian market	2
+launched today	2
+President Pranab	2
+Medical Sciences	2
+Pradesh Arunachal	2
+output could be used by an upstream factory	2
+Women s Commission	2
+card PAN	2
+prices Crude	2
+Cosby Bill	2
+Football   Lionel Messi	2
+Fernandes  Remo	2
+candidate presidential	2
+Murder Double	2
+people and left	2
+prices Brent crude	2
+projects such as roads	2
+death of the infant	2
+issued red	2
+Pradesh  Madhya	2
+Oil market OPEC	2
+Race US presidential	2
+Governor Arunachal Pradesh	2
+Andhra Pradesh Chief Minister	2
+case of murder	2
+government today	2
+Account  Twitter	2
+Putin  Vladimir	2
+age of   retired	2
+Amir Mohammad	2
+Subhas Chandra Bose	2
+artist Hema	2
+Jio Reliance	2
+emerging markets	2
+months ago	2
+police said today	2
+Couple Got Married	2
+Maharashtra government	2
+Netaji Subhas	2
+oil OPEC	2
+Year in your personal	2
+Upadhyay Murder	2
+state government	2
+Khan  Azam	2
+city police	2
+crimes US hate	2
+Airtel Airtel	2
+January  next year	2
+Capital Lightspeed Ventures	2
+meeting Opec	2
+imports Oil	2
+person was killed	2
+Salman Khan  Actor	1
+Encounter fake	1
+Minister telecom	1
+case of rape	1
+John Kerry Secretary of State	1
+Future group	1
+Russian Defence	1
+convict Juvenile	1
+Thakur  TS	1
+oil prices market	1
+market OPEC Oil	1
+candidates Mitt Romney Republican Presidential	1
+people were killed	1
+Pradesh Chief Minister	1
+oil Edible	1
+Subhas Chandra Bose Netaji	1
+Trump Donald	1
+oil Crude oil prices	1
+Transport and Highways	1
+hit and run Salman Khan	1
+juvenile convict in the December	1
+President Recep	1
+crude price Oil	1
+set up by the government	1
+Oil Futures Crude	1
+Crude oil Brent	1
+Haram Boko	1
+today    President Pranab Mukherjee	1
+institute the Indian	1
+Child Development	1
+College Stephen	1
+APP  The new mobile	1
+Pradesh Arunachal Governor	1
+president French	1
+government officials	1
+Donald Trump Republican presidential candidate	1
+slaves sex	1
+Cellular Idea	1
+Health Organisation	1
+accident road	1
+rape allegation	1
+election Presidential	1
+Delhi government	1
+market Oil price	1
+government is set	1
+today said government	1
+technology science	1
+lynching Dadri	1
+Academy  Khan	1
+Technologies Ltd    HCL	1
+proposed by the government	1
+World Records	1
+Defence Reliance	1
+Jong Un Kim	1
+alliance of solar	1
+government Andhra Pradesh	1
+market regulator	1
+Hrudayalaya IPO	1
+Elections   panchayat	1
+Oil Crude Prices	1
+Organisation World Health	1
+years time	1
+Pradhan Dharmendra	1
+starting January	1
+Basti Shakur	1
+Highways and Transport	1
+oil palm	1
+Killed   Injured	1
+Department of Transportation	1
+Company oil	1
+Chief Minister  Andhra Pradesh	1
+Oil Essar	1
+Rukh Shah	1
+case Salman	1
+juvenile December   The convict	1
+gang rape Delhi	1
+Election Commission	1
+energy nuclear	1
+President Mukherjee  Pranab	1
+official said today	1
+House  white	1
+government has decided	1
+today recommended	1
+John Kerry s  one state	1
+futures Oil	1
+Donald Trump are among the eight candidates	1
+alert red	1
+transport   public	1
+murder case Sheena Bora	1
+prices Oil market	1
+President Vladimir	1
+World Records Guinness	1
+supplying water	1
+year earlier	1
+School of Business	1
+Plan  Government	1
+Crude oil prices Oil	1
+Khan  Shah Rukh	1
+Russian President Vladimir	1
+bill  juvenile justice	1
+night of Tuesday	1
+Vladimir Petukhov Nefteyugansk President	1
+President Turkish	1
+Defence Secretary	1
+President Russian	1
+noodles Maggi	1
+Telecom Minister	1
+Technology Institute	1
+MotoCorp Ltd Hero	1
+Universe Miss	1
+Vladimir Putin Says  President	1
+Pay Commission Seventh	1
+Secretary of State	1
+Khan Jiah	1
+Pradesh government	1
+Energy Wind	1
+developing countries	1
+Trump Donald Trump	1
+today said Parthasarathi Mukherjee	1
+Clinton Hillary	1
+earlier this month	1
+tariffs for    Power	1
+Airtel  Bharti	1
+research in space	1
+Export of oil	1
+Upadhyay Chintan	1
+Scam solar	1
+Mukherjee today	1
+Pradesh Governor	1
+entering US  US Muslims	1
+President Vladimir Putin Russian	1
+Chennithala  Ramesh	1
+corporation  four municipal	1
+areas like rural	1
