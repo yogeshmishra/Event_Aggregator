@@ -1,17 +1,20 @@
 #!/bin/bash
-
-inputFile='../rawFiles/articles.txt' 
+#$1=BATCH
+#$2=FILENAME
+#$3=MONTH
+#$4=YEAR
+inputFile="../rawFiles/$2"
 # minimum phrase frequency
 minsup=10
 #maximum size of phrase (number of words)
 maxPattern=8
 #Two variations of phrase lda (1 and 2). Default topic model is 2
 topicModel=2
-numTopics=5
+numTopics=50
 #set to 0 for no topic modeling and > 0 for topic modeling (around 1000)
 gibbsSamplingIterations=1000
 #significance threshold for merging unigrams into phrases
-thresh=4
+thresh=5
 #burnin before hyperparameter optimization
 optimizationBurnIn=100
 #alpha hyperparameter
@@ -20,8 +23,8 @@ alpha=2
 optimizationInterval=50
 touch rawFiles/id.txt
 touch rawFiles/articles2.txt
-touch rawFiles/articles.txt
-python simple_es_client.py $1 $2 $3 $4 
+touch rawFiles/$2
+#python simple_es_client.py $1 $2 $3 $4 
 cd TopicalPhrases 
 #Run Data preprocessing
 ./runDataPreparation.sh $inputFile
