@@ -1,856 +1,1493 @@
-Rs   crore	808
-Tamil Nadu	537
-Supreme Court	391
-target of Rs	274
-Chennai floods	204
-real estate	183
-BUY  call with a target of Rs  and a stop loss of Rs	173
-Rs  lakh	159
-Wall Street	144
-Shiv Sena	137
-mutual funds	134
-Tata Motors	132
-stock markets	118
-Financial Services	112
-services tax	105
-Income Tax	105
-raises Rs  crore	98
-SELL  call with a target of Rs  and a stop loss of Rs	97
-cold wave	94
-private equity	93
-GST Bill	92
-Chennai Rains	92
-false     UnhideWhenUsed	91
-Bombay High Court	91
-Maruti Suzuki	89
-Year s Eve	87
-worth Rs   crore	87
-ICICI bank	87
-Real Madrid	84
-market share	84
-Foreign exchange	84
-Pope Francis	81
-Tata Steel	81
-call drops	81
-High Court	79
-Indian market	79
-Raghuram Rajan	78
-minimum temperature	75
-Dawood Ibrahim	75
-Sumitra Mahajan	74
-Rs   cr	74
-indian economy	72
-Janet Yellen	72
-Tashfeen Malik	71
-BSE Sensex	71
-Jawaharlal Nehru	70
-year low	70
-Equity market	70
-Swachh Bharat	69
-futures trade	68
-Sensex Nifty	67
-past  years	66
-Tamil Nadu floods	66
-Ashraf Ghani	65
-years ago	64
-life insurance	63
-Tamil Nadu government	63
-floods Chennai	62
-Sharad Pawar	62
-Goldman Sachs	61
-spot market	60
-Los Angeles	59
-Chennai airport	59
-Retail investors	57
-Madras High Court	54
-Cristiano Ronaldo	54
-financial markets	54
-flood relief	54
-heavy rains	54
-Christmas Day	54
-Tata Group	53
-Jose Mourinho	53
-private sector	53
-economic growth	52
-Dalal Street	52
-LsdException Locked  false	52
-HDFC Bank	50
-Sundar Pichai	49
-Saina Nehwal	49
-Rs   per kg	49
-invest Rs  crore	48
-Karim Benzema	47
-Manish Sisodia	47
-Ashok Leyland	46
-Bernie Sanders	46
-Syed Farook	46
-fiscal deficit	45
-monetary policy	45
-ratan tata	45
-Rs  lakh crore	42
-emerging markets	42
-call money	40
-Relief Fund	40
-Stock Exchange	40
-intellectual property	40
-Coast Guard	39
-Year celebrations	39
-Amendment Bill	39
-Fund manager	38
-manufacturing sector	38
-Bajaj Auto	38
-Indian companies	37
-European shares	37
-commodity prices	36
-GDP growth	36
-Ram Vilas Paswan	36
-public sector	36
-Park Street	35
-foreign investors	35
-Wall Street US stocks	35
-rescue operations	35
-Syed Rizwan Farook	34
-sexual harassment	34
-Chennai floods Chennai rains	34
-Chennai rain Chennai	34
-Santa Claus	34
-bank accounts	33
-morning trade	33
-sexual abuse	33
-stake sale	33
-Christmas celebrations	33
-Christmas Eve	32
-past few months	32
-Asian markets	32
-Mario Draghi	31
-RBI Raghuram Rajan	31
-Sensex Nifty BSE NSE	31
-Asian Stocks	31
-cent stake	31
-disaster management	31
-sexual assault	31
-mutual funds investments	31
-months ago	31
-JSW Steel	31
-cold wave conditions	30
-List Accent        w LsdException Locked  false	30
-Aditya Birla	30
-rose   per cent	30
-financial year	30
-Bharat Forge	30
-celebrate Christmas	30
-Syed Rizwan Farook Tashfeen Malik	29
-Kidambi Srikanth	29
-managing director	29
-Asian shares	29
-current fiscal	29
-Tamil Nadu rains	29
-Tata Power	29
-Nabam Tuki	29
-festive season	29
-torrential rains	29
-Sadananda Gowda	28
-High Commissioner	28
-breast cancer	28
-Indian Government	28
-cent to Rs   per kg	28
-capital market	27
-million tonnes	27
-Arsene Wenger	27
-China stocks	27
-Marco Rubio	27
-earlier this year	27
-USD  million	27
-investments invest	27
-Zlatan Ibrahimovic	27
-bad loans	27
-Euro zone	26
-list of top	26
-January  next year	26
-Income Tax department	25
-domestic market	25
-Bajirao Mastani	25
-price of Rs	25
-Singapore Slammers	25
-Deutsche Bank	25
-Financial inclusion	25
+World Cup	498
+Supreme Court	434
+civic body	411
+Madhya Pradesh	300
+Municipal Corporation	284
+Andhra Pradesh	220
+Bombay high court	218
+district administration	212
+high court	210
+Himachal Pradesh	196
+Uttar Pradesh	189
+social media	177
+smart city	161
+Nagpur Municipal Corporation	159
+Navi Mumbai	137
+Municipal commissioner	134
+Madras high court	132
+Arunachal Pradesh	130
+district collector	129
+issued notices	123
+Sri Lanka	121
+Development Authority	117
+Deputy commissioner	113
+city corporation	112
+Nagpur University	111
+High School	101
+Delhi high court	99
+Jawaharlal Nehru	98
+Panjab University	97
+Lucknow University	95
+FA Cup	94
+Kolhapur Municipal Corporation  KMC	91
+municipal council	91
+standing committee	88
+Medical College	88
+natural disaster	87
+Nagpur Municipal Corporation  NMC	86
+Cricket Association	86
+Pune Municipal Corporation	83
+nepal earthquake	83
+Punjab and Haryana high court	82
+Development Corporation	80
+school students	79
+Noida Authority	78
+ICC Cricket World Cup  Cricket World Cup	73
+District magistrate	73
+Delhi University	72
+Panjab University  PU	69
+bus stand	68
+Miley Cyrus	68
+Football Team	66
+managing director	64
+Mumbai Indians	63
+Gujarat high court	63
+college students	62
+Rio Olympics	61
+Football Association	61
+civic administration	61
+private schools	61
+Rohith Vemula	61
+Nagpur bench of Bombay High Court	60
+Pradesh Congress Committee	59
+property tax	59
+Davis Cup	59
+Rajasthan High Court	57
+Shivaji University	57
+Institute of Medical Sciences	56
+Kim Kardashian	55
+Research Institute	55
+Brendon McCullum	54
+academic session	54
+social activist	53
+Cricket World Cup	52
+International Airport	52
+development projects	51
+petition filed	51
+admission process	51
+Rory McIlroy	51
+Greater Noida	49
+Rajasthan Royals	49
+executive engineer	49
+Asian Cup	49
+David Warner	48
+divisional commissioner	47
+illegal structures	47
+Hyderabad University	47
+World Economic Forum	47
+urban development	46
+court order	46
+sessions court	46
+ICC Cricket World Cup	46
+Yakub Memon	46
+chief minister Laxmikant Parsekar	45
+Metro Rail	45
+MS Dhoni	45
+Bombay HC	45
+Gujarat University	45
+crack whip	44
+engineering student	44
+Human Rights	44
+FC Goa	43
+engineering colleges	43
+Nashik Municipal Corporation  NMC	43
+cricket team	43
+special court	43
+lodged a complaint	43
+local body	42
+bail plea	42
+local court	42
+Public School	42
+Chennai Super Kings	42
+law and order	41
+Suresh Prabhu	41
+Mehbooba Mufti	40
+Electricity Regulatory Commission	40
+orders probe	40
+local body tax  LBT	40
+Kolhapur Municipal Corporation	39
+granted bail	39
+Road Transport	39
+David Cameron	39
+Port Trust	39
+Nashik Municipal Corporation	39
+media reported	38
+National Institute	38
+Pune Municipal Corporation  PMC	38
+Lucknow Municipal Corporation	38
+Manish Sisodia	38
+tied the knot	37
+file nomination	37
+skill development	37
+general manager	37
+Laxmikant Parsekar	37
+Sebastian Vettel	37
+Kolhapur  SUK	37
+Indian Super League	36
+Corporation Limited	36
+lodged an FIR	36
+construction work	36
+Mahendra Singh Dhoni	36
+trial court	36
+ICC World Cup	36
+illegal constructions	36
+SC ST	36
+public transport	36
+school teacher	36
+MS University	36
+entrance test	36
+Tourism Development Corporation	36
+Central Bureau of Investigation	36
+primary schools	35
+Aurangabad Municipal Corporation  AMC	35
+Pimpri Chinchwad Municipal Corporation	35
+Institute of Technology	35
+parts of the city	35
+Allahabad High Court	35
+urban development minister	35
+Sam Smith	34
+action plan	34
+rural development	34
+Smart City project	34
+Human Rights Commission	34
+Women s World Cup	34
+IPL  IPL	34
+case filed	34
+Sunrisers Hyderabad	34
+development plan	34
+Indian National	33
+College of Engineering	33
+Public Service Commission	33
+India vs Australia	33
+submit its report	33
+Morgan Stanley	33
+draft development plan	33
+development works	33
+public prosecutor	33
+high alert	33
+public works department	32
+Bar Association	32
+court on Thursday	32
+Madras high court Madurai bench	32
+high court on Tuesday	32
+district court	32
+special investigation team  SIT	32
+Federation Cup	32
+Indian Institute	32
+Vasundhara Raje	32
+fare hike	32
+Steven Gerrard	32
+natural gas	31
+Indian women	31
+Information Technology	31
+bus service	31
+Hyderabad Central University	31
+World Cup qualifier	31
+Bengaluru FC	31
+Industries Association	31
+Class  student	31
+social justice	31
+Authority of India	31
+Aurangabad Municipal Corporation	30
+school children	30
+Xi Jinping	30
+world champion	30
+UT administration	30
+Hockey India League	30
+International School	30
+Atlanta Hawks	30
+Floyd Mayweather	30
+Uttar Pradesh government	30
+move court	30
+Reese Witherspoon	30
+Crystal Palace	30
+Vadodara Municipal Corporation  VMC	30
+Delhi Metro	30
+University of Hyderabad	29
+waste management	29
+high court on Monday	29
+illegal hoardings	29
+judicial magistrate first class	29
+Product Issues	29
+Usain Bolt	29
+division bench	29
+National Urban	29
+served notice	29
+Jadavpur University	29
+Athletics Championships	29
+University Grants Commission  UGC	28
+HC seeks	28
+Pro Kabaddi League	28
+Art Gallery	28
+Rail Budget	28
+municipal corporation  MC	28
+court on Tuesday	28
+University Grants Commission	28
+Sri Lankan	28
+town planning	28
+Indian Institute of Management	27
+chief judicial magistrate	27
+sand mining	27
+high court on Friday	27
+Post Graduate	27
+Free Basics	27
+hockey team	27
+Nagpur District	27
+police complaint	27
+Thane Municipal Corporation  TMC	27
+Kings XI Punjab	27
+Dental College	27
+International Olympic Committee	27
+Mufti Mohammad Sayeed	27
+Nagpur Improvement Trust	27
+Transport Corporation	26
+mining leases	26
+coal block	26
+art and culture	26
+Kolhapur district	26
+Residents Welfare Associations	26
+special status	26
+chief engineer	26
+road projects	26
+Association of India	26
+court on Monday	26
+Planning and Development	26
+Kolkata Municipal Corporation	26
+Mumbai FC	26
+Steve Smith	26
+tourism department	25
+fee hike	25
 service providers	25
-UnhideWhenUsed  false	25
-month low	25
-private schools	24
-High School	24
-Chennai Super Kings	24
-Shading Accent        w LsdException Locked  false	24
-raised   million	24
-holiday season	24
-TVS Motor	24
-investment fund	24
-USD  billion	24
-data showed	24
-Mikhail Khodorkovsky	24
-Akhand Bharat	24
-earlier this month	24
-SemiHidden  false	23
-spot demand	23
-Amtek Auto	23
-general motors	23
-good news	23
-GST gdp	23
-Sanjay Nirupam	23
-Power Grid	22
-Christmas holiday	22
-Ten stocks in focus	22
-worth   billion	22
-ease of doing business	22
-investment banking	22
-raising funds	22
-million euros	22
-BUY  or  SELL  ideas from experts	22
-Standard Chartered	22
-Jagdish Tytler	22
-fiscal deficit target	22
-Director General	21
-Sensex Ends	21
-gdp economy	21
-Day trading	21
-rain Chennai	21
-Rupee trades	21
-visa fee hike	21
-Kevin Pietersen	21
-Indian market is expected to trade	21
-previous session	21
-coming year	21
-bullion market	21
-visa H B visa	21
-Goods and Services Tax  GST	21
-end of the year	20
-Direct Taxes	20
-jobs data	20
-Hyundai Motor	20
-Bank Nifty	20
-Atletico Madrid	20
-spoke to various experts and here s what they have to recommend for today s trade	20
-growth rate	20
-market regulator	20
-collegium system	20
-payment bank	20
-Goods and Services Tax  GST  Bill	20
-currency markets	20
-Real Estate Bill	20
-freezing point	20
-steel industry	20
-bond market	20
-billion euros	20
-Chennai flood victims	20
-Goods and Services Tax	19
-Future group	19
-earlier this week	19
-Sanjiv Chaturvedi	19
-PV Sindhu	19
-private equity investments	19
-Mythili Bhusnurmath	19
-Uddhav Thackeray	19
-Sandip Sabharwal	19
-Rashtriya Swayamsevak Sangh	19
-Swachh Bharat Cess	19
-past few days	19
-stocks sharp	19
-grow   per cent	19
-RBI Policy	19
-floods Tamil Nadu	19
-period last year	19
-Public Service	19
-Asset Management	19
-Angel Broking	19
-cancer patients	19
-worth Rs   lakh	19
-BUY  or  SELL	19
-private companies	19
-relief operations	19
-Apollo Hospitals	19
-stocks real estate	18
-Medium Grid  Accent        w LsdException Locked  false	18
-Geological Survey	18
-Dalai Lama	18
-Eicher Motors	18
-Ashok Gehlot	18
-Bharat Ratna	18
-RBI Governor Raghuram Rajan	18
-Rakesh Jhunjhunwala	18
-Google CEO Sundar Pichai	18
-gdp fiscal deficit	18
-Swachh Bharat Abhiyan	18
-Chartered Accountant	18
-Christmas tree	18
-labour market	18
-Sharad Joshi	18
-surged over  per cent	17
-Chhota Rajan	17
-Tata Consultancy Services	17
-week low	17
-Nifty futures on the Singapore Stock Exchange were trading   points	17
-Tamil Nadu Chief Minister J Jayalalithaa	17
-Anant Geete	17
-Retail inflation	17
-Swachh Bharat Mission	17
-Court of Arbitration	17
-investments insurance	17
-cent and   per cent	17
-nursery admissions	17
-India s GDP	17
-GST Goods and Services Tax	17
-insider trading	17
-Standard   Poor	17
-debt restructuring	17
-thin trade	17
-Budget deficit	17
-Insurance Company	17
-financial assistance	17
-General Insurance	16
-Football News   Real Madrid	16
-BMW Audi	16
-Maruti Suzuki India	16
-stocks Sensex	16
-fell   per cent	16
-passage of the GST Bill	16
-Nifty may open	16
-Tata Sons	16
-street lights	16
-Services Tax  GST	16
-stocks stock	16
-Rs  Crore   NDTV Profit	16
-inflation target	16
-foreign direct investment	16
-relief material	16
-early next year	16
-mercury dipped	16
-flight operations	15
-time of the year	15
-Tata Trusts	15
-Chennai Rains Chennai Floods	15
-market  stocks	15
-weather conditions	15
-Chennai Petroleum	15
-List of Essential Medicines	15
-foreign policy	15
-Jindal Steel	15
-cent to Rs	15
-year earlier	15
-Court to Hear	15
-Chennai Rains Chennai Floods Chennai	15
-earnings growth	15
-Chennai rain Chennai Rains	15
-Speaker Sumitra Mahajan	14
-flood hit	14
-stocks nifty	14
-Yemen Ceasefire	14
-due to flooding	14
-cent growth	14
-futures trade today	14
-Share Market	14
-tamil nadu Jayalalithaa	14
-increase of   per cent	14
-domestic demand	14
-Badminton   Saina Nehwal	14
-Rs   per kg in futures trade today	14
-cent increase	13
-Nikkei share	13
-GST economy	13
-Rs   per quintal	13
-Aditya Birla Group	13
-Chennai Chennai Floods Chennai Rains	13
-forex Foreign exchange	13
-Tamil Nadu Chief Minister J Jayalalithaa today	13
-health insurance	13
-Chennai floods Chennai	13
-funds investments	13
-rise   per cent	13
-points lower	13
-fund raising	13
-rains and floods	13
-Grid  Accent        w LsdException Locked  false	12
-Rs   crore investment	12
-Sensex Rupee	12
-rose by Rs	12
-Rs   per  grams	12
-Tamil Nadu floods Chennai	12
-November Sales	12
-Goods and Services Tax Bill	12
-Chennai Chennai rain	12
-Indian rupee	12
-IndusInd Bank	12
-year end	12
-futures trade today as speculators	12
-invest    billion	11
-bill to amend	11
-Nissan Motor	11
-stocks in focus	11
-markets regulator Sebi	11
-economy will grow	11
-worth Rs	11
-visa fee	11
-Tashfeen Malik Syed Rizwan Farook	11
-Economic growth GDP growth	10
-GST Bill Goods and Services Tax	10
-topping the list	10
-day after Christmas	10
-Puducherry Rains	10
-growing economy	10
-today as speculators	10
-economy gdp	10
-Nifty futures	10
-Court judges	10
-stocks that are likely to be in focus today	10
-initial public offering	10
-celebrate New Year	10
-Rs    or   per cent	10
-RBI Governor	10
-Badminton News   Saina Nehwal	10
-market is expected	10
-LIC Housing	10
-plans to raise	9
-GST rate	9
-recent floods	9
-growth of   per cent	9
-Business School	9
-Motors Hyundai	9
-sensex BSE	9
-Banking sector	9
-economy China	9
-Sensex ends  points	9
-High Court judge	9
-nifty Bank	9
-Chennai floods Chennai floods	9
-Chennai Flood Relief	9
-Rupee Indian	9
-Tamil Nadu rains Chennai	9
-Puducherry floods	9
-stocks Wall Street	9
-raised concern	8
-Bank with a target of Rs	8
-Chennai rescue	8
-Chennai weather	8
-Temperature Delhi	8
-weather Chennai	8
-Chennai Chennai Rains Chennai Floods	8
-Court order	8
-Bill GST	8
-cost of Rs	8
-operations Chennai	8
-lakh crore	8
-flood victims	8
-Jayalalithaa Tamil Nadu	8
-tamil nadu relief	8
-stop loss	8
-market equities	8
-Chennai floods Chennai rains Chennai	8
-Tax Department	8
-Tamil Nadu floods Chennai floods	8
-flights Chennai	8
-billion investment	8
-appeals court	7
-prices rose	7
-Tamil Nadu Chennai	7
-domestic equity	7
-Suven Life	7
-stake to  per cent	7
-bullion traders	7
-Tata Steel Tata	7
-rains Tamil Nadu	7
-bank HDFC	7
-Chennai floods Tamil Nadu	7
-tax GST	6
-sebi market regulator	6
-trades lower	6
-Governor Raghuram Rajan	6
-Chennai Chennai	6
-market economy	6
-Relief Tamil Nadu	6
-market indian	6
-years time	6
-Badminton News   Saina Nehwal Badminton	6
-starting January	6
-Bank ICICI	6
-Passes Bill	6
-finance economy	6
-Indian Hotels	6
-trading day	6
-Emergency Response	6
-passage of GST	6
-Bill Passed	6
-Chennai Chennai floods	6
-rescue and relief	5
-airport Chennai	5
-points in trade	5
-Sena Shiv	5
-BSE NSE	5
-providing services	5
-public offering	5
-Chennai rain damages	5
-hit by floods	5
-Essential Medicines	5
-raises Rs	5
-Rains Puducherry	5
-Rains Flood Chennai	5
-Tamil Nadu Chennai Rains	5
-cent rise	5
-trading   points	5
-import duty	5
-Chennai Tamil Nadu	5
-Saina Nehwal Badminton	5
-rain Chennai Rains	5
-foreign exchange Forex	5
-ceasefire in Yemen	5
-Tamil Nadu CM	5
-floods Chennai rains	5
-fee L visas	5
-trade higher	5
-Pichai  Sundar	4
-BSE Sensex Nifty	4
-Economy Indian	4
-direct investment	4
-Wednesday morning	4
-flooding due	4
-operate flights	4
-trade today	4
-Chennai rain Chennai rains Chennai flood	4
-GST Bill passage	4
-Chennai Rains Tamil Nadu	4
-rains Tamil Nadu floods Chennai	4
-relief and rescue	4
-Chennai flights	4
-Tax  GST  Bill	4
-mutual fund investors	4
-market bullion	4
-Chennai floods Chennai rains Chennai flood	4
-year period	4
-suzuki Maruti	4
-Sensex Nifty NSE BSE	4
-Chennai Chennai rain Chennai Rains	4
-GDP growth Economic growth	4
-hike in visa fee	4
-Bank Deutsche	4
-Birla Group	4
-ends  points	4
-Raghuram Rajan RBI	4
-operation to rescue	4
-eve of Christmas	4
-Steel JSW	3
-Court and High	3
-Bank of India	3
-growth Economic	3
-General Electric	3
-Expect market	3
-Chennai Chennai rain Chennai	3
-demand at the domestic	3
-eve of New Year	3
-Chennai Rains Chennai Floods Tamil Nadu Rains	3
-Season Holiday	3
-government tamil nadu	3
-Department Income tax	3
-Abhiyan   Swachh Bharat	3
-Sensex Nifty BSE	3
-School of Business	3
-Bank Ltd    IndusInd	3
-government is set	3
-Sales Up   in November	3
-rain Chennai Tamil Nadu	3
-market capital	3
-Inclusion financial	3
-tax Income	3
-Tamil Nadu Tamil Nadu  rains	3
-futures nifty	3
-Tamil Nadu  Chennai rain Chennai Rains	3
-Tamil Nadu rains Tamil Nadu floods	3
-Sundar Pichai Google CEO	3
-rescue Chennai	3
-GDP Economic growth	3
-Floods US rain	3
-Million USD	3
-Medium Grid	3
-Chennai airport Chennai	3
-Goods and Services Tax Bill GST	3
-Court  Supreme	3
-Policy RBI	3
-Chennai floods Chennai rains Tamil Nadu rains	3
-donate Rs	3
-growth GDP	3
-Chennai floods Chennai rains Tamil Nadu	3
-Government plans	3
-Essential Medicines List	3
-Goods and Services	3
-GST Finance	3
-investments equities	3
-Chennai rain Chennai Rains Chennai	3
-Tamil Nadu Chief Minister	3
-Rupee Sensex	2
-Rs   per kg in futures	2
-Chennai Rains Tamil Nadu rains Chennai	2
-gdp fiscal	2
-Department tax	2
-Tamil Nadu floods Chennai rains	2
-shares Asian	2
-euros    million	2
-Governor RBI	2
-year  Financial	2
-billion worth	2
-Chennai Floods Tamil Nadu Rains	2
-rains  Heavy	2
-Chennai Chennai Airport	2
-damages chennai rains	2
-crore to Rs	2
-Tamil Nadu rains Tamil Nadu	2
-Tamil Nadu Rain Chennai Rain	2
-India Maruti Suzuki	2
-policy Monetary	2
-Audi and BMW	2
-loss of Rs	2
-GDP India	2
-Rains Chennai Floods Tamil Nadu	2
-Sale Stake	2
-Rs   crore worth	2
-regulated markets	2
-insurance  life	2
-expected to trade	2
-trade  Rupee	2
-Consultancy Services	2
-Nifty BSE Sensex	2
-Football News   Real	2
-wave cold	2
-restructure its debt	2
-CM  Tamil Nadu	2
-Chennai rains Tamil Nadu floods	2
-floods Chennai floods Chennai	2
-Chennai rain Chennai Rains Tamil Nadu	2
-Chennai Floods  Chennai floods Chennai rains	2
-Rupee Rupee	2
-Syed Rizwan Farook Tashfeen	2
-Tamil Nadu rains Chennai Flood	2
-GST tax	2
-week earlier	2
-Sisodia  Manish	2
-Holdings Sells	2
-Court of Appeal	2
-Swayamsevak Sangh	2
-Chennai Rains Chennai Floods Tamil Nadu	2
-Bill Real estate	2
-power supply	2
-China s economy	2
-Exchange were trading	2
-Bank invest	2
-Chennai rains Chennai flood Chennai rain	2
-General Directorate	2
-Rs   per kg in futures trade	2
-company Indian	2
-Rs   crore by raising	2
-Rajan  Raghuram	2
-temperature minimum	2
-relief Flood	2
-Chennai floods Tamil Nadu floods	2
-Nadu Tamil	2
-floods in Chennai Tamil Nadu	2
-Chennai floods Chennai rain Chennai rains	2
-Court today	2
-Bharat Mission	2
-system collegium	2
-investments would be through direct	2
-CEO Sundar Pichai	2
-CM Jayalalithaa	2
-flooding in recent	2
-equities domestic	2
-Government indian	2
-trade in a range	2
-equity investments	2
-Group Tata	2
-Nifty Sensex	2
-Services are Good	2
-Chennai floods floods in Chennai	2
-victims of the floods in Chennai	2
-inflation rate	2
-Tax Bill	2
-BUY  call	2
-Bharat Abhiyan	2
-Petroleum  Chennai	2
-chennai rains damages chennai rains	2
-call with a target	1
-flood Chennai Chennai	1
-higher education	1
-Sachs  Goldman	1
-rains  floods  Tamil Nadu	1
-Insurance IRDAI Health	1
-gdp Finance	1
-SELL  call with a target of Rs	1
-schools closed	1
-grams from Rs	1
-finance GST	1
-Floods Tamil Nadu Rains	1
-Chennai Rains Tamil	1
-year on the first of January	1
-NDTV Profit	1
-Rating  Says Growth	1
-large number	1
-Schools  US high	1
-today that focused	1
-Chennai flood Tamil nadu rain Chennai	1
-Malik Tashfeen	1
-conditions cold wave	1
-Bill Goods and Services Tax	1
-deficit Budget	1
-Raghuram Rajan  RBI Governor	1
-Sons Tata	1
-Floods Tamil Nadu Rains Chennai	1
-Chennai rain flooding in Chennai chennai	1
-trading thin	1
-investors Retail	1
-floods floods in Chennai	1
-government has initiated	1
-Rs  crore to   lakh	1
-lights on its streets	1
-Google CEO Sundar	1
-Government proposes	1
-Tata Consultancy	1
-Tamil Nadu rains Chennai floods Chennai	1
-rains Tamil Nadu rains	1
-Chennai Floods  Chennai Chennai Rains	1
-Tamil Nadu floods Tamil Nadu rains	1
-Floods Tamil Nadu Rain Chennai Rain	1
-rain Chennai Rains Chennai	1
-sharing between the nine European	1
-Flooded Chennai  Chennai floods	1
-Nadu floods	1
-Goods and Services  GST  Tax	1
-Birla Cellulose Aditya	1
-Arbitration court	1
-Real estate stocks	1
-Chennai Rains Tamil Nadu Floods Chennai	1
-Delhi High Court	1
-dip in mercury	1
-Auto Bajaj	1
-policy   As per the Foreign	1
-futures today traded	1
-Francis Pope	1
-rain Chennai flood Chennai	1
-Motors Tata	1
-Tuki Nabam	1
-Company  the private	1
-Rs   to   price	1
-duty on imports	1
-Shares Nikkei	1
-Rain Chennai Chennai Floods Chennai Rains	1
-Tashfeen Malik Farook	1
-floods Chennai rain Chennai rains  Tamil Nadu	1
-Chennai Chennai rains Tamil Nadu floods	1
-Pawar Sharad	1
-Football News	1
-futures up by Rs   per kg	1
-proposed by the government	1
-taxes directly	1
-floods Puducherry	1
-Chennai Chennai Floods  Rains in Chennai	1
-growth US gdp growth US economic	1
-months earlier	1
-cent to Rs   per kg in futures	1
-Tamil Nadu Chennai floods	1
-Rains Chennai Chennai rain Chennai floods	1
-Chennai Floods Tamil Nadu Rain Chennai Rain	1
-Chennai rains rains	1
-Tamil Nadu rains Chennai rains Chennai	1
-Stocks  Asian	1
-market currencies	1
-Higher in Listless Trading	1
-Sindhu  PV	1
-SELL  call	1
-industries such as steel	1
-Economic growth GDP	1
-Chennai Floods  Rains	1
-Management Fund	1
-Chennai  chennai  chennai flood	1
-GST Goods and Services	1
-Tamil Nadu Rains  Flood	1
-Chennai floods Chennai Chennai	1
-chief minister of Tamil Nadu	1
-Housing LIC	1
-GST passage	1
-bill Taxes	1
-rain Chennai rains Chennai flood	1
-investors mutual funds	1
-sectors Private	1
-sector Manufacturing	1
-Mahajan Sumitra	1
-cancer Breast	1
-Economy Markets	1
-Nifty Stock	1
-rain in Tamil Nadu Tamail Nadu	1
-lower by  points	1
-Motors Ltd  Eicher	1
-rains Chennai floods	1
-Services Financial	1
-today recommended	1
-target of Rs  and a stop loss of Rs	1
-hearing  The Court	1
-Tamil Nadu floods  Rain	1
-Mastani Bajirao	1
-market  Domestic	1
-Trading is expected	1
-rains Chennai Tamil Nadu floods	1
-GST  More than just a tax on goods and services	1
-Tamil Nadu Floods Chennai Chennai Rains	1
-market US labour	1
-Chennai and will operate	1
-Rs    cost	1
-court on Tuesday	1
-rains Tamil Nadu floods	1
-rains Chennai flood Chennai rain	1
-Hotel  Indian	1
-services consultation	1
-Director  managing	1
-inflation Retail	1
-Speaker Sumitra	1
-Flood Victims  Chennai	1
-Rains in Chennai Chennai Rains	1
+Surat Municipal Corporation	25
+Chief Justice	25
+Prashant Bhushan	25
+HC asks	25
+Pimpri Chinchwad	25
+Nagpur Improvement Trust  NIT	25
+plans to set	25
+Margao Municipal Council	25
+Kochi corporation	25
+Metro Rail Corporation	25
+irrigation projects	25
+Sergio Aguero	25
+World Heritage	25
+garbage collection	25
+Mumbai University	25
+chief minister Vasundhara Raje	25
+government schools	25
+Archaeological Survey of India	25
+Hyderabad High Court	25
+civic authorities	25
+Technical University	25
+solid waste management	24
+human resource development	24
+Division Football League	24
+city mayor	24
+Indore Municipal Corporation	24
+Court to hear	24
+water resources	24
+management council	24
+League Cup	24
+Football Confederation	24
+Airports Authority of India	24
+anticipatory bail	24
+High drama	24
+HC notice	24
+HC tells	24
+King George s Medical University	24
+Kochi Metro Rail	24
+Christine Lagarde	24
+acres of land	24
+Council of India	24
+city roads	24
+filed a complaint	24
+HC order	23
+bench of Bombay High Court	23
+files FIR	23
+Indian Institute of Technology	23
+Research Centre	23
+high court has directed	23
+Rajendra Institute of Medical Sciences	23
+high court on Thursday	23
+Fed Cup	23
+students from various schools	23
+HC stays	23
+Angelina Jolie	23
+industrial area	23
+external affairs	23
+Gareth Bale	23
+San Antonio	23
+Science and Technology	23
+Kerala high court	23
+National Commission	23
+coal mines	22
+school bus	22
+forms panel	22
+court on Wednesday	22
+public hearing	22
+National Human Rights Commission	22
+Dolly Ki Doli	22
+Indian Navy	22
+services tax	22
+medical university	22
+St Stephen s College	22
+Rohan Bopanna	22
+Gold Cup	22
+court on Friday	22
+beef ban	22
+Madras HC	22
+Sonakshi Sinha	22
+Rohith Vemula suicide	22
+Eoin Morgan	22
+public sector	22
+Startup India	21
+memorandum of understanding	21
+Jaipur Municipal Corporation	21
+Hockey India	21
+faculty members	21
+residential areas	21
+Municipal Corporation  BMC	21
+clean chit	21
+Redressal Forum	21
+Indian Wells	21
+show cause notice	21
+demolition drive	21
+public toilets	21
+city schools	21
+Allahabad University	21
+Navdeep Singh Virk	21
+Akal Takht	21
+property dealer	21
+owners association	21
+flag hoisting	21
+Private Limited	21
+Ghaziabad Development Authority	21
+Students Organization	21
+seeking permission	21
+Madurai bench of the Madras high court	21
+Cricket Australia	21
+filed a case	21
+high court order	21
+health services	20
+international cricket	20
+due to lack	20
+cricket match	20
+Corporate espionage	20
+code of conduct	20
+Law College	20
+driving licence	20
+Port City	20
+receiving complaints	20
+complaint filed	20
+Economic Development	20
+social networking	20
+Nepal quake	20
+moves HC	20
+colleges in the city	20
+Jack Warner	20
+superintending engineer	20
+Development Board	20
+President s rule in Arunachal Pradesh	20
+CBI probe	20
+student council	20
+Assistant commissioner	20
+Indian Medical Association	20
+submit a proposal	20
+Agricultural University	20
+Andhra Pradesh and Telangana	20
+complaint lodged	20
+Central University	20
+private bus	20
+Corporation of the City of Panaji	20
+Olympic Committee	20
+Chennaiyin FC	20
+Alexis Sanchez	20
+Institute of Management	19
+schools in the city	19
+building collapse	19
+St Stephen	19
+transport commissioner	19
+Australia vs New Zealand	19
+Indian Olympic Association	19
+civil services	19
+lay the foundation stone	19
+special investigation team	19
+planning to introduce	19
+CK Narayan	19
+Bajrangi Bhaijaan	19
+Zoo Authority	19
+Ravichandran Ashwin	19
+software engineer	19
+Nagpur Municipal Corporation Nagpur Improvement Trust	19
+Nigam Limited	19
+RTI Act	19
+weaker sections	19
+high court on Wednesday	19
+approved a proposal	19
+NDFA Elite	19
+basic amenities	19
+issued an order	19
+Teachers Association	19
+information commissioner	19
+Indian Oil Corporation	19
+Cricket Ground	19
+Lucknow Electricity Supply Administration	19
+Urban Development Authority	19
+Fort Kochi	19
+National Assessment and Accreditation Council	19
+Social Sciences	19
+Training Centre	19
+RTI activist	19
+Nashik Road	19
+conduct a survey	19
+railway minister Suresh Prabhu	19
+city colleges	19
+disaster management	19
+made it clear	19
+deputy director	19
+Cricket Board	18
+land grab	18
+Clean   Clear	18
+King George	18
+hear plea	18
+World Championships	18
+Chamber of Commerce and Industry	18
+Disaster Management Authority	18
+anti corruption	18
+students of classes	18
+National Investigation Agency	18
+Chandigarh administration	18
+FIR filed	18
+local residents	18
+Rajkot Municipal Corporation  RMC	18
+water resources department	18
+general body	18
+set ablaze	18
+model code of conduct	18
+Jaipur Development Authority	18
+FIR lodged	18
+general public	18
+Alok Ranjan	18
+sports complex	18
+apex court	18
+social networking site	18
+sq ft	18
+medical services	18
+deputy collector	18
+tax evasion	18
+Maharashtra State Road Transport Corporation	18
+Centre of Excellence	18
+earthquake in Nepal	18
+infrastructure projects	18
+standing panel	18
+Calicut University	18
+public places	18
+Nepal natural disaster	18
+Taj Mahal	17
+provide information	17
+information and broadcasting	17
+Sports Authority of India	17
+State Road Transport Corporation	17
+West Bromwich Albion	17
+Karnataka high court	17
+construction site	17
+project planning Maharashtra infrastructure	17
+Irrigation Development Corporation	17
+Himachal Pradesh chief minister Virbhadra Singh	17
+consumer forum	17
+registered an FIR	17
+passed orders	17
+Medical Council of India	17
+Mumbai City FC	17
+Panjab University Campus Students Council	17
+water bodies	17
+Emma Stone	17
+bus depot	17
+Shatrughan Sinha	17
+Haryana Urban Development Authority	17
+Indian Space Research	17
+Welfare Association	17
+Indian cricket	17
+Chandigarh Municipal Corporation	17
+sports ministry	17
+director general	17
+Industrial Development Corporation	17
+National Institute of Technology	17
+Dadri lynching	17
+law and order situation	17
+detailed project report	17
+provide free	17
+Indian fishermen	17
+Cyclone Hudhud	17
+solid waste	17
+Delhi Metro Rail Corporation	16
+students and parents	16
+public works department  PWD	16
+Ahmedabad Municipal Corporation  AMC	16
+school principal	16
+RTI application	16
+Information Commission	16
+Maharashtra Industrial Development Corporation  MIDC	16
+foundation stone	16
+Madurai district	16
+remove encroachments	16
+judicial magistrate	16
+roads in the city	16
+Thursday directed	16
+vigilance bureau	16
+special drive	16
+World Health Organization	16
+Joseph Vaz	16
+Kolhapur Municipal Transport	16
+National Disaster	16
+Municipal Corporation  KMC	16
+Delhi Jal Board	16
+Raman Science Centre	16
+proposal to set	16
+ward number	16
+submit a detailed	16
+draft DP	16
+Suresh Raina	16
+filed a petition	16
+Keeping Up with the Kardashians	16
+executive committee	16
+face action	16
+electric poles	16
+pelted stones	16
+Class XI	16
+Economic Offences Wing	16
+Isl Indian Super League	16
+notice issued	15
+plea seeking	15
+public private partnership	15
+residential school	15
+electricity department	15
+Greater Visakhapatnam Municipal Corporation  GVMC	15
+devastating earthquake	15
+Thane Municipal Corporation	15
+urban development department	15
+Science College	15
+expansion plans	15
+floated tenders	15
+survey conducted	15
+Sri Lankan navy	15
+NGT order	15
+Cricket news	15
+Kozhikode corporation	15
+Indian Super League  ISL	15
+Andhra Pradesh government	15
+garbage dump	15
+Rio Games	15
+district judge	15
+Pune FC	15
+IPL match	15
+Vadodara Municipal Corporation	15
+Football Federation	14
+property tax defaulters	14
+bus fares	14
+World Cup final	14
+bail application	14
+FIR was registered	14
+child development	14
+FIFA World Cup	14
+Mitchell Marsh	14
+high court judge	14
+Construction of road	14
+local body tax	14
+tourism promotion	14
+formed a committee	14
+constituted a committee	14
+Athletics Federation	14
+filed a chargesheet	14
+Mumbai Marathon	14
+Court rejects	14
+Patna University	14
+plan to build	14
+Renewal Mission	14
+Punjab and Haryana	14
+waste disposal	14
+social welfare	13
+appeal filed	13
+development programme	13
+CBI court	13
+high court of Bombay	13
+issued a circular	13
+development of at least three smart cities	13
+Athletics Association	13
+IGI Airport	13
+Ministry of External Affairs	13
+start work	13
+application filed	13
+attach properties	13
+English football	13
+teachers in schools	13
+Suicide Rohith Vemula	13
+football news	13
+University Campus	13
+World Health	13
+court has directed	13
+Electricity Supply	13
+Investigation Agency	13
+University Delhi	13
+Bombay high court on Wednesday	13
+signs MoU	13
+Friday directed	13
+complete the work	13
+infrastructure development	13
+PIL filed	13
+Patna high court	12
+sessions judge	12
+Management Committee	12
+Women Commission	12
+student suicide	12
+St Joseph	12
+city areas	12
+registered a complaint	12
+deputy mayor	12
+special trains	12
+Noida Greater	12
+civic chief	12
+district and sessions	12
+academic council	12
+University students	12
+town and country planning	12
+Engineering and Technology	12
+Additional commissioner	12
+illegal sand	12
+Sports Authority	12
+court seeking	12
+Goa tourism	12
+road construction	12
+heritage sites	12
+rights activists	12
+public health	12
+ordered an inquiry	12
+Transport Authority	12
+lower court	12
+Bombay high court on Friday	12
+Public Service	12
+seeks details	12
+State Information Commission	12
+building plans	12
+stay order	11
+order issued	11
+conducted raids	11
+Madhya Pradesh high court	11
+nominations filed	11
+University colleges	11
+Amendment  Act	11
+Probe ordered	11
+initiate action	11
+colleges and  universities	11
+water supply	11
+human resource	11
+students from different colleges	11
+Bar Council	11
+FC Pune	11
+Commission for Women	11
+panel to probe	11
+parents and students	11
+team probing	11
+city smart	11
+Olympic Association	11
+Telangana and Andhra Pradesh	11
+Goa Medical College	11
+Technological University	10
+Rajkot Municipal Corporation	10
+Cup final	10
+Football League	10
+Nagpur Metro	10
+magistrate court	10
+area of the city	10
+Children  school	10
+Child Welfare	10
+students from various universities	10
+Indian Council	10
+collector s office	10
+issued directions	10
+TOI reported	10
+report submitted	10
+Orissa high court	10
+Arts College	10
+asked the Centre	10
+transport department	10
+civic officials	10
+University  PU	10
+Chamber of Commerce	10
+University of Technology	10
+Calcutta high court	10
+tax hike	10
+State Electricity	10
+committee members	10
+Kochi Metro	10
+probe panel	9
+bail granted	9
+bus operators	9
+College of Arts	9
+ban on beef	9
+government is planning	9
+PU student	9
+development minister	9
+order passed	9
+world number	9
+Planning Authority	9
+district on Thursday	9
+high court on Tuesday directed	9
+work complete	8
+filed an appeal	8
+Information  RTI	8
+medical university king George	8
+hike fares	8
+face tough	8
+Cup semifinal	8
+city residents	8
+Regulatory Commission	8
+Meghe NDFA	8
+filed a PIL	8
+tax collection	8
+Campus Students	8
+external affairs ministry	8
+chargesheet will be filed	8
+deputy superintendent	8
+problems faced	8
+Cup  world	8
+committee constituted	8
+public works	8
+disposal  waste	8
+welfare department	8
+work to start	8
+blocked the road	8
+Haryana high court	8
+Super League	8
+tax defaulters	8
+raids were conducted	8
+violating rules	8
+Regulatory Authority	8
+Road Transport Corporation	8
+govt school	8
+parts of the country	7
+Maharashtra State Road	7
+Institute of India	7
+Kolkata police	7
+Himachal Pradesh high court	7
+Industrial Development	7
+Survey of India	7
+team investigating	7
+town and country	7
+rural areas	7
+property attachment	7
+Vemula suicide	7
+tells HC	7
+health department	7
+Disaster Response Force	7
+works department	7
+Australia India	7
+Kathmandu Earthquake	7
+World Cup  ICC Cricket World Cup	7
+district on Tuesday	7
+shop owner	7
+Authority is planning	7
+work in public	7
+Management Authority	7
+Coal India	7
+committee formed	7
+water project	7
+development plan  DP	7
+Greater Visakhapatnam Municipal Corporation	7
+stone pelting	7
+National Accreditation and Assessment Council	7
+Bureau of Investigation	7
+project in the city	7
+Budget  Rail	7
+encroachers removed	7
+world football	7
+Technology and Engineering	7
+sets sights	7
+chief minister	7
+dumping garbage	7
+Council of Medical	6
+tax department	6
+Centre for Science	6
+principal of a school	6
+Electricity Board	6
+government to provide	6
+online admission	6
+department is working	6
+hike fees	6
+agriculture department	6
+detailed report	6
+Medical Association	6
+Federation of India	6
+judicial magistrate court	6
+City FC	6
+promote tourism	6
+Commerce and Industry	6
+Medical Sciences	6
+cricket betting	6
+Football Club	6
+Association of Bars	6
+Management Institute	6
+proposal to hike	6
+complaints received	6
+collection of garbage	6
+rail project	6
+state government	6
+Lucknow Metro	6
+Noida Residents	6
+women and child	6
+road block	6
+development department	6
+Mumbai Cricket	6
+Congress Committee	5
+City Water	5
+high court has asked	5
+Goa police	5
+central government	5
+filed an application	5
+Judge Court	5
+government in Uttar Pradesh	5
+Medical Council	5
+City project	5
+tourism minister	5
+order that stayed	5
+Australia  Cricket	5
+Panel formed	5
+investigation team	5
+MOU signed	5
+Council of Indian	5
+private sector	5
+asks court	5
+road work	5
+city from different parts	5
+industrial policy	5
+AMC Ahmedabad Municipal Corporation	5
+supplies department	5
+directive issued	5
+Himachal Pradesh chief minister	5
+India Survey	5
+Economic Offences	5
+Sector  residents	5
+residents and local	5
+campus of the university	5
+Inquiry ordered	5
+Ahmedabad Municipal Corporation	5
+Municipal Corporation  SMC	5
+Lankan navy	5
+Madurai Madras High Court	5
+committee meeting	5
+circular issued	5
+TMC Thane Municipal Corporation	5
+Municipal Corporation  VMC	5
+Nagpur Municipal Corporation Nagpur	5
+department is planning	5
+women s hockey	5
+member committee	5
+Bombay high	5
+plans action	4
+ICC World	4
+India Council	4
+Institute of Research	4
+corruption case	4
+complaint with Bhabua police	4
+probe team	4
+ICC World Cup  Cricket World Cup	4
+water level	4
+world cricket	4
+Cricket World	4
+seeking court	4
+project to develop	4
+works for construction	4
+Post Graduate Institute	4
+Madurai bench	4
+State Disaster Management	4
+train services	4
+ICC Cricket	4
+Nagpur bench	4
+department has decided	4
+Municipal Corporation  PMC	4
+District Consumer	4
+University of Agriculture	4
+Survey of India  ASI	4
+developing infrastructure	4
+Medical Institute	4
+class judicial magistrate	4
+put in place	4
+Tuesday announced	4
+University s  IMU  Mumbai	4
+proposal submitted	4
+students on campus	4
+Metro in Delhi	4
+told TOI	4
+Child Rights	4
+quake nepal	4
+final World Cup	4
+Women s World	4
+PU Panjab University	4
+ST SC	4
+Super Kings	4
+working towards development	4
+Union urban development	4
+Maharashtra Industrial Development Corporation	4
+stay on the HC	4
+Taxes property	4
+anti corruption bureau	4
+court has asked	4
+Accreditation Council	4
+India Startup	4
+Court Special	4
+tenders are likely to be floated	4
+planning department	4
+Gujarat government	4
+court of district	4
+commissioner Deputy	4
+President s rule in Arunachal	4
+cases reported	4
+private or public	3
+hike tax	3
+mined sand	3
+work on road	3
+hearing in the court	3
+Association of Indian Medical	3
+directed by the court	3
+Friday announced	3
+graduate and post	3
+Wednesday announced	3
+government s proposal	3
+action can be initiated	3
+notices served	3
+government Andhra Pradesh	3
+Madras high court bench	3
+Thane Municipal	3
+India Limited	3
+University in Lucknow	3
+Region Development	3
+Service Commission	3
+schools to private	3
+Municipal Council  MMC	3
+Thursday  courted	3
+hike proposal	3
+Department of Tourism	3
+residents of sector	3
+Act  Amendment	3
+football World	3
+Technological Institute	3
+directions of the high court	3
+GVMC  Greater Visakhapatnam Municipal Corporation	3
+Aurangabad bench	3
+match of the IPL	3
+court judge	3
+director general of police	3
+FC  Mumbai	3
+Aurangabad Municipal	3
+Corporation  KMC	3
+budget session	3
+World Cup  Cricket	3
+set up the proposed	3
+chief executive	3
+CBI investigation	3
+commissioner of police	3
+Palm Beach	3
+minister Laxmikant	3
+Urban Renewal Mission	3
+order in high court	3
+investigating the case	3
+Pradesh chief minister	3
+mayor and deputy	3
+grab land	3
+transport minister	3
+State Road Transport	3
+NMC Nagpur Municipal Corporation	3
+Court Supreme	3
+Visakhapatnam Municipal Corporation	3
+Mufti Mohammad	3
+collector and district	3
+Court CBI	3
+Beach Road	3
+Suresh Prabhu Railway Minister	3
+World Cup  ICC	3
+developed for tourism	3
+probed by the CBI	3
+report will detail	3
+University of Gujarat	3
+League Football	3
+Municipal Corporation  RMC	3
+ICC World Cup  Cricket	3
+investigating officer	3
+Division League Football	3
+orders by the Court	3
+College of Science	3
+lay the foundation	3
+Municipal Corporation  AMC	3
+Ahmedabad Municipal	3
+deputy chief	3
+proposal approved	3
+University Central	3
+NMC Nashik Municipal Corporation	3
+Laxmikant Parsekar  Chief minister	3
+Municipal Corporation Nashik	3
+Goa state	3
+engineers and executives	3
+Council Students	3
+asks HC	3
+judge Bandu Gomase  District	3
+World Women	3
+cases registered	3
+police in Kolkata	3
+College Dental	3
+Institute of Medical	3
+schools  both public	3
+League match	3
+Act  RTI	3
+student of PU	3
+general of police	3
+rule violations	3
+India Institute	3
+Corporation Mayor	3
+India visit	3
+reported in the media	3
+Marsh Mitchell	3
+mayor of city	3
+Jal Board	3
+International Olympic	2
+project detailed	2
+hoisting flag	2
+collecting tax	2
+International Women	2
+asked to appear before the high court	2
+department and public works	2
+Mahendra Singh	2
+city s port	2
+supply water	2
+sand illegally	2
+Kings XI	2
+police commissioner	2
+Institute  The first ever Indian	2
+constructed illegally	2
+announced on Friday	2
+judges in six high courts	2
+Dhoni  Mahendra Singh	2
+Government Medical College	2
+RMC  Rajkot Municipal Corporation	2
+information is provided	2
+services   public	2
+West Bromwich	2
+College of Law	2
+Civil society	2
+Tuesday  The district	2
+Limited private	2
+FC ISL	2
+bus and a school	2
+health centre	2
+asked the government	2
+orders HC	2
+Investigation Bureau	2
+foundation stone laying	2
+session on Oxbridge academic	2
+facing problems	2
+Centre for Research	2
+State Disaster	2
+University  Calicut	2
+urged the Centre	2
+India Football	2
+NIT Nagpur Improvement Trust	2
+amendment in Land	2
+engineer in chief	2
+Council and Academic	2
+developing industrial	2
+court trials	2
+Science Centre	2
+water pipeline	2
+providing yeomen service	2
+process for admission	2
+order    NGT	2
+court Madurai	2
+Thursday announced	2
+proposed the government	2
+district Madurai	2
+visit India	2
+operated from outside the bus	2
+public private	2
+management  PGP  at Indian Institute	2
+Department of Agriculture	2
+Health Mission	2
+districts of Nagpur	2
+principal of two different colleges	2
+department officials	2
+improve the quality	2
+water to the city	2
+Indian Railways	2
+HC  Move	2
+court that the high	2
+marathon in the Mumbai	2
+transport through road	2
+detailed project	2
+RTI information	2
+court magistrate	2
+mines  coal	2
+Royal Challengers	2
+project  Water	2
+High Court  The Kerala	2
+Pradesh Congress	2
+residents of the city	2
+Haryana  the Punjab	2
+registered a case	2
+Delhi Police	2
+licence driving	2
+team Hockey	2
+area of the Industrial	2
+chief minister Mufti	2
+Friday in the Bombay high court	2
+team Cricket	2
+Tourism Development	2
+India hockey	2
+media  Social	2
+Complaints registered	2
+Centre and the state	2
+Planning expansion	2
+President FIFA	2
+university medical	2
+National Games	2
+sites constructed	2
+Madras high	2
+Corporation  BMC	2
+Airports Authority	2
+UGC    The University Grants Commission	2
+Raje  Vasundhara	2
+imposed a fine	2
+Pune police	2
+additional chief	2
+Asian Games	2
+centres  training	2
+additional sessions	2
+state transport	2
+Oil Corporation	2
+project  the  Smart Cities	2
+World Economic	2
+Space Research	2
+Municipal Corporation Kolhapur	2
+Sports Club	2
+women in the Indian	2
+Corporation Municipal	2
+Visakhapatnam Greater	2
+bench  The Aurangabad	2
+minister Suresh Prabhu	2
+court of judicial magistrate	2
+Champions League	2
+matches    While cricket	2
+defaulted tax	2
+metro Nagpur	1
+schools and the government	1
+health ministry	1
+government in Delhi	1
+Urban Renewal	1
+initiative  the Government	1
+cleared with clean	1
+High Court  The Gujarat	1
+Central Investigation Bureau	1
+government for failing	1
+magistrate District	1
+commission informed	1
+Municipal Corporation  Ahmedabad	1
+seeks HC	1
+Corporation development	1
+Isl Indian	1
+collapse of a building	1
+Water Utility	1
+sights were set	1
+Karnataka government	1
+rights Child	1
+culture and art	1
+court on Monday directed	1
+special team   which is investigating	1
+country as part	1
+health minister	1
+Thursday after district	1
+Raina  Suresh	1
+Warner  David	1
+Response Force	1
+department  PWD	1
+reported at Puthuvype    Two cases	1
+University  With Jadavpur	1
+Chief Minister of Himanchal Pradesh Virbhadra Singh	1
+Centre has asked	1
+Municipal Corporation Lucknow	1
+reportedly told	1
+national president	1
+City commissioner of police	1
+railway minister Suresh	1
+Smart Cities   to be developed	1
+rule in Arunachal	1
+PMC    The Pune Municipal Corporation	1
+session and district	1
+High Court  The Himachal Pradesh	1
+commissioner s office	1
+Wednesday said court	1
+government has decided	1
+President s rule	1
+DP development plan	1
+students  Panjab University s campus	1
+Mohammad Sayeed	1
+metro rail  Kochi	1
+medical officer	1
+College principal	1
+Telangana government	1
+Tuesday  The high court	1
+commission on all services	1
+government to initiate	1
+Council  MMC	1
+MIDC  Maharashtra Industrial Development Corporation	1
+Virbhadra Singh Himachal Pradesh Chief Minister	1
+Hyderabad Central	1
+McIlroy Rory	1
+department of electrical	1
+University Campus Students	1
+plan to the government	1
+High Court  The Hyderabad	1
+Road Nashik	1
+Arunachal is placed under president rule	1
+Indian Olympic	1
+National Human	1
+Elite Division	1
+Municipal Corporation Municipal commissioner	1
+Management Disaster	1
+model code	1
+bench and the Madurai	1
+state govt	1
+Central Board	1
+Nagpur Municipal	1
+Budget  Budget	1
+ASI  of the India	1
+Nagpur Improvement Trust Nagpur Municipal Corporation	1
+qualify for the next World Cup	1
+World T  ICC	1
+application under the RTI	1
+Regional Transport	1
+detail and submit	1
+Transport Office	1
+PU  University	1
+public meeting	1
+Singh Mahendra	1
+Institute Rajendra	1
+development  human resource	1
+Cricket  The Indian	1
+World Cup  women	1
+Games  Rio	1
+direction on Friday	1
+investigation  Special	1
+poles  electric	1
+Corporation  PMC	1
+development  Urban	1
+director management	1
+McCullum  There s a Brendon	1
+council in  municipalities	1
+Corporation to transport	1
+Super Kings  With Chennai	1
+official civic	1
+planning Maharashtra infrastructure	1
+commissioner Additional	1
+PWD minister	1
+nationals and six Indians	1
+head of department	1
+University  Allahabad	1
+Bureau  and the Central	1
+Friday following a high court	1
+Football FC	1
+World Cup  FIFA	1
+authorities airport	1
+Karnataka State	1
+Corporation of the City	1
+municipal commissioner  Corporators	1
+rejected  UN Court	1
+admissions to go online	1
+minister for urban development	1
+LBT   This tax	1
+City police commissioner	1
+Wing  The Economic Offences	1
+Corporation  TMC	1
+Management Disaster Authority	1
+Pradesh and Madhya	1
+DP     While the draft	1
+private public partnership	1
+Committee Executive	1
+commissioner  After municipal	1
+deputy chief minister	1
+plea would come up for hearing	1
+HC    The Bombay	1
 Disaster Response	1
-ideas  What to Buy  Sell	1
-chennai Tamil Nadu rain	1
-BSE Sensex Nifty NSE	1
-sector under public	1
-Chennai Rains Chennai rain damages	1
-Chennai Chennai Floods Chennai	1
-Saina Nehwal   Badminton News	1
-growth Economic growth GDP	1
-Expect Indian market	1
-Rs  lakh worth	1
-euros     billion	1
-accounts banks	1
-today announced	1
-Farook Syed	1
-rate rise	1
-High Court  The Madras	1
-BSE  Nifty	1
-year or so it certainly would have been coming	1
-Ibrahim Dawood	1
-Ten stocks	1
-Bill services tax GST	1
-Rains Chennai Floods Chennai Flood Help Chennai	1
-services to the public	1
-Floods in Chennai Chennai Rains Tamil Nadu	1
-crore to   lakh	1
-power project	1
-Google CEO	1
-Chennai rains Chennai floods Floods	1
-floods Chennai floods	1
-rains Tamil Nadu Floods Chennai Chennai Rains	1
-Patients with cancers	1
-Farook Tashfeen Malik	1
-good GST	1
-prices commodity	1
-cess Chardham Bharat	1
-floods Chennai rains Tamil Nadu	1
-Real Madrid   Football News	1
-Tamil Nadu Floods  Chennai rain Chennai	1
-Tamil Nadu rains Chennai floods Chennai rain	1
-stocks China	1
-stocks Singapore exchange	1
-Flood Relief Chennai	1
-Chennai rains Tamil Nadu rains	1
-false  DefPriority      LatentStyleCount        w LsdException Locked	1
-Sanders  Bernie	1
+Municipal Corporation Kolkata	1
+state health department	1
+order on law	1
+State Information	1
+judicial magistrate  The chief	1
+League Super	1
+consumer    District	1
+Parsekar  ZPs Laxmikant	1
+Pro Kabaddi	1
+Central Railway	1
+Arunachal  The ruling	1
+meeting of the new body	1
+championships Athletics	1
+Municipal Corporation commissioner	1
+University Campus Students Council	1
+activist and social	1
+Mumbai police	1
+earlier this month	1
+University s Technical	1
+granted unitary university	1
+Royals  Rajasthan	1
+suicide of Vemula	1
+Association Nandesari Industries	1
+VMC Vadodara Municipal Corporation	1
+order situation	1
+networking sites	1
+told reporters	1
+railway minister	1
+Gujarat high	1
+courts  lower	1
+Cup Davis	1
+Indian Medical	1
+bench    A division	1
+Championships  World	1
+city police	1
+SIT  special investigation team	1
+matches for his th league	1
+set up plans	1
+FIFA president	1
+Organization World Health	1
+number  The whole world	1
+Road Transport Corporation state	1
+plea for second bail	1
+Visakhapatnam Municipal	1
+Mumbai and Navi	1
+Pune Municipal	1
+Cricket World Cup   The th World Cup	1
+authorities and the transporter	1
+police commissionerate	1
+Narayan  CK	1
+parts of the state	1
+Visakhapatnam Municipal Corporation  GVMC	1
+President national	1
+official Department	1
+Isl FC	1
+commissioner assistant	1
+industries and commerce	1
+development and economic	1
+Nashik Municipal	1
+Association and welfare	1
+special investigation	1
+limit  the corporation	1
+public in general	1
+area to have residential	1
+Human Rights Commission Chijarsi  The National	1
+body  The civic	1
+directed the state	1
+government officials	1
+programmes and development	1
+Smith  Steve	1
+School Fravashi International	1
+Nagpur Corporation	1
+service and medical	1
+Isl Indian Super	1
+police  City	1
+Panaji city	1
+City FC  Mumbai	1
+Navy Indian	1
+report in TOI	1
+council meeting	1
+earthquake Kathmandu	1
+Delhi high	1
+Jal Board Delhi	1
+state of Goa	1
+Services Civil	1
+Raman Singh	1
+presented his budget	1
+showing signs	1
+organized by students	1
+Municipal Corporation  The Pune	1
+Association football	1
+Central University of Hyderabad	1
+FC football	1
+state board	1
+council of management	1
+schools  residential	1
+AMC  The Aurangabad Municipal Corporation	1
+school Govt	1
+Court  A local	1
+place for public	1
+government has approved	1
+chief minister Raman Singh	1
+Corporation Municipal commissioner	1
+Municipal Corporation  The Pimpri Chinchwad	1
+project Road	1
+Pradesh  Andhra	1
+Municipal Corporation Aurangabad	1
+announced on Thursday	1
+RMC  corporators	1
+champion and world	1
+Metro   Kochi	1
+Thursday in the high court	1
+PWD public works department	1
+minister Vasundhara Raje	1
+students from different engineering	1
+authorities to develop	1
+BMC  Corporators	1
+government is all set	1
+Haryana government	1
+Judicial First Class Magistrate	1
+Central Bureau	1
+put on hold	1
+Panjab University Campus	1
+lynching Dadri	1
+agriculture minister	1
+University and Shivaji	1
+project Rail	1
+ministers  The development	1
+Chief Minister  Himachal Pradesh	1
+Indian Super	1
+Margao Municipal	1
+AMC  Corporators	1
+governing body	1
+Kardashian Kim	1
+rule in Arunachal Pradesh	1
+Ground Cricket	1
+Sinha Shatrughan	1
+Friday after a court	1
+board Development	1
+bureau  The anti corruption	1
+Sayeed  Mufti Mohammad	1
+Indian Space	1
+management and the general	1
+court sessions	1
+Health directorate	1
+League  Football First Division	1
+Arunachal Pradesh  President s Rule	1
+Monday s high court	1
+Madurai court	1
+Indian Oil	1
+Chamber of Industry and Commerce	1
+draft development	1
+MC  Municipal Corporation	1
+agencies investigating	1
+tax defaulters  properties	1
+tourism in Goa	1
+Pradesh government	1
+Kabaddi League	1
+India in association	1
+commissioner informed	1
+Cyrus  Miley	1
+Division Football	1
+high court for Haryana	1
+minister for railways  Suresh Prabhu	1
+law minister	1
+resource development	1
+plan Town	1

@@ -1,628 +1,1061 @@
-Barack Obama	392
-Donald Trump	367
-Andhra Pradesh	261
-Uttar Pradesh	250
-President Barack Obama	189
-Madhya Pradesh	181
-White House	170
-Hillary Clinton	169
-oil prices	162
-Vladimir Putin	154
-Virat Kohli	151
-Municipal Corporation	149
-Salman Khan	143
-President Pranab Mukherjee	129
-Pranab Mukherjee	107
-Arunachal Pradesh	98
-degrees Celsius	97
-Ravichandran Ashwin	93
-Bharti Airtel	92
-Ajinkya Rahane	91
-Mark Zuckerberg	89
-Solar power	89
-Reliance communications	85
-Reliance Jio	85
-Boko Haram	85
-Himachal Pradesh	83
-Morgan Stanley	79
-Reliance Industries	79
-Piyush Goyal	77
-Net neutrality	76
-International Airport	73
-Mohammad Amir	70
-Crude oil	68
-John Kerry	67
-solar energy	64
-Lionel Messi	62
-Mahindra   Mahindra	61
-higher education	59
-Rio Olympics	56
-Dharmendra Pradhan	55
+Narendra Modi	519
+police station	395
+Prime Minister Narendra Modi	385
+Premier League	299
+city police	286
+Prime Minister	273
+crime branch	213
+Champions League	198
+Shiv Sena	194
+Salman Khan	184
+water supply	184
+Jammu and Kashmir	161
+PM Narendra Modi	157
+police arrested	154
+Delhi Police	145
+committed suicide	139
+Grand Prix	131
+murder case	125
+Manchester United	125
+police officer	113
+Manchester City	112
+Akhilesh Yadav	112
+traffic police	110
+PM Modi	105
+Civil Hospital	104
+chief minister Akhilesh Yadav	102
+Amitabh Bachchan	100
+mutual fund	97
+Jose Mourinho	97
+PGA Tour	95
+family members	93
+private hospital	91
+Rajnath Singh	90
+Wall Street	89
+Jordan Spieth	89
+allegedly raped	86
+terror attack	86
+drinking water	84
+joined hands	79
+alleged involvement	79
+IPS officer	78
+arrested two persons	76
+Sushma Swaraj	74
+police commissioner	72
+Manohar Parrikar	71
+defending champions	68
+Grand Slam	67
+area of the city	67
+police custody	66
+killed   injured	65
+degrees Celsius	62
+power plant	60
+Francois Hollande	60
+Saudi Arabia	60
+Maria Sharapova	56
+farmer suicides	55
+John Kerry	55
+minor girl	55
+Louis Berger	55
 rape case	55
-red alert	54
-railway station	54
-Republican presidential	53
-venture capital	52
-Angela Merkel	52
-Vasundhara Raje	51
-murder case	51
-Essar Oil	51
-International Space Station	50
-power plants	49
-Idea Cellular	47
-Juvenile Justice Bill	46
-Bill Gates	46
-Jiah Khan	45
-JP Nadda	45
-Tech Mahindra	44
-Hashim Amla	43
-Mufti Mohammad Sayeed	43
-Indian students	43
-Secretary of State John Kerry	42
-joint venture	42
-mobile phone	42
-swine flu	42
-renewable energy	42
-panchayat polls	42
-Shakur Basti	41
-Anirban Lahiri	41
-Shah Rukh Khan	40
-nuclear power	40
-Azam Khan	40
-TS Thakur	40
-Ted Cruz	39
-crude oil prices	39
-Bayern Munich	38
-Oscar Pistorius	38
-Medical College	38
-Credit Suisse	38
-Francois Hollande	37
-President Vladimir Putin	37
-ban Muslims	36
-Russian President Vladimir Putin	36
-Imran Khan	35
-Meteorological Department	35
-Indian Railways	34
-public transport	34
-Dale Steyn	34
-Hema Upadhyay	34
-Aamir Khan	34
-Steven Smith	33
-Pay Commission	33
-Andhra Pradesh government	33
-North America	33
-Amnesty International	32
-police station	32
-crude prices	32
-clean energy	31
-juvenile convict	31
-Juvenile Justice	31
-panchayat elections	30
-presidential candidate	29
-Dadri lynching	29
-Road Transport and Highways	29
-district administration	29
-Abdul Kalam	29
-Remo Fernandes	29
-Mother Teresa	29
-Miss Universe	29
-minus   degrees Celsius	29
-Reliance Capital	28
-JP Morgan	28
-Comfort Women	28
-Satellite Launch	28
-Arunachal Pradesh Governor	28
-Oil market	28
-hate crime	27
-Uttar Pradesh government	27
-Person of the Year	27
-St Stephen	27
-sex slaves	27
-family members	27
-allegedly raped	26
-Obama administration	26
-road accident	26
-Maggi noodles	26
-telecom companies	26
-Information Technology	26
-Bharti Airtel Airtel	26
-Chancellor Angela Merkel	26
-Indian Institute	25
-crime branch	25
-Sergei Lavrov	25
-Hassan Rouhani	25
-QFormat  true	25
-Justin Trudeau	25
-Bill Clinton	25
-minor girl	25
-water supply	25
-President Pranab Mukherjee today	25
-rural areas	25
-Dilma Rousseff	25
-mobile app	24
-industrial output	24
-Barack Obama  US President	24
-credit card	24
-oil exports	24
-Indian Government	24
-Anurag Thakur	24
-Novak Djokovic	24
-Indian Oil Corporation	23
-release of the juvenile convict	23
-oil company	23
-Pep Guardiola	23
-actor Salman Khan	23
-Khan Market	23
-World Health Organization	23
-presidential race	23
-Southeast Asia	23
-Hema Malini	23
-Donald Trump Calls	23
-Steve Smith	23
-Presidential election	23
-HIV AIDS	22
-power project	22
-Mehbooba Mufti	22
-Tuesday night	22
-Derek O Brien	22
-today launched	22
-Baba Ramdev	22
-Crude oil futures	22
-gang rape	22
-schools closed	21
-Facebook post	21
-Samet Hyuseinov	21
-road projects	21
-Ramesh Chennithala	21
-emergency landing	21
-Women and Child Development	21
-Wayne Rooney	21
-Life Sciences	21
-Samsung Electronics	21
-food safety	21
-Institute of Medical Sciences	21
-municipal councils	21
-Sheena Bora murder case	21
-Merrill Lynch	21
-mobile towers	21
-presidential hopeful	21
-opened fire	21
-death sentence	21
-losing streak	21
-Road Transport	20
-fire broke	20
-Indian Oil	20
-Science and Technology	20
-solar scam	20
-Reliance Defence	19
-Sun Pharmaceutical Industries	19
-Uma Bharti	19
-Azhar Ali	19
-Mumbai airport	19
-Khan Academy	19
-President Dilma Rousseff	19
-power tariff	19
-space agency	19
-Queen Elizabeth	19
-Year Award	18
-Chintan Upadhyay	18
-Narayana Hrudayalaya IPO	18
-radio station	18
-Food and Drug Administration	18
-Netaji Subhas Chandra Bose	18
-liquor ban	18
-acres of land	18
-forest department	18
-fake encounter	18
-Seventh Pay Commission	18
-pays tribute	18
-Bharti Enterprises	18
-power supply	18
-Strides Arcolab	18
-Guinness World Record	18
-Sheena Bora	18
-French President Francois Hollande	18
-double murder	17
-JP Rajkhowa	17
-Twitter account	17
-Sunday night	17
-solar panels	17
-Nuclear Plant	17
-Chetan Chauhan	17
-Atomic Energy	17
-Indian Institute of Technology	17
-PAN card	17
-Telecom Regulator	17
-power generation	17
-Donald Trump Muslims	17
-Republican presidential candidate	17
-International Solar Alliance	17
-Muslim ban	16
-Maithripala Sirisena	16
-Power Minister Piyush Goyal	16
-Strides Shasun	16
-food items	16
-road safety	16
-married couple	16
-Space Research	16
-Kim Jong	16
-Bill Passed	16
-Narayana Hrudayalaya	16
-nuclear energy	16
-HCL Technologies	15
-infant deaths	15
-Wind energy	15
-age to  years	15
-Brent crude	15
-Steve Harvey	15
-World Health Organisation	15
-Institute of Technology	15
-Passes Bill	15
-government employees	15
-Singapore satellites	15
-Edible oil	15
-Reliance Group	15
-Shah Rukh	14
-Opec oil	14
-years in jail	14
-Factory output	14
-Republican presidential candidate Donald Trump	14
-Chandra Bose	14
-Hero MotoCorp	14
-Crude palm	14
-Jailed For  Years	13
-President Mukherjee	13
-Monday morning	13
-Juvenile Bill	13
-Opec oil market	13
-Tuesday morning	13
-Nirbhaya case	13
-President Francois Hollande	12
-time of the year	12
-gram panchayats	12
-Mumbai Police	12
-prices Oil	12
-OPEC meet	12
-Rockets fired	12
-Lionel Messi Football	12
-Bill Cosby	12
-retirement age	12
-years ago	12
-Andhra Pradesh and Telangana	11
-charged with murder	11
-women safety	11
-years of age	11
-juvenile s release	11
-Hema Upadhyay Murder	11
-French President	11
-Emergency Response	11
-Facebook Mark Zuckerberg	11
-Turkish President	11
-early next year	11
-end of the year	10
-Saturday morning	10
-children out of school	10
-initial public offering	10
-transport department	10
-George W Bush	10
-oil prices Oil market	10
-Brent crude oil prices	10
-convicted of murder	10
-Democratic presidential	10
-Telangana and Andhra Pradesh	10
-ban Donald Trump	10
-school teacher	9
-Wednesday morning	9
-oil imports	9
-Development Authority	9
-Airports International	9
-Beijing red alert	9
-school children	9
-Brent crude oil	8
-Pradesh Andhra	8
-government has initiated	8
-murder conviction	8
-oil futures	8
-Delhi Gang Rape	8
-oil Crude	8
-Salman Khan case	8
-warning letter	8
-Women and Child	8
-sentenced to death	8
-Muslims from entering	7
-Transport Corporation	7
-Business School	7
-Russian President	7
-murder charges	7
-Space Station	7
-red alert Beijing	7
-safety of women	6
-case Salman Khan	6
-Pradesh  Uttar	6
-girl was allegedly	6
-Mark Zuckerberg Facebook	6
-Brent crude prices	6
-ban liquor	6
-fired rockets	6
-Muslims Donald Trump	6
-Upadhyay Hema	6
-run case	6
-juvenile convict s release	6
-Year celebrations	6
-Russia putin	6
-teacher in her school	6
-left  people	6
-presidential candidate Donald Trump	6
-Sheena Bora murder	6
-Subhash Chandra	5
-Pranab Mukherjee President	5
-Salman Khan hit and run	5
-Group Reliance	5
-release of juvenile	5
-Government proposes	5
-Uttar Pradesh Chief Minister	5
-Minister Piyush Goyal	5
-government in Uttar Pradesh	5
-State Department	5
-Donald Trump Trump	5
-Environment and Forests	5
-thermal power	5
-oil prices Oil	5
-Pharmaceutical Industries	5
-join hands	4
-Indian companies	4
-Sun Pharmaceutical	4
-Syrian President Bashar	4
-killed two persons	4
-December  juvenile convict	4
-Solar Alliance	4
-Man Killed	4
-Trump Muslims	4
-market Oil	4
-Vladimir Putin Russian President	4
-Gates Bill	4
-Murder  Hema Upadhyay	4
-public offering	4
-Forest and Environment	4
-palm oil	4
-awarded this year	4
-post on Facebook	4
-Crude palm oil	4
-case Nirbhaya	4
-challenges faced	4
-crude Brent	4
-year end	4
-Oil prices Crude	4
-candidate Donald Trump	3
-prices Crude oil	3
-Regulatory Authority	3
-Airports Authority	3
-Brent crude price Oil	3
-Bush George	3
-Commission for Women	3
-medical institute	3
-ban Muslims from entering	3
-Donald Trump ban	3
-members of a family	3
-today announced	3
-Satellites Singapore	3
-generate power	3
-Electronics Samsung	3
-minus   degrees	3
-close schools	3
-face challenges	3
-earlier this year	3
-Khan Salman Khan	3
-killed  people	3
-students Indian	3
-energy solar	3
-Railways Indian	3
-launches satellite	3
-hit and run	3
-futures Crude oil	3
-Trump Calls	3
-President Bashar	3
-put in place	3
-Obama Barack	3
-Government indian	3
-Calls Donald Trump	3
-killing a man	3
-power solar	3
-IPO Narayana Hrudayalaya	3
-Airtel Ltd    Bharti Airtel	2
-Turkish President Recep	2
-celebrate New Year	2
-Republican candidate US Presidential	2
-AIDS HIV	2
-Ramdev Baba	2
-salman  case	2
-Bill Juvenile	2
-wartime sex	2
-State John Kerry	2
-Project to Power	2
-Indian market	2
-launched today	2
-President Pranab	2
-Medical Sciences	2
-Pradesh Arunachal	2
-output could be used by an upstream factory	2
-Women s Commission	2
-card PAN	2
-prices Crude	2
-Cosby Bill	2
-Football   Lionel Messi	2
-Fernandes  Remo	2
-candidate presidential	2
-Murder Double	2
-people and left	2
-prices Brent crude	2
-projects such as roads	2
-death of the infant	2
-issued red	2
-Pradesh  Madhya	2
-Oil market OPEC	2
-Race US presidential	2
-Governor Arunachal Pradesh	2
-Andhra Pradesh Chief Minister	2
-case of murder	2
-government today	2
-Account  Twitter	2
-Putin  Vladimir	2
-age of   retired	2
-Amir Mohammad	2
-Subhas Chandra Bose	2
-artist Hema	2
-Jio Reliance	2
-emerging markets	2
-months ago	2
-police said today	2
-Couple Got Married	2
-Maharashtra government	2
-Netaji Subhas	2
-oil OPEC	2
-Year in your personal	2
-Upadhyay Murder	2
-state government	2
-Khan  Azam	2
-city police	2
-crimes US hate	2
-Airtel Airtel	2
-January  next year	2
-Capital Lightspeed Ventures	2
-meeting Opec	2
-imports Oil	2
-person was killed	2
-Salman Khan  Actor	1
-Encounter fake	1
-Minister telecom	1
+treatment plant	54
+police officials	54
+Wayne Rooney	54
+Tour de France	53
+superintendent of police	53
+man was arrested	52
+Bandaru Dattatreya	52
+traffic cops	52
+Swachh Bharat	51
+housing society	51
+vice president	51
+police constable	50
+cases registered	49
+wee hours	49
+power supply	48
+Happy Streets	46
+Charlie Hebdo	46
+chief minister	46
+found murdered	45
+rural police	45
+Aamir Khan	45
+gold chain	43
+Manchester United Louis van Gaal	43
+Azam Khan	43
+bribery case	43
+claims  lives	43
+Defence minister Manohar Parrikar	43
+Mulayam Singh Yadav	42
+Nagar police	42
+Lewis Hamilton	42
+Man kills	42
+police chief	42
+persons were arrested	42
+allegedly committed suicide	42
+silicon valley	42
+Naveen Patnaik	41
+Man held	41
+police personnel	41
+head constable	41
+city residents	41
+Narendra Modi government	41
+Manmohan Singh	41
+police team	40
+chain snatchers	40
+Shivraj Singh Chouhan	39
+people were killed	39
+vice chancellor	39
+Lalit Modi	39
+arrested for allegedly	39
+Yuvraj Singh	39
+Europa League	39
+return home	38
+Paris attacks	38
+police force	38
+city hospital	37
+Person Travel	37
+top cop	37
+police on Saturday	37
+allegedly killing	37
+raping minor	37
+members of a family	37
+chief minister Shivraj Singh Chouhan	37
+Chris Brown	37
+Mumbai police	37
+rape survivor	37
+police on Friday	36
+foreign minister	36
+body found	36
+police have booked	36
+unidentified persons	35
+fire broke	35
+power theft	35
+Newcastle United	35
+Kangana Ranaut	35
+separate incidents	35
+White House	35
+found hanging	35
+Yogendra Yadav	35
+heart attack	35
+Union home minister Rajnath Singh	35
+Netaji Subhas Chandra Bose	34
+Prakash Javadekar	34
+police on Thursday	34
+registered a case	34
+Rath Yatra	34
+Katy Perry	34
+common man	34
+Kiren Rijiju	33
+PGA Championship	33
+chain snatching	33
+cyber crime	33
+Ali Khan	33
+persons died	33
+parts of the city	33
+resident doctors	33
+Louis van Gaal	32
+fire officer	32
+water crisis	32
+arrested by police	32
+civil supplies	32
+police on Tuesday	31
+French Open	31
+Civil Aviation	31
+top seed	31
+city on Saturday	31
+consuming poison	31
+organ donation	31
+criminal cases	31
+Nico Rosberg	31
+incident took place	31
+Vinod Tawde	30
+Mario Draghi	30
+Nabam Tuki	30
+English Premier League	30
+police Investigation	30
+outskirts of the city	30
+stabbed to death	30
+Vidyasagar Rao	30
+Captain Amarinder Singh	30
+Manohar Lal Khattar	30
+van Gaal	30
+Lady Gaga	30
+Britney Spears	29
+police on Monday	29
+rape accused	29
+police inspector	29
+senior police officer	29
+grand alliance	29
+allegedly duping	29
+Caroline Wozniacki	29
+killed  people	29
+commissioner of police	29
+Chris Froome	29
+police on Sunday	29
+LPG cylinders	29
+murder accused	29
+suicide note	28
+Gurgaon police	28
+police have registered a case	28
+crop damage	28
+Fund manager	28
+Parkash Singh Badal	28
+actor Salman Khan	28
+Kumar Singh	28
+opened fire	28
+Banaras Hindu University	28
+Swachh Bharat Abhiyan	28
+city witnessed	28
+Omar Abdullah	27
+unidentified men	27
+Walled City	27
+European Tour	27
+suicide case	27
+attempted suicide	27
+acid attack	26
+Manuel Pellegrini	26
+residents of sector	26
+police recovered	26
+allegedly molesting	26
+midday meal	26
+back home	26
+water level	26
+Stoke City	26
+Lewis Hamilton Formula	26
+Didier Drogba	26
+investigating officer	26
+Eden Hazard	26
+police station area	25
+Lakshmi Menon	25
+district on Saturday	25
+Anupam Kher	25
+Diamond League	25
+water scarcity	25
+Shane Watson	25
+Hrithik Roshan	25
+water cuts	25
+Cops arrest	25
+Ariana Grande	25
+farmer committed suicide	25
+forest area	25
+city crime branch	25
+allegedly attacked	25
+John Terry	25
+Ram Vilas Paswan	25
+undergoing treatment	25
+Virbhadra Singh	25
+AC Milan	25
+Premier League title	25
+Sukhbir Singh Badal	25
+Sharad Yadav	25
+Food and Drug Administration  FDA	25
+died and  others were injured	25
+cases reported	25
+district on Sunday	25
+district of Jammu and Kashmir	24
+Capt Amarinder Singh	24
+Distribution Company	24
+Pratap Singh	24
+Power Distribution Company	24
+Civil society	24
+Youth arrested	24
+Perrie Edwards	24
+Louis Tomlinson	24
+Haryana chief minister Manohar Lal Khattar	24
+Anurag Kashyap	24
+City police commissioner	24
+man died	24
+power projects	24
+Shiromani Gurdwara Parbandhak Committee	23
+Robin Singh	23
+Steel Plant	23
+Amitabh Thakur	23
+persons were killed	23
+arrested on Friday	23
+twin cities	23
+Iggy Azalea	23
+Orange City Water	23
+Amarinder Singh	23
+Chris Martin	23
+resident of village	23
+Punjab chief minister Parkash Singh Badal	23
+allegedly kidnapped	23
+sugar mills	23
+wall collapse	23
+crushed to death	23
+attempt to murder	23
+Noel Gallagher	23
+allegedly murdered	22
+Food and Drug Administration	22
+Imran Khan	22
+Indian Premier League	22
+abhishek bachchan	22
+found guilty	22
+Man booked	22
+chief minister Naveen Patnaik	22
+Bradley Cooper	22
+ghar wapsi	22
+case involving	22
+woman died	22
+Katrina Kaif	22
+chief Mulayam Singh Yadav	22
+Royal Challengers Bangalore	22
+police lines	22
+Anna Hazare	22
+police  City	22
+Gittikhadan police	22
+Chandigarh police	22
+Okram Ibobi Singh	22
+Major League Soccer	22
+President Francois Hollande	21
+pregnant woman	21
+city police chief	21
+Pune police	21
+box office	21
+home minister Rajnath Singh	21
+di Maria	21
+prime accused	21
+Subhash Ghai	21
+Jammu and Kashmir Chief Minister	21
+Nicole Scherzinger	21
+theft case	21
+accused in the murder	21
+Irrfan Khan	21
+AB de Villiers	21
+Tomas Berdych	21
+Leicester City	21
+arrested a man	21
+cheating case	20
+people died	20
+street vendors	20
+terror group	20
+Man robbed	20
+Parupalli Kashyap	20
+Sukhbir Badal	20
+border areas	20
+chief minister Virbhadra Singh	20
+Premier League Liverpool	20
+top official	20
+power tariff	20
+Hema Malini	20
+posing a threat	20
+case related	20
+Jurgen Klopp	20
+Woman killed	20
+police on Friday arrested	19
+city on Sunday	19
+Anandiben Patel	19
+Police suspect	19
+Kendriya Vidyalaya	19
+Gwen Stefani	19
+Manchester United Manchester City	19
+Bahujan Samaj Party	19
+Narendra Dabholkar	19
+cyber cell	19
+Woody Allen	19
+arrested five people	19
+water tankers	19
+chit fund	19
+Sunil Chhetri	19
+Jaripatka police	19
+water tank	19
+terrorist attack	19
+district on Tuesday	19
+Saif Ali Khan	19
+Premier League Jose Mourinho	19
+clean chit	19
+de Gea	19
+minor boys	19
+Anurag Thakur	19
+Salt Lake	19
+beaten to death	19
+police claimed	19
+married woman	19
+city areas	19
+Delhi Sikh Gurdwara Management Committee	19
+City Water	18
+killing his wife	18
+book fair	18
+Raman Singh	18
+Anoop Menon	18
+abetting the suicide	18
+Shane Warne	18
+chit fund scam	18
+alleged irregularities	18
+mentally challenged	18
+accused arrested	18
+younger brother	18
+minors raped	18
+Manuel Pellegrini Manchester City	18
+Farooq Abdullah	18
+Raj Bhawan	18
+Rana Pratap	18
+drug peddlers	18
+Digvijaya Singh	18
+LPGA Tour	18
+Shinzo Abe	18
+chief minister Anandiben Patel	18
+caught fire	18
+terror strike	18
+Nicole Kidman	18
+held for raping	18
+Chris Hemsworth	18
+car crash	18
+Asif Ali	18
+Swansea City	18
+deceased was identified	18
+Pachpaoli police	17
+rabi crop	17
+local residents	17
+hospitals in the city	17
+top brass	17
+Farah Khan	17
+helping hand	17
+JEE  Main	17
+people were arrested	17
+Bernard Tomic	17
+Japanese Encephalitis	17
+Mahesh Bhatt	17
+van Ass	17
+woman was allegedly	17
+Kevin Anderson	17
+Jitendra Singh	17
+lieutenant governor	17
+Chris Gayle	17
+residents of the city	17
+Bhupinder Singh	17
+snatched a gold chain	17
+Subhash Chandra Bose	17
+Pathankot attack	17
+Bhagat Singh	17
+Karan Singh	17
+including two women	17
+Richard Gasquet	17
+Maggi noodles	17
+family welfare	17
+shelter home	16
+city traffic police	16
+John Mayer	16
+chief minister Raman Singh	16
+home minister	16
+heart transplant	16
+Sunil Narine	16
+Man murdered	16
+Tuesday arrested	16
+allegedly cheating	16
+supply water	16
+police nab	16
+Premier League Manuel Pellegrini Manchester City	16
+Asian Tour	16
+release of water	16
+hanging from the ceiling	16
+Shiv Sena Politics	16
+brutally murdered	16
+water distribution project	16
+Churchill Alemao	16
+rural areas	16
+York City	16
+arrest warrant	16
+water release	15
+police have registered	15
+connection with the murder	15
+AC DC	15
+tops the list	15
+arrested the accused	15
+turned violent	15
+Civil Lines	15
+murdering his wife	15
+Kumar Yadav	15
+Ram Manohar Lohia Hospital	15
+arrested two men	15
+arrested on Tuesday	15
+busted a gang	15
+Blake lively	15
+arrested in connection	15
+Chelsea FC	15
+Champions League Barcelona	15
+foreign investment	14
+head injuries	14
+family and friends	14
+persons were injured	14
+Bahujan Samaj Party  BSP	14
+Biju Menon	14
+Sadar police	14
+police remand	14
+hike in power tariff	14
+men and women	14
+arrested on Thursday	14
+Friday arrested	14
+water pipeline	14
+youths were killed	14
+man allegedly	14
+Crime branch sleuths	14
+attacks in Paris	14
+police busted	14
+Sector  residents	13
+raping a minor girl	13
+double murder	13
+member gang	13
+Saturday arrested	13
+woman was found	13
+incident was reported	13
+Hudkeshwar police	13
+compensation for farmers	13
+power tariff hike	13
+arrested on Saturday	13
+planting trees	13
+gang rape	13
+racket busted	13
+main accused	13
+gang busted	12
+victim s family	12
+men were arrested	12
+Singh Yadav	12
+Modi s visit	12
+robbed of gold	12
+killed two persons	12
+Power Distribution	12
+run case	12
+Wednesday arrested	12
+police have arrested four persons	12
+Thermal Power	12
+kills man	12
+district on Thursday	12
+woman raped	12
+girl found	11
+Subhash Chandra	11
+district administration	11
+Salman Khan verdict	11
+persons for allegedly	11
+Modi government	11
+Salim Khan	11
+Armed Forces	11
+gang members	11
+tariff hike	11
+list of top	11
+Monday  police	11
+suffered injuries	11
+Water Utility Company	11
+investigating the case	11
+blood donation	11
+woman murdered	11
+donate organs	10
+Lakadganj police	10
+city outskirts	10
+police on Thursday arrested	10
+gang arrested	10
+senior official	10
+minister Sushma Swaraj	10
+Police detained	10
+senior police official	10
+major fire	10
+power cuts	10
+arrested a youth	10
+manufacturing unit	10
+admitted to hospital	9
+accused of raping	9
+mutual funds mutual fund tips Mutual Fund News	9
+Rana Pratap Nagar	9
+Criminal Investigation	9
+arrested on Sunday	9
+Salman case	9
+dies in accident	9
+Ram Manohar Lohia	9
+power crisis	9
+senior superintendent	9
+arrested four persons for allegedly	9
+chief minister Parkash Singh Badal	9
+plant   saplings	9
+Saturday  police	9
+arrested on Monday	9
+saplings planted	9
+water project	9
+friends and family	9
+Bharat Abhiyan	9
+Thursday arrested	9
+girl was raped	9
+cases of murder	9
+day police custody	9
+officer Police	8
+water bodies	8
+injuries suffered	8
+women want from men	8
+donate blood	8
+police senior	8
+Union minister	8
+Mulayam Singh	8
+rape charges	8
+Khan Salman	8
+Mutual Fund investment	8
+senior police	8
+nabbed by police	8
+man shot	8
+Nico Rosberg Lewis Hamilton	8
+murder attempt	8
+minority welfare	8
+Monday arrested	7
+Dalit suicide	7
+damaged crops	7
+de France	7
+city from different parts	7
+report about any incident	7
+city traffic	7
+Yadav Singh	7
+defence minister	7
+Pratap Nagar	7
+recently held	7
+murder of a woman	7
+killed in accident	7
+injuring two persons	7
+booked by police	7
+kills youth	7
+arrested on Wednesday	7
+Police Delhi	7
+police on Sunday arrested	7
+senior officer	7
+Tuesday  Police	7
+Circle officer	7
+gyaan mutual fund guide mutual fund bonds	7
+Mutual Fund investment mutual fund	7
+traffic management	7
+Akhilesh Yadav  Chief minister	7
+robbing a woman	7
+Thursday Police	6
+investment mutual fund	6
+farmer ends	6
+Friday  Police	6
+case of theft	6
+private player	6
+killing woman	6
+case of cheating	6
+Tour de	6
+suicide of a farmer	6
+woman was robbed	6
+Premier League Manchester United	6
+Chelsea  Mourinho	6
+Chandra Bose	6
+commissioner city police	6
+Bahujan Samaj	6
+Drug Administration	6
+Salman Khan Case	6
+suicide by a dalit	6
+chief minister Manohar Lal Khattar	6
+Sunday arrested	6
+Sikh Gurdwara	6
+arrested a gang	6
+trees planted	6
+suicide attempt	6
+family of the victim	6
+Minister Narendra Modi	6
+involved in cases	5
+hours of Sunday	5
+case Salman Khan	5
+Subhas Chandra Bose	5
+booked a man	5
+custody  The police	5
+found    Body	5
+allegedly committed	5
+Saturday across  cities	5
+raping a woman	5
+mutual fund mantra Mutual Fund investment mutual fund	5
+Mutual Fund News mutual fund mantra	5
+stations   Police	5
+mutual fund mantra Mutual Fund investment	5
+mutual funds mutual fund tips	5
+Shivraj Singh	5
+Barcelona s Champions League	5
+minister Prime	5
+wife s murder	5
+man was found	5
+committed suicide by hanging	5
+cab rape	5
+bonds mutual fund	5
+snatching chains	5
+League champions	5
+crashed his car	5
+Louis Berger bribery	4
+police on Monday arrested	4
+City FC	4
+allegations against woman	4
+scarcity of water	4
+League title	4
+police custody for  days	4
+suspected police	4
+detained by police	4
+Narendra Modi Manohar	4
+forcing the police	4
+Parbandhak Committee	4
+Yadav Akhilesh	4
+mutual funds  Mutual fund investment	4
+Hospital Civil	4
+Police superintendent	4
+fire and a major	4
+injured in an accident	4
+Ram Vilas	4
+warrant of arrest	4
+team investigating	4
+mutual fund gyaan mutual fund guide mutual fund	4
+snatched a gold	4
+held Man	4
+Jammu district	4
+gold chains snatched	4
+rob man	4
+witnessed the who s who of the city	4
+tips Mutual Fund	4
+case investigation	4
+Narendra Modi  Prime Minister	4
+de Villiers	4
+charges of raping	4
+Manohar Parrikar Defence Minister	4
+hit and run	4
+United Manchester	4
+remanded to three days	4
+late on Thursday	4
+European Union	4
+police traffic	4
+BSP chief	4
+FC  Chelsea	4
+water distribution	4
+held recently	4
+League match	4
+hospital should be privatized	4
+water to the city	4
+women  including	3
+utility company	3
+chief minister Shivraj Singh	3
+Khattar  Manohar Lal	3
+Singh Chouhan	3
+recently released	3
+residents and local	3
+constables for police	3
+Premier League Manuel Pellegrini	3
+Sunday  Police	3
+Lines police	3
+United Manchester City	3
+PM Modi Narendra	3
+areas bordering	3
+Sukhbir Singh	3
+persons were arrested for allegedly	3
+Manohar Lal	3
+Orange City	3
+recovered    Police	3
+City  The Walled	3
+Survivor Rape	3
+Sena  Shiv	3
+manage traffic	3
+busted  police	3
+car rammed	3
+City project	3
+killed allegedly	3
+murdered over alleged	3
+Committee  SGPC	3
+Rooney  Wayne	3
+Prime Minister Narendra	3
+Manohar Lal Khattar Chief Minister	3
+top mutual funds	3
+police Mumbai	3
+mutual funds mutual fund	3
+forest officials	3
+Managements  new fund	3
+home  one returns	3
+League season	3
+Indian Army	3
+mutual funds mutual funds mutual fund tips	3
+plant Aichi Steel	3
+Naveen Patnaik  Chief minister	3
+city crime	3
+Ram Naresh	3
+Mutual Fund News mutual fund mantra Mutual Fund	3
+European Championship	3
+Narendra Modi minister	3
+claimed that police	3
+minister Akhilesh Yadav	3
+police Hudkeshwar	3
+farmers compensation	3
+supply to power	3
+Tanker water	3
+related case	3
+Lohia Hospital	3
+crime  The city	3
+joint operation	3
+cops  traffic	3
+private sector	3
+Power Station	3
+Sikh Gurdwara Management Committee	3
+forest officer	3
+police Lakadganj	3
+rape allegations	2
+attacks  terrorist	2
+constable heading	2
+units and to the manufacturer	2
+top mutual funds mutual fund	2
+murdered man	2
+mutual fund tips Mutual Fund	2
+busted a racket	2
+government hospital	2
+bachchan abhishek	2
+woman is about to get married	2
+Captain Amarinder	2
+police Pune	2
+case was later registered at Nishatpura police	2
+Singh  Yuvraj	2
+committed suicide after she was allegedly	2
+area under the same police station	2
+violent turn	2
+district recorded	2
+Management Committee Sikh gurdwara	2
+Gurdwara Parbandhak Committee	2
+Parkash Singh Badal Chief Minister	2
+late on Tuesday	2
+case  Suicide	2
+opening round	2
+gyaan mutual fund guide mutual fund	2
+tips Best Mutual Funds  Mutual fund	2
+BSP   Bahujan Samaj Party	2
+murder   found	2
+Party  Bahujan Samaj	2
+City  New York	2
+Rajnath  Union Home Minister	2
+shot at    A man	2
+official police	2
+Wife Killed	2
+kashmir JKPCC Jammu	2
+reported at Puthuvype    Two cases	2
+village name    What s in a name  For residents	2
+broke out  A fire	2
+arrested by police on Thursday	2
+minister Sukhbir	2
+investments Funding	2
+Lewis Hamilton and Nico Rosberg	2
+Froome Chris	2
+crisis of power	2
+Boses grandnephew Chandra	2
+committee members	2
+areas and not from rural	2
+attacks acid	2
+theft    Filching power	2
+inspector V Jagannathan of Vennandur police	2
+police Gurgaon	2
+suspended IPS	2
+City  Manchester	2
+welfare of minorities	2
+office to further investigate	2
+Union home	2
+ali khan Saif	2
+raping a girl	2
+Modi  as PM	2
+Liverpool  Premier League	2
+project  Water	2
+fire in Arera  opening	2
+crime branch of the city	2
+Chief Minister   Jammu and Kashmir	2
+Singh Badal	2
+Jammu and Kashmir s Baramula district	2
+investment mutual fund gyaan mutual fund	2
+minor girls raped	2
+Rosberg Nico	2
+Crime Records	2
+deaths were reported	2
+injuries to the head	2
+Badal   Simarjit Singh	2
+Fund investment	2
+water for drinking	2
+building collapse	2
+team from Baisi police	2
+Modi Narendra	2
+district of Jammu	2
+fire and emergency	2
+guide mutual fund bonds	2
+Gayle  Chris	2
+threat posed	2
+local body	2
+funds mutual funds mutual	2
+police cases registered	2
+Hollande  Francois	2
+officials of the top	2
+gold snatching	2
+Jose Mourinho and the Premier League	2
+Shivraj Singh Chouhan  Chief minister	2
+rams car	2
+noodles Maggi	2
+Gurdwara Management	2
+FDA  The Food and Drug Administration	2
+Punjab and Haryana	1
+Haryana chief minister Manohar Lal	1
+tariffs Power	1
+Akhilesh the Chief Minister	1
+commit suicide  So far   farmers	1
 case of rape	1
-John Kerry Secretary of State	1
-Future group	1
-Russian Defence	1
-convict Juvenile	1
-Thakur  TS	1
-oil prices market	1
-market OPEC Oil	1
-candidates Mitt Romney Republican Presidential	1
-people were killed	1
-Pradesh Chief Minister	1
-oil Edible	1
+United Louis van Gaal	1
+Union home minister	1
+Frances de	1
+Manuel Pellegrini Manchester City  Premier League	1
+Paswan  Ram Vilas	1
+chief Kashmir	1
+Singh Amarinder	1
+mutual funds mutual fund tips Mutual Fund	1
+officer  The fire	1
+found the man	1
+Rai Bachchan	1
+recorded    District	1
+Chandigarh administration	1
+private company	1
+Khan  Irrfan	1
+crime cyber	1
+Ram Manohar	1
+hit by car	1
+project in the city	1
+Friday before getting arrested by the police	1
+Khan Salim	1
+Singh Rajnath	1
+attacked allegedly	1
+minister Manohar Lal Khattar	1
+Premier League Manchester	1
+Parkash Singh	1
+Chouhan  Sivraj Singh	1
+mutual funds Funding	1
+government for failing	1
+Parrikar  Manohar	1
+Abdullah Farooq	1
+involvement in the alleged	1
+Premier League Manuel Pellegrini Manchester	1
+branch crime	1
+hike tariff	1
+Milan  AC	1
+Indian Premier	1
+personnel from the Bhoiwada police	1
+Swaraj   Sushma	1
+Hospital Lohia	1
+office of commissioner	1
+guide mutual fund bonds mutual fund	1
+fund tips Mutual Fund News	1
+Indian women	1
+management of a gurdwara	1
+Governor Ram	1
+Mourinho masterplan  Jose	1
+arrested by police  personal	1
+Menon next Biju	1
+commissioner  The police in the city	1
+minister Shivraj Singh Chouhan	1
+Mutual Fund investment mutual fund gyaan	1
+minister Naveen Patnaik	1
+government Modi	1
+mutual funds top	1
+identified the deceased	1
+News mutual fund mantra Mutual Fund	1
+hit back	1
+lively  Blake	1
+accidents kill	1
+Delhi University	1
+police  The Chandigarh	1
+arrested by the police on Monday	1
+Home Minister  Union	1
+Thursday after district	1
+Sharapova Maria	1
+District Consumer	1
+Home  Ashray   first such shelter	1
+Haryana government	1
+Championship PGA	1
+Delhi Sikh Gurdwara	1
+police senior officer	1
+mutual fund guide mutual fund bonds	1
+woman pregnant	1
+police senior official	1
+Yadav Sharad	1
+Mutual Investing	1
+Premier to Indian	1
+raped by a cab	1
+Police have arrested a  baiga  on Sunday	1
+registered at Nishatpura police	1
+alleged personal	1
+Minister during his foreign	1
+Singh Pratap	1
+funds mutual fund	1
+Rajnath Singh Home Minister	1
+report on any of the deaths	1
+City  Manchester United	1
+attack  terror	1
+Cooper  Bradley	1
+dies  Man	1
+Singh Bhupinder	1
+commissioner s office	1
+Manohar Lohia	1
+Ibobi Singh	1
+Francois Hollande  President	1
+Alemao  Churchill	1
+chief minister Naveen	1
+United Manchester City  Manchester	1
+Sikhs Delhi	1
+Sena Politics	1
+arrested  police said on Sunday	1
+Sunday late	1
+Mourinho Chelsea	1
+Sunday  the district	1
+Khan  Imran	1
+title  Premier League	1
+Tawde  Vinod	1
+Major League	1
+transplanted a heart	1
 Subhas Chandra Bose Netaji	1
-Trump Donald	1
-oil Crude oil prices	1
-Transport and Highways	1
-hit and run Salman Khan	1
-juvenile convict in the December	1
-President Recep	1
-crude price Oil	1
-set up by the government	1
-Oil Futures Crude	1
-Crude oil Brent	1
-Haram Boko	1
-today    President Pranab Mukherjee	1
-institute the Indian	1
-Child Development	1
-College Stephen	1
-APP  The new mobile	1
-Pradesh Arunachal Governor	1
-president French	1
-government officials	1
-Donald Trump Republican presidential candidate	1
-slaves sex	1
-Cellular Idea	1
-Health Organisation	1
-accident road	1
-rape allegation	1
-election Presidential	1
-Delhi government	1
-market Oil price	1
-government is set	1
-today said government	1
-technology science	1
-lynching Dadri	1
-Academy  Khan	1
-Technologies Ltd    HCL	1
-proposed by the government	1
-World Records	1
-Defence Reliance	1
-Jong Un Kim	1
-alliance of solar	1
-government Andhra Pradesh	1
-market regulator	1
-Hrudayalaya IPO	1
-Elections   panchayat	1
-Oil Crude Prices	1
-Organisation World Health	1
-years time	1
-Pradhan Dharmendra	1
-starting January	1
-Basti Shakur	1
-Highways and Transport	1
-oil palm	1
-Killed   Injured	1
-Department of Transportation	1
-Company oil	1
-Chief Minister  Andhra Pradesh	1
-Oil Essar	1
-Rukh Shah	1
-case Salman	1
-juvenile December   The convict	1
-gang rape Delhi	1
-Election Commission	1
-energy nuclear	1
-President Mukherjee  Pranab	1
-official said today	1
-House  white	1
-government has decided	1
-today recommended	1
-John Kerry s  one state	1
-futures Oil	1
-Donald Trump are among the eight candidates	1
-alert red	1
-transport   public	1
-murder case Sheena Bora	1
-prices Oil market	1
-President Vladimir	1
-World Records Guinness	1
-supplying water	1
-year earlier	1
-School of Business	1
-Plan  Government	1
-Crude oil prices Oil	1
-Khan  Shah Rukh	1
-Russian President Vladimir	1
-bill  juvenile justice	1
-night of Tuesday	1
-Vladimir Petukhov Nefteyugansk President	1
-President Turkish	1
-Defence Secretary	1
-President Russian	1
-noodles Maggi	1
-Telecom Minister	1
-Technology Institute	1
-MotoCorp Ltd Hero	1
-Universe Miss	1
-Vladimir Putin Says  President	1
-Pay Commission Seventh	1
-Secretary of State	1
-Khan Jiah	1
-Pradesh government	1
-Energy Wind	1
-developing countries	1
-Trump Donald Trump	1
-today said Parthasarathi Mukherjee	1
-Clinton Hillary	1
-earlier this month	1
-tariffs for    Power	1
-Airtel  Bharti	1
-research in space	1
-Export of oil	1
-Upadhyay Chintan	1
-Scam solar	1
-Mukherjee today	1
-Pradesh Governor	1
-entering US  US Muslims	1
-President Vladimir Putin Russian	1
-Chennithala  Ramesh	1
-corporation  four municipal	1
-areas like rural	1
+note  Suicide	1
+dies  woman	1
+area of the forest	1
+injured Those who died	1
+case    Police registered	1
+Shiromani Gurdwara	1
+Soccer League	1
+found three girls	1
+Hindu University	1
+Mumbai Indians	1
+Mumbai City FC	1
+Mutual Fund investment mutual fund gyaan mutual fund	1
+mutual fund gyaan mutual fund guide	1
+accident victim	1
+Sunday here in the city	1
+car hit	1
+Pellegrini Manchester City	1
+Kashmir Chief Minister	1
+Singh Sukhbir	1
+recorded  crimes	1
+Friday  Police arrested	1
+women in the Indian	1
+chief  BSP	1
+Saturday late	1
+Singh Karan	1
+Minister Narendra	1
+investigation police	1
+Minister  Chief	1
+government Narendra Modi	1
+League Jose Mourinho	1
+minister Manohar Parrikar	1
+Hospital for not admitting	1
+connection to the arrests	1
+incidents    In two separate	1
+Okram Ibobi	1
+Jammu and Kashmir Chief	1
+arrest  Cops	1
+Police arrested on Monday	1
+Menon next Anoop	1
+Tour LPGA	1
+Manchester City  Manuel Pellegrini	1
+City Leicester	1
+City commissioner of police	1
+police arrested on Friday	1
+President Francois	1
+Rape Bithali vilage  Had the gang	1
+public places	1
+officer senior	1
+snatched chains Gold	1
+suicides committed by farmers	1
+home Astha and came back	1
+senior officials of the police	1
+suicide abetment	1
+Premier League English	1
+Manchester United in the Premier League	1
+Yatra  Rath	1
+Rajnath Singh  Union Home Minister	1
+late on Wednesday	1
+Kumar Modi	1
+late on Friday	1
+police rural	1
+Farmer suicide commits	1

@@ -1,20 +1,24 @@
 import json
-import sys
+import sys, os
 from elasticsearch import Elasticsearch
 
 es = Elasticsearch(hosts=[{'host':'db03.cs.utah.edu'},{'host':'db04.cs.utah.edu'}])
 basefolder = 'rawFiles/'
 def create_lda_input_files(size=5000, filename="articles.txt", month =12 , year = 2015):
+    print "Parameters are: " +  "Size: " + str(size) + " filename = " + filename + " month : " + str(month) + " year : " + str(year)
     from_value=0
     total=1
-    i=0                                                
+    i=0 
+    os.remove(filename)
+    os.remove(basefolder +'articles2.txt')
+    os.remove(basefolder + 'id.txt')
     while total > from_value:
         result_set = es.search(index="news",body={
         "query": {
            "bool": {
                 "must": [
-                       { "match": { "month": 12 } },
-                       {"match": {"year":2015}}
+                       { "match": { "month": month } },
+                       {"match": {"year":year}}
                               
                                    ]
                                       }
@@ -30,14 +34,18 @@ def create_lda_input_files(size=5000, filename="articles.txt", month =12 , year 
         from_value=from_value + size
         with open(filename, 'a') as f:
             with  open(basefolder+'articles2.txt', 'a') as f1:
-                for  hit in result_set['hits']['hits']:
-                    i = i+1
-                    #print i, hit['origin'], hit['date']
-                    c =  hit['_source']
-                    f1.write((c['article'] + c['keywords'] +c['focus']).encode('utf-8').replace('\n',' '))
-                    f.write((c['title'] + ". " +  c['keywords'] + ". "+ c['focus']).encode('utf-8').replace('\n',' '))
-                    f.write("\n")
-                    f1.write("\n")
+                with open(basefolder +'id.txt', 'a') as f2:        
+                    for  hit in result_set['hits']['hits']:
+                        i = i+1
+                        if i%500  == 0 :
+                            print i
+                        c =  hit['_source']
+                        f1.write((c['article'] + c['keywords'] +c['focus']).encode('utf-8').replace('\n',' '))
+                        f.write((c['title'] + ". " +  c['keywords'] + ". "+ c['focus']).encode('utf-8').replace('\n',' '))
+                        f2.write(hit['_id'].encode('utf-8'))
+                        f.write("\n")
+                        f1.write("\n")
+                        f2.write("\n")
 
 if __name__=="__main__":
     s = 500

@@ -9,7 +9,7 @@ maxPattern=8
 topicModel=2
 numTopics=5
 #set to 0 for no topic modeling and > 0 for topic modeling (around 1000)
-gibbsSamplingIterations=50
+gibbsSamplingIterations=1000
 #significance threshold for merging unigrams into phrases
 thresh=4
 #burnin before hyperparameter optimization
@@ -18,6 +18,9 @@ optimizationBurnIn=100
 alpha=2
 #optimize hyperparameters every n iterations
 optimizationInterval=50
+touch rawFiles/id.txt
+touch rawFiles/articles2.txt
+touch rawFiles/articles.txt
 python simple_es_client.py $1 $2 $3 $4 
 cd TopicalPhrases 
 #Run Data preprocessing
