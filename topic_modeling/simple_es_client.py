@@ -40,12 +40,14 @@ def create_lda_input_files(size=5000, filename="articles.txt", month =12 , year 
                         if i%500  == 0 :
                             print i
                         c =  hit['_source']
-                        f1.write((c['article'] + c['keywords'] +c['focus']).encode('utf-8').replace('\n',' '))
-                        f.write((c['title'] + ". " +  c['keywords'] + ". "+ c['focus']).encode('utf-8').replace('\n',' '))
-                        f2.write(hit['_id'].encode('utf-8'))
-                        f.write("\n")
-                        f1.write("\n")
-                        f2.write("\n")
+                        appended_words = c['title'] + ". " +  c['keywords'] + ". "+ c['focus']
+                        if len(appended_words.split(" ") > 4):
+                            f1.write((c['article'] + c['keywords'] +c['focus']).encode('utf-8').replace('\n',' '))
+                            f.write((c['title'] + ". " +  c['keywords'] + ". "+ c['focus']).encode('utf-8').replace('\n',' '))
+                            f2.write(hit['_id'].encode('utf-8'))
+                            f.write("\n")
+                            f1.write("\n")
+                            f2.write("\n")
 
 if __name__=="__main__":
     s = 500
