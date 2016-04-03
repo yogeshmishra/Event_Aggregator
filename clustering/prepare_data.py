@@ -48,7 +48,7 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02):
                         appended_words = c['title'] + c['article'] + c['keywords'] + c['focus']
                         if len(appended_words.split(" ")) > 4:
                             corpus.write((c['title'] + c['article'] + c['keywords'] + c['focus']).encode('utf-8').replace('\n',' '))
-                            keys.write((c['enriched_keywords'] ).encode('utf-8').replace('\n',' '))
+                            keys.write((c.get('enriched_keywords',"") ).encode('utf-8').replace('\n',' '))
                             ids.write(hit['_id'].encode('utf-8'))
                             categories.write(str(c['topics']))
                             corpus.write("\n")
