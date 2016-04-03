@@ -8,10 +8,13 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02):
     print "Parameters are: " +  "Size: " + str(size) + " day = " + str(day) + " month : " + str(month) + " year : " + str(year)
     from_value=0
     total=1
-    i=0 
-    os.remove(basefolder+"corpus.txt")
-    os.remove(basefolder +'enrinched_keys.txt')
-    os.remove(basefolder + 'id.txt')
+    i=0
+    try:
+        os.remove(basefolder+"corpus.txt")
+        os.remove(basefolder +'enrinched_keys.txt')
+        os.remove(basefolder + 'id.txt')
+    except:
+        pass
     while total > from_value:
         result_set = es.search(index="news", body={
             "query": {
