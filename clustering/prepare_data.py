@@ -50,7 +50,7 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02):
                             corpus.write((c['title'] + c['article'] + c['keywords'] + c['focus']).encode('utf-8').replace('\n',' '))
                             keys.write((c.get('enriched_keywords',"") ).encode('utf-8').replace('\n',' '))
                             ids.write(hit['_id'].encode('utf-8'))
-                            categories.write(str(c['topics']))
+                            categories.write(str(c.get('topics',"{}")))
                             corpus.write("\n")
                             keys.write("\n")
                             ids.write("\n")
