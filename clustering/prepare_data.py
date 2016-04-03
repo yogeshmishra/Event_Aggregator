@@ -20,8 +20,8 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02):
             "query": {
                 "filtered": {
                     "filter": {
-                        "range": {"date": {"gte": year + "-" + month + "-" + day + "||-1d/d",
-                                           "lte": year + "-" + month + "-" + day + "||+1d/d",
+                        "range": {"date": {"gte": str(year) + "-" + str(month) + "-" + str(day) + "||-1d/d",
+                                           "lte": str(year) + "-" + str(month) + "-" + str(day) + "||+1d/d",
                                            "format": "yyyy-MM-dd||dd"}}
                     }
                 }
