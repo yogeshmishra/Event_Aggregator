@@ -41,7 +41,7 @@ def create_lda_input_files(size=5000, filename="articles.txt", month =12 , year 
                             print i
                         c =  hit['_source']
                         appended_words = c['title'] + ". " +  c['keywords'] + ". "+ c['focus']
-                        if len(appended_words.split(" ") > 4):
+                        if len(appended_words.split(" ")) > 4:
                             f1.write((c['article'] + c['keywords'] +c['focus']).encode('utf-8').replace('\n',' '))
                             f.write((c['title'] + ". " +  c['keywords'] + ". "+ c['focus']).encode('utf-8').replace('\n',' '))
                             f2.write(hit['_id'].encode('utf-8'))
