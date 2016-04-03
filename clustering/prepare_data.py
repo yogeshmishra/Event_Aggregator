@@ -5,7 +5,7 @@ from elasticsearch import Elasticsearch
 es = Elasticsearch(hosts=[{'host':'db03.cs.utah.edu'},{'host':'db04.cs.utah.edu'}])
 basefolder = 'input/'
 def create_input_files(size=5000, month =12 , year = 2015, day = 02):
-    print "Parameters are: " +  "Size: " + str(size) + " filename = " + filename + " month : " + str(month) + " year : " + str(year)
+    print "Parameters are: " +  "Size: " + str(size) + " day = " + str(day) + " month : " + str(month) + " year : " + str(year)
     from_value=0
     total=1
     i=0 
