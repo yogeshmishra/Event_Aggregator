@@ -39,7 +39,7 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02):
         })
         total = result_set['hits']['total']
         from_value=from_value + size
-        with open("corpus.txt", 'a+') as corpus, open(basefolder+'enrinched_keys.txt', 'a+') as keys, open(basefolder +'ids.txt', 'a+') as ids, open(basefolder +'categories.txt', 'a+') as categories:
+        with open(basefolder+"corpus.txt", 'a+') as corpus, open(basefolder+'enrinched_keys.txt', 'a+') as keys, open(basefolder +'ids.txt', 'a+') as ids, open(basefolder +'categories.txt', 'a+') as categories:
                     for  hit in result_set['hits']['hits']:
                         i = i+1
                         if i%500  == 0 :
