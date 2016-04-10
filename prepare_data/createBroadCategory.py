@@ -24,7 +24,7 @@ def createTopicToCategoryMap():
 
 def createBroadCategory(TopicToCategoryMap):
     
-    with open(baseFolder+"categories.txt", 'r+') as categories, open(baseFolder+"broadCategory.txt", 'w') as broadCat:
+    with open(baseFolder+"categories.txt", 'r+') as categories, open(baseFolder+"sections.txt", 'w+') as broadCat:
         for line in categories:
             category_dict = ast.literal_eval(line)
             category_dict = sorted([(value,key) for (key,value) in category_dict.items()], cmp=None, key=None, reverse=True)
