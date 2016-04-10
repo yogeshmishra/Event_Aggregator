@@ -1,8 +1,8 @@
-set([u'Catholic', u'Francis', u'FrancisPope', u'Pope', u'Basilica,Roman', u'God', u'St.', u'Church,Pope', u'Peter'])
-set([u'HaridwarDEHRADUN', u'Makara', u'Ardhkumbh', u'Martholia', u'Har-ki-Pausi', u'Sankranti', u'Sankranti,Har-ki-Pausi,Haridwar,Brahmakund,ArdhkumbhThe', u'Kumbh'])
-set([u'Avadhoota', u'Datta', u'Vidya', u'Swamiji,Narendra', u'Sachchidananda', u'Swamiji', u'Ganapati', u'saints', u'Narendra', u'Sree', u'Peetham', u'Seers', u'PeethamThe', u'Modi', u'ModiMYSURU', u'Modi,Karnataka,Indian', u'Raagaragini', u'PM'])
-set([u'Modi-Modi', u'Modi,mysuru,KarnatakaThe', u'Mhaswamiji,Narendra', u'Prakash', u'Sri', u'Om', u'Narendra', u'DGP', u'Bengaluru', u'Rajendra', u'Modi', u'Math,Shivarathri', u'Suttur'])
-set([u'Sir', u'Khan', u'INTACH', u'Edwin', u'Lutyens', u'Landseer', u'Shahjahanabad', u'Humayun', u'Khilji', u'LBZ', u'Nizamuddin', u'Qutub', u'Mughal-era', u'Baker', u'Aga', u'Herbert', u'Karim', u'Bakhtiar', u'AKTC', u'Minar', u'ASI-protected', u'Prince'])
-set([u'Isam', u'Wi-Fi', u'Sharma', u'Sabha', u'BSNL', u'Ardh', u'Devi', u'Sri', u'Gandhiwadi', u'Mansa', u'Har-ki-Pauri', u'Ganga', u'Purushotam', u'Wi-FI', u'Puroshotam', u'Singh', u'Kumbh', u'Chamunda'])
-set([u'M/s', u'Karol', u'Novax', u'Bagh', u'Rohini'])
-set([u'Malgandh', u'Srivastava', u'Mauryan', u'Duncan', u'Gupta', u'Sunga-Kushana', u'Sarnath', u'Period', u'Gautam', u'ASIVARANASI', u'IV', u'Ajay', u'Buddha', u'Kuti', u'Black', u'Lord', u'Mani', u'Singh', u'Ware', u'Jagat', u'Pre-Mauryan'])
+Pope,Francis,Pope,Francis,St.,Peter,St.,Peter,Francis,God,St.,Peter,Basilica,Roman,Catholic,Church,Pope,FrancisPope,Francis
+Ardhkumbh,HaridwarDEHRADUN,Kumbh,Makara,Sankranti,Martholia,Har-ki-Pausi,Martholia,Makara,Sankranti,Har-ki-Pausi,Haridwar,Brahmakund,ArdhkumbhThe,Makara,Sankranti
+Seers,saints,PM,Narendra,ModiMYSURU,Narendra,Modi,saints,saints,Avadhoota,Datta,Peetham,Sree,Ganapati,Sachchidananda,Swamiji,saints,Peetham,Swamiji,Raagaragini,Vidya,Sree,Ganapati,Sachchidananda,Swamiji,Narendra,Modi,Karnataka,Indian,Datta,PeethamThe,saints
+Narendra,Modi,Modi-Modi,DGP,Om,Prakash,Bengaluru,Sri,Suttur,Math,Shivarathri,Rajendra,Mhaswamiji,Narendra,Modi,mysuru,KarnatakaThe
+Shahjahanabad,Mughal-era,Lutyens,LBZ,Sir,Edwin,Landseer,Lutyens,Sir,Herbert,Baker,INTACH,Bakhtiar,Khilji,ASI-protected,Qutub,Minar,Humayun,AKTC,AKTC,Humayun,Prince,Karim,Aga,Khan,Nizamuddin,Humayun,INTACH,INTACH
+Har-ki-Pauri,Wi-FI,Har-ki-Pauri,Ardh,Kumbh,Har-ki-Pauri,Sri,Ganga,Sabha,Puroshotam,Sharma,Gandhiwadi,Wi-Fi,BSNL,Wi-Fi,Wi-Fi,Purushotam,Har-ki-Pauri,BSNL,Isam,Singh,BSNL,Mansa,Devi,Chamunda,Devi,Wi-Fi
+Karol,Bagh,Rohini,M/s,Novax
+Sarnath,ASIVARANASI,Sarnath,Lord,Buddha,Sarnath,Sarnath,Gautam,Buddha,Sarnath,Mani,Ajay,Srivastava,Buddha,Pre-Mauryan,Mauryan,Sunga-Kushana,Gupta,Period,Sarnath,Pre-Mauryan,Malgandh,Kuti,Black,Ware,IV,Sarnath,Gupta,Buddha,Gupta,Buddha,Gupta,Duncan,Jagat,Singh,Sarnath,Gupta

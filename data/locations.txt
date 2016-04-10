@@ -1,8 +1,8 @@
-set([u'Basilica', u'Square', u'Christmas', u'Mass.'])
-set([u'DIG', u'Haridwar', u'Brahmakund', u'Ganga'])
-set([u'Karnataka'])
-set([u'Mysuru', u'Karnataka'])
-set([u'DELHIL', u'City', u'Gaya', u'INTACH', u'New', u'Mahabodhi', u'Delhi', u'India', u'Temple', u'Bodh', u'Bonn', u'Circle', u'UNESCO', u'NEW', u'Durbar', u'Fort', u'Chapter', u'Bihar', u'Red', u'Patna'])
-set([u'Rishikesh', u'Sabha', u'Haridwar', u'Sri', u'India', u'Har-ki-Pauri', u'Ganga', u'Wi-Fi'])
-set([u'Delhi', u'Netherlands', u'DELHI', u'NMDC', u'West'])
-set([u'North-Western', u'New', u'Delhi', u'Varanasi'])
+Square,Basilica,Mass.,Christmas
+Haridwar,DIG,Ganga,Brahmakund
+Karnataka
+Karnataka,Mysuru
+Delhi,NEW,DELHIL,Delhi,Delhi,Delhi,New,Delhi,Delhi,Durbar,UNESCO,Delhi,Bonn,Bihar,Patna,India,Bihar,Patna,Circle,Mahabodhi,Temple,Bodh,Gaya,Gaya,Delhi,Red,Fort,India,New,Delhi,Bihar,Bihar,City,INTACH,Bihar,Chapter,Delhi
+Haridwar,Sri,Ganga,Sabha,India,Ganga,Ganga,Sabha,Wi-Fi,Har-ki-Pauri,Haridwar,Haridwar,Haridwar,Rishikesh,Haridwar
+DELHI,Delhi,West,NMDC,Netherlands
+Varanasi,New,Delhi,Varanasi,North-Western
