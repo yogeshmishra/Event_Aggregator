@@ -4,7 +4,7 @@ import math
 import sys, os
 from elasticsearch import Elasticsearch
 
-es = Elasticsearch(hosts=[{'host':'db03.cs.utah.edu'},{'host':'db04.cs.utah.edu'}])
+es = Elasticsearch(hosts=[{'host':'db03.cs.utah.edu'}])
 basefolder = 'output/outputFiles/'
 
 topic_names={}
@@ -28,30 +28,34 @@ def updateES(ESClient=Elasticsearch(), idfilename=basefolder+"id.txt", topicfile
         return 
     with open(idfilename,"r") as idfile, open(topicfilename,"r") as topicfile, open(keywordsfilename, "r") as keywordsfile:
         line = 0
-        try:
-            line +=1
-            id , topics, keywords = next(idfile),next(topicfile), next(keywordsfile)
-            id = id.strip()
-            topics= filter(None,topics.split(','))
-            topicCounter = Counter(topics) 
-            total = sum(topicCounter.values(),0.0)
-            for key in topicCounter:
-                topicCounter[key] /=total
+        while True:
+            try:
+                line +=1
+                id , topics, keywords = next(idfile),next(topicfile), next(keywordsfile)
+                id = id.strip()
+                topics= filter(None,topics.split(','))
+                topicCounter = Counter(topics) 
+                total = sum(topicCounter.values(),0.0)
+                for key in topicCounter:
+                    topicCounter[key] /=total
 
-            topicCounter = dict(topicCounter)
-            
-            topics = {}
-            for key in topicCounter:
-                try:
-                    topics[ topic_names[key] ] = topicCounter[key]
-                except:
-                    pass
-            print id , topics
-            print keywords
-        except:
-            print "READ ERROR : LINE ", line
+                topicCounter = dict(topicCounter)
+                
+                topics = {}
+                for key in topicCounter:
+                    try:
+                        topics[ topic_names[key] ] = topicCounter[key]
+                    except:
+                        pass
+                print id , topics
+                print keywords
+                update_data(ESClient, id, topics, keywords)
+            except Exception as e:
+                print "READ ERROR : LINE ", line, str(e)
+                break
     
-
+def update_data(Client, id, topics, keywords):
+    Client.update(index="news", doc_type="articles", id=id, body={"doc":{"topics":topics, "enriched_keywords":keywords}})
 if __name__=="__main__":
     getTopicNames(filename=basefolder+ "topicNames.txt")
-    updateES()
+    updateES(ESClient=es)
