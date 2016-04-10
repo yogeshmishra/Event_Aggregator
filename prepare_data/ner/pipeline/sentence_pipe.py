@@ -76,11 +76,11 @@ def main(options, args):
                       non_ne_list.append(w)
           #print person_list
           #print loc_list
-          persons.write(unicode(set(person_list)))
+          persons.write(unicode(",".join(person_list)))
           persons.write(unicode('\n'))
-          locations.write(unicode(set(loc_list)))
+          locations.write(unicode(",".join(loc_list)))
           locations.write(unicode('\n'))
-          non_nes.write(unicode(non_ne_list))
+          non_nes.write(unicode(" ".join(non_ne_list)))
           non_nes.write(unicode('\n'))
           #mem_prof.change()
           logging.debug('Time spent processing the file is %f', time()-start) 

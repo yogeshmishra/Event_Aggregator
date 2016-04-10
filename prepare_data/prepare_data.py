@@ -14,6 +14,8 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02, section = "
         os.remove(basefolder + 'ids.txt')
         os.remove(basefolder+"corpus.txt")
         os.remove(basefolder +'enriched_keys.txt')
+        os.remove(basefolder +'titles.txt')
+        os.remove(basefolder +'links.txt')
     except:
         pass
     while total > from_value:
@@ -44,7 +46,7 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02, section = "
 
         total = result_set['hits']['total']
         from_value=from_value + size
-        with open(basefolder+"corpus.txt", 'a+') as corpus, open(basefolder+'enriched_keys.txt', 'a+') as keys, open(basefolder +'ids.txt', 'a+') as ids:
+        with open(basefolder+"corpus.txt", 'a+') as corpus, open(basefolder+'enriched_keys.txt', 'a+') as keys, open(basefolder +'ids.txt', 'a+') as ids, open(basefolder +'titles.txt', 'a+') as titles, open(basefolder +'links.txt', 'a+') as links  :
                     for  hit in result_set['hits']['hits']:
                         i = i+1
                         if i%500  == 0 :
@@ -56,9 +58,13 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02, section = "
                             corpus.write((c['title'] + c['article'] + c['keywords'] + c['focus']).encode('utf-8').replace('\n',' '))
                             keys.write((c.get('enriched_keywords',"") ).encode('utf-8').replace('\n',' '))
                             ids.write(hit['_id'].encode('utf-8'))
+                            titles.write((c.get('title',"") ).encode('utf-8').replace('\n',' '))
+                            links.write((c.get('link',"") ).encode('utf-8').replace('\n',' '))
                             corpus.write("\n")
                             keys.write("\n")
                             ids.write("\n")
+                            titles.write("\n")
+                            links.write("\n")
 
 if __name__=="__main__":
     s = 500
