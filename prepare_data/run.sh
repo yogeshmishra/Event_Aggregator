@@ -1,4 +1,8 @@
 #!/bin/bash
+if [ $# -ne 4 ]
+  then
+    echo "USAGE: \n ./run.sh <YEAR> <MONTH [01-12]> <DAY[01-31]> <SECTION [refer section file]>"
+fi
 rm -rf input/*
 python get_section_data.py 500 $1 $2 $3 $4
 python createBroadCategory.py
