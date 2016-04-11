@@ -18,8 +18,8 @@ def MyCorpus(dictionary):
 
 
 dictionary = corpora.Dictionary( ast.literal_eval(line) for line in open(baseFolder+'non_ners.txt'))
-dictionary.save('/tmp/deerwester.dict') # store the dictionary, for future reference
+dictionary.save('/tmp/news_articles.dict') # store the dictionary, for future reference
 print dictionary
 
 corpus_memory_friendly = MyCorpus(dictionary)
-corpora.MmCorpus.serialize('/tmp/corpus.mm', corpus_memory_friendly)
+corpora.MmCorpus.serialize('/tmp/news_articles.mm', corpus_memory_friendly)
