@@ -24,12 +24,12 @@ results = [[ 0.0 for i in range(len(sims[mainFile][0]))] for j in range(len(sims
 print results
 for key in fileList:
     sim = sims[key]
-    print key
+    #print key
     for i in range(len(sim)):
         #print sims[mainFile][i][:5], sim[i][:5]
-        print  [ x + y for x,y in zip(results[i],sim[i])][:5]
+        #print  [ x + y for x,y in zip(results[i],sim[i])][:5]
         results[i] = [ x + y for x,y in zip(results[i],sim[i])]
-        print results[i]
+        #print results[i]
 aggSim = results
 
 with open("output.txt","w") as out:
