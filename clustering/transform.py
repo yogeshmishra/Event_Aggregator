@@ -1,8 +1,9 @@
 import sys
 
 from gensim import corpora, models, similarities                               
+baseFolder ="results/"
 fileList = ['non_ners.txt', 'locations.txt', 'persons.txt', 'enriched_keys.txt']
-
+sims ={}
 for filename in fileList:
     dictionary = corpora.Dictionary.load('/tmp/' + filename.strip('.txt')+'.dict')
     corpus = corpora.MmCorpus('/tmp/' + filename.strip('.txt')+ '.mm')
@@ -14,10 +15,24 @@ for filename in fileList:
     index.save('/tmp/' + filename.strip('.txt')+ '.index')
     index = similarities.MatrixSimilarity.load('/tmp/' + filename.strip('.txt')+ '.index')
 
-    sims = index[corpus_tfidf]
-    with open('output_'+filename, 'w') as out:
-        for s in sims:
-            outlist = sorted(list(enumerate(s)),key=lambda x: x[1], reverse=True)[:6]
-            out.write(unicode(outlist))
-            out.write('\n')
+    sims[filename] = index[corpus_tfidf]
+
+fileListRemoved = [ 'locations.txt', 'persons.txt', 'enriched_keys.txt']
+
+mainFile = 'non_ners.txt' 
+for key in fileListRemoved:
+    sim = sims[key]
+    print key
+
+    for i in range(len(sim)):
+        print sims[mainFile][i][:5], sim[i][:5]
+        sims[mainFile][i] = [x+y for x,y in zip(sims[mainFile][i],sim[i])]
+
+aggSim = sims[mainFile]
+
+with open("output.txt","w") as out:
+    for s in aggSim:
+        outlist = sorted(list(enumerate(s)),key=lambda x: x[1], reverse=True)[:6]
+        out.write(unicode(outlist))
+        out.write('\n')
 
