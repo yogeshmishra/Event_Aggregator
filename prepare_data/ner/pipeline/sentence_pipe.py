@@ -7,6 +7,7 @@ from optparse import OptionParser
 import logging
 import os
 import sys
+import gensim
 from time import time
 import json
 from document import Document 
@@ -76,11 +77,13 @@ def main(options, args):
                       non_ne_list.append(w)
           #print person_list
           #print loc_list
-          persons.write(unicode(",".join(person_list)))
+          non_ne_list = gensim.utils.lemmatize(" ".join(non_ne_list))
+          non_ne_list = [ w.split('/')[0] or '' for w in non_ne_list]
+          persons.write(unicode( map(unicode.lower, person_list)))
           persons.write(unicode('\n'))
-          locations.write(unicode(",".join(loc_list)))
+          locations.write( unicode( map(unicode.lower, loc_list)))
           locations.write(unicode('\n'))
-          non_nes.write(unicode(" ".join(non_ne_list)))
+          non_nes.write(unicode(non_ne_list))
           non_nes.write(unicode('\n'))
           #mem_prof.change()
           logging.debug('Time spent processing the file is %f', time()-start) 
