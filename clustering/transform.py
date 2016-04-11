@@ -1,20 +1,23 @@
 import sys
 
 from gensim import corpora, models, similarities                               
-dictionary = corpora.Dictionary.load('/tmp/news_articles.dict')
-corpus = corpora.MmCorpus('/tmp/news_articles.mm')
+fileList = ['non_ners.txt', 'locations.txt', 'persons.txt', 'enriched_keys.txt']
 
-tfidf = models.TfidfModel(corpus)
+for filename in fileList:
+    dictionary = corpora.Dictionary.load('/tmp/' + filename.strip('.txt')+'.dict')
+    corpus = corpora.MmCorpus('/tmp/' + filename.strip('.txt')+ '.mm')
 
-corpus_tfidf = tfidf[corpus]
-index = similarities.MatrixSimilarity(corpus_tfidf)
-index.save('/tmp/news_articles.index')
-index = similarities.MatrixSimilarity.load('/tmp/news_articles.index')
+    tfidf = models.TfidfModel(corpus)
 
-sims = index[corpus_tfidf]
-#print(list(enumerate(sims)))
-print sims
-print("Sortedp--------------------->")
-for s in sims:
-    outlist = sorted(list(enumerate(s)),key=lambda x: x[1], reverse=True)[:6]
-    print outlist
+    corpus_tfidf = tfidf[corpus]
+    index = similarities.MatrixSimilarity(corpus_tfidf)
+    index.save('/tmp/' + filename.strip('.txt')+ '.index')
+    index = similarities.MatrixSimilarity.load('/tmp/' + filename.strip('.txt')+ '.index')
+
+    sims = index[corpus_tfidf]
+    with open('output_'+filename, 'w') as out:
+        for s in sims:
+            outlist = sorted(list(enumerate(s)),key=lambda x: x[1], reverse=True)[:6]
+            out.write(unicode(outlist))
+            out.write('\n')
+
