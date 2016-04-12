@@ -19,7 +19,7 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02, section = "
     except:
         pass
     while total > from_value:
-        result_set = es.search(index="news", body={
+        result_set = es.search(index="jan_news", body={
             "query": {
                         "filtered": {
                             "query":{
@@ -52,10 +52,10 @@ def create_input_files(size=5000, month =12 , year = 2015, day = 02, section = "
                         if i%500  == 0 :
                             print i
                         c =  hit['_source']
-                        appended_words = c['title'] + c['article'] + c['keywords'] + c['focus']
+                        appended_words = c['title'] + c['article'] + c.get('keywords','') + c['focus']
                         if len(appended_words.split(" ")) > 4:
                             print hit['_id'] , c['section']
-                            corpus.write((c['title'] + c['article'] + c['keywords'] + c['focus']).encode('utf-8').replace('\n',' '))
+                            corpus.write((c['title'] + c['article'] + c.get('keywords','') + c['focus']).encode('utf-8').replace('\n',' '))
                             keywords = (c.get('enriched_keywords',"") ).encode('utf-8').replace('\n',' ')
                             keywords = keywords.split(',')
                             keys.write(unicode(keywords))

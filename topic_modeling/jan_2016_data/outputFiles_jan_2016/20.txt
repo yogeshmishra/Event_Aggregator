@@ -1,0 +1,887 @@
+water supply	653
+drinking water	456
+air pollution	409
+fire broke	206
+water bodies	198
+water crisis	195
+air quality	182
+clean chit	175
+Nach Baliye	157
+water cut	144
+Pollution Control Board	141
+Hema Malini	136
+water level	134
+fire brigade	127
+water scarcity	111
+opened fire	111
+Delhi Jal Board	108
+State Pollution Control Board	108
+noise pollution	104
+water tank	100
+fire safety	91
+water resources	87
+release of water	82
+Maharashtra Pollution Control Board  MPCB	78
+pollution levels	77
+supply water	75
+water resources department	75
+water tankers	75
+fire department	75
+caught fire	72
+water shortage	71
+swimming pool	68
+Central Pollution Control Board	68
+sewage treatment plant	66
+Maharashtra Pollution Control Board	64
+catches fire	63
+rainwater harvesting	63
+catchment areas	62
+major fire	62
+water woes	61
+ground water	61
+waste water	60
+washed ashore	59
+Pollution Control	59
+water pipeline	59
+water release	58
+Fire breaks	55
+Environmental Issue	55
+water project	55
+City Water	54
+Jayanthi Natarajan	54
+Delhi s air	54
+water treatment plant	52
+polluted river	52
+contaminated water	50
+Jal Nigam	49
+set on fire	48
+major fire broke	47
+water conservation	47
+sewage water	46
+Jal Sansthan	45
+Ganga Jamuna	45
+drinking water supply	43
+River Mandovi	43
+Kerala Water Authority	43
+fire tenders	42
+irrigation department	42
+Operation Anantha	42
+water bills	42
+drainage system	42
+river bank	42
+irrigation projects	42
+polluted city	41
+groundwater levels	41
+effluent treatment plant	40
+Water Board	40
+area of the city	40
+water connections	39
+fire and emergency services	39
+Orange City Water	39
+water pollution	39
+Clean Ganga	39
+river pollution	38
+treatment plant	38
+control room	38
+banks of river	38
+water sports	37
+air pollution levels	37
+potable water	36
+Hema Upadhyay	36
+Hyderabad Metropolitan Water Supply and Sewerage Board  HMWS SB	36
+sewage treatment plant  STP	36
+dam project	36
+gutted in fire	36
+storm water drain	36
+river Ganga	36
+fire crackers	35
+Jalyukta Shivar	35
+Krishna river	35
+air pollution in Delhi	35
+dam water	35
+air purifiers	35
+Delhi Pollution	34
+river linking	34
+water supply project	34
+sea level	34
+bursting of crackers	34
+Delhi Pollution Control Committee	33
+Lupita Nyong	33
+water storage	33
+Central Pollution Control Board  CPCB	33
+pollution in Delhi	33
+Radamel Falcao	33
+Sidhwan Canal	33
+water utility company	32
+noise levels	32
+Delhi s air quality	32
+fire station	32
+water bottles	32
+North Goa	32
+water quality	32
+manual scavenging	32
+firing incident	31
+Godavari river	31
+sewer lines	31
+clean air	31
+Orange City Water Private Limited	31
+water meters	31
+Tank Bund	30
+water flowing	30
+laying pipelines	30
+Tapi River	30
+litres of water	30
+Air Quality Index	30
+septic tank	29
+river bed	29
+water contamination	29
+fire services	29
+water dispute tribunal	29
+pipeline project	29
+Sabarmati river	29
+Rankala lake	29
+Goa state pollution control board  GSPCB	29
+Narmada river	28
+Mullaperiyar dam	28
+illegal water connections	28
+poor quality	28
+water sharing	28
+Aires Rodrigues	27
+curb pollution	27
+water tariff	27
+Morbe dam	27
+water dispute	26
+rain water	26
+acute shortage	26
+pollution board	26
+scuba diving	26
+city s water supply	26
+check dams	26
+water grid	26
+polluted air	26
+stormwater drains	26
+local residents	25
+polluted water	25
+banks of Ganga	25
+inland waterways	25
+water distribution project	25
+fire gutted	25
+drainage line	25
+Sabarmati riverfront	25
+Jayakwadi dam	24
+water reservoirs	24
+Cauvery river	24
+industrial area	24
+water table	24
+conserve water	24
+supply drinking water	24
+lost control	24
+fired two rounds	23
+sewage treatment	23
+million litres	23
+water to the city	23
+natural disaster	23
+Gangapur dam	23
+bottled water	22
+water for drinking	22
+save water	22
+damage control	22
+Goa state pollution control board	22
+firing range	21
+water pumps	21
+storm water	21
+Ganga River	21
+Saraswati river	21
+parts of the city	21
+Ganga pollution	21
+hot water	21
+facing severe	21
+water pipe	21
+red alert	20
+surrounding areas	20
+water samples	20
+fire engulfed	20
+Krishna water	20
+civic body	20
+Fire destroys	19
+sources of water	19
+South Goa	19
+run dry	19
+Mission for Clean Ganga	19
+water distribution	19
+causing pollution	18
+water supply to the city	18
+flood waters	18
+river flow	18
+Calangute beach	18
+sharing of water	18
+residential areas	18
+Marina Beach	18
+destroyed in fire	17
+water utility	17
+fresh air	17
+repair work	17
+HMWS SB	17
+fire officer	17
+pollution caused	17
+treated sewage	17
+water purifiers	16
+feared drowned	16
+clear the air	16
+Delhi air pollution	16
+drain water	16
+Management Board	16
+Ganga cleaning	16
+lake city	16
+control pollution	16
+local body	16
+faces shortage	16
+scarcity of water	15
+lake bed	15
+river water	15
+Maharashtra Control	15
+hanging fire	15
+Water Supply and Sewerage Board	15
+permissible limits	15
+disaster management	15
+private water	15
+east Delhi	15
+boat capsized	14
+nearby areas	14
+fire accidents	14
+west Delhi	14
+sea turtles	14
+safety measures	14
+high level	14
+supply water to the city	14
+facing acute	14
+casualties were reported	14
+Jal Board	14
+city residents	13
+incidents of fire	13
+dead fish	13
+Tiracol river	13
+high and dry	13
+river bridge	13
+Diwali Crackers	13
+air in Delhi	13
+level of pollution	13
+water sources	13
+water drains	12
+Yettinahole project	12
+deep sea	12
+Mhadei water	12
+Polluting Ganga	12
+outskirts of the city	12
+supply line	12
+check pollution	12
+bridge over river	12
+Mandovi river	12
+floated tenders	12
+natural resources	12
+Pollution Control Committee	12
+massive fire	12
+Cantonment Board	11
+crackers during Diwali	11
+river Tiracol	11
+Delhi NCR	11
+flowing water	11
+North Karnataka	11
+north Delhi	11
+water and waste	11
+village panchayat	11
+water from dams	11
+quality of water	11
+city areas	11
+health hazards	11
+river Cauvery	11
+utility company	10
+construction site	10
+air quality in Delhi	10
+cracker bursting	10
+Nagar area	10
+monitoring system	10
+Clean Ganga Mission	10
+resident of village	10
+south Delhi	10
+adjoining areas	10
+Western Ghats	10
+coastal areas	10
+flow  in the river	10
+illegal water	9
+residents of the area	9
+alert sounded	9
+fish Dead	9
+dumping ground	9
+river Krishna	9
+river Godavari	9
+residents of the city	9
+save environment	9
+water in the river	9
+piped water	9
+supply chain	9
+fire  A major	9
+capital city	8
+level of water	8
+East Godavari	8
+cut in water	8
+fly ash	8
+quality of air	8
+city s pollution	8
+water to illegal	8
+shortage of water	8
+lift irrigation	8
+project in the city	8
+Beach Road	8
+Force Majeure	8
+major cities	8
+sounded an alert	8
+distribution of water	8
+levels of air pollution	7
+Ponda taluka	7
+turned turtle	7
+maintenance work	7
+crisis  water	7
+protect the environment	7
+damage caused	7
+pump water	7
+alert issued	7
+Private Limited	7
+waste management	7
+water and sewage	7
+vehicle pollution	7
+tanker water	7
+linking of rivers	7
+flood alert	7
+work of laying	7
+pollution check	7
+water treatment	7
+purified water	7
+West Coast	7
+clean city	7
+waste treatment plant	7
+posing a threat	7
+Water Supply and Sewerage	7
+fishing boats	7
+Ganga banks	6
+dumping of waste	6
+clean sweep	6
+health department	6
+Orange City	6
+Mhadei water dispute	6
+industrial units	6
+effluent treatment	6
+water  save	6
+Sewerage Board	6
+air clean	6
+major concern	6
+disputed waters	6
+southeast Delhi	6
+residents of the locality	6
+major reasons	6
+West Bank	6
+construction of a bridge	6
+rescue operations	6
+area residents	6
+metered water	6
+high alert	6
+construction activity	6
+electricity department	6
+concerned authorities	6
+main line	6
+treatment plant  STP	6
+waste burning	6
+Salt Lake	6
+construction materials	6
+state capital	6
+construction work	6
+illegal constructions	5
+km stretch	5
+coastal city	5
+city received	5
+huge quantity	5
+Residents complain	5
+engulfed in fire	5
+Clean   Clear	5
+heavy metal	5
+emergency services	5
+GSPCB  The Goa state pollution control board	5
+Line of Control	5
+set up plant	5
+nearby villages	5
+State Bank	5
+environment protection	5
+State Pollution	5
+pollution noise	5
+waste plant	5
+private company	5
+staff shortage	5
+Haryana State Pollution	5
+authorities concerned	5
+find a solution	5
+tenders floated	5
+Cantonment area	5
+Central Pollution	5
+waste treatment	5
+Round Table	5
+City project	5
+water floods	5
+regional officer	5
+waste dumping	5
+city limits	5
+major portion	5
+control damage	5
+continue to rise	5
+areas surrounding	4
+newly constructed	4
+project manager	4
+pollution in the state	4
+face threat	4
+local authorities	4
+solve the problem	4
+polluting vehicles	4
+outer Delhi	4
+causing damage	4
+village on the outskirts	4
+stop work	4
+management system	4
+found floating	4
+incident occurred	4
+works department	4
+drainage water	4
+project  Water	4
+link project	4
+Hyderabad Metropolitan Water Supply and Sewerage Board	4
+city clean	4
+affected areas	4
+Nagar residents	4
+gates opened	4
+neighbouring states	4
+city lakes	4
+suffered severe	4
+problems faced	4
+civic officials	4
+Electricity Supply	4
+improve the quality	4
+pipeline laying	4
+due to lack	4
+work on the construction	4
+civic agencies	4
+United States	4
+civic authorities	4
+Air Force	4
+MPCB Maharashtra Pollution Control Board	4
+Dam to Jayakwadi	4
+major blow	4
+department officials	4
+rising levels	4
+supply pipeline	4
+due to poor	4
+solution to the problem	4
+tourist spots	3
+report released	3
+state pollution control board  GSPCB	3
+city on Thursday	3
+officials on Thursday	3
+opened its gates	3
+task force	3
+km from the city	3
+safety concerns	3
+harvesting rainwater	3
+lay the foundation	3
+locations in the city	3
+north coastal	3
+village nearby	3
+causing inconvenience	3
+waters off the Kerala	3
+threats it is facing	3
+situation in the state	3
+tragedy was averted	3
+private operators	3
+fire and emergency	3
+Delhi s polluted air	3
+Raj Nagar	3
+shortage of staff	3
+damaged vehicles	3
+city s major	3
+area on Wednesday	3
+CPCB Central Pollution Control Board	3
+check safety	3
+fisheries department	3
+office fire	3
+main road	3
+body parts	3
+checks on vehicle	3
+burning of waste	3
+sewage will be treated	3
+standard quality	3
+bills  water	3
+official residence	3
+Services Limited	3
+dead body	3
+body  Water	3
+water   hot	3
+Control Board	3
+Nigam Limited	3
+resources like water	3
+chennai floods	3
+facing a crisis	3
+Water Private	3
+dumping of debris	3
+tariff up  but water	3
+pipeline  Water	3
+cut short	3
+plant saplings	3
+Brigade fire	3
+projects are completed	3
+Ganga cleaning mission	3
+pose danger	3
+engineering department	3
+Palm Beach	3
+Sukhna Lake	3
+environment impact	3
+stores open	3
+rising demand	3
+MIDC area	3
+fresh round	3
+bridge construction	3
+safety check	3
+found dead	3
+emergency fire	3
+facing problems	3
+state pollution control	2
+pool  Swimming	2
+dry days	2
+study has found	2
+burn a hole	2
+wide range	2
+impact on the environment	2
+population of   lakh	2
+repair and maintenance	2
+state level	2
+state of Goa	2
+digging of roads	2
+clear encroachments	2
+Regulatory Authority	2
+water from the ground	2
+fire  A massive	2
+dumped the body	2
+western suburbs	2
+impact assessment	2
+feared dead	2
+reveals a study	2
+Board Central	2
+daily routine	2
+dam at Mullaperiyar	2
+roads leading	2
+twin cities	2
+Company Limited	2
+dam to check	2
+private agency	2
+Sewerage Board  HMWS SB  Hyderabad Metropolitan Water Supply	2
+panchayat raj	2
+lakh population	2
+residence in T Nagar	2
+Board of Control	2
+island city	2
+threat looms	2
+city outskirts	2
+Company Expansion	2
+Mission for Rejuvenation	2
+water acute	2
+air connectivity	2
+saplings they had planted	2
+Central Zone	2
+Delhi s east	2
+Development Board	2
+Krishna Nagar	2
+issued an alert	2
+parts of the state	2
+problem solved	2
+hangs in balance	2
+boats are being used for fishing	2
+pipelines and supply	2
+mechanical engineer	2
+river Saraswati	2
+private contractor	2
+water from Krishna	2
+cities and towns	2
+leaves  dead	2
+State Disaster Management	2
+State Pollution Control Board   Goa	2
+pollution level air	2
+laying work	2
+project  water supply	2
+construction company	2
+control measures	2
+rising concerns	2
+vehicles entering	2
+Protection Force	2
+water drainage	2
+water  Rain	2
+clear dues	2
+supplies department	2
+project that will irrigate	2
+fire caught	2
+water connections illegal	2
+West Godavari	2
+hot air	2
+resolve the dispute	2
+industry body	2
+remove encroachments	2
+Authority  The Kerala Water	2
+service and the fire	2
+green belt	2
+city  Huda	2
+hundreds of thousands	2
+East Central	2
+North East	2
+survey has revealed	2
+Work of repair	2
+treatment of water	2
+concerns against the major	2
+report has revealed	2
+state board	2
+Water Mhadei	2
+officials concerned	2
+Palm Beach Road	2
+city roads	2
+reservoirs  water	2
+caused due	2
+waste disposal	2
+Central Board	2
+taluka   the villagers	2
+flood was so devastating	2
+Maharashtra Pollution	2
+central Delhi	2
+safety     The fire	2
+project report	2
+Fertilizers and Chemicals	2
+State Disaster Management Authority	2
+burning garbage	2
+quality of air in Delhi	2
+village resident	2
+garbage dump	2
+proposed construction	2
+solid waste	2
+water at Re per litre	2
+official Department	2
+dumping garbage	2
+East Coast	2
+body found	2
+body dumped	2
+Quality Index	2
+Control Board  MPCB	2
+major roads	1
+complain residents	1
+Firing opens	1
+level of the sea	1
+Agency  JICA	1
+construction building	1
+city and its suburbs	1
+Pollution Control Board state	1
+rising incidents	1
+parts of your body	1
+civic issues	1
+disaster in the state	1
+protected areas	1
+State Electricity	1
+department  PWD	1
+PWD department	1
+companies to construct	1
+road construction	1
+directed the board	1
+level crossing	1
+cleared with clean	1
+team of Central	1
+Nigam Jal	1
+river Sabarmati	1
+damage due	1
+water with Orange City	1
+Maharashtra State	1
+private vehicles	1
+report on the incident	1
+NCR region	1
+spot recently	1
+pollution  Maharashtra	1
+project  to supply	1
+riverfront development	1
+dispute tribunal	1
+Conservation Committee	1
+devastating floods	1
+Maharashtra Administrative Tribunal	1
+Bank state	1
+department fire	1
+plant to be set	1
+shortage of face	1
+stretch of road	1
+concerns about the safety	1
+natural gas	1
+green zone	1
+official sources	1
+board of management	1
+expert committee	1
+road digging	1
+Jal Board  Delhi	1
+disposal of waste	1
+Goa state	1
+control pollution in Delhi	1
+rescue team	1
+common effluent treatment	1
+parts of north	1
+boards in Goa	1
+Pollution Control Board Central	1
+dams except Gangapur	1
+areas affected	1
+Goa tourist	1
+line  main	1
+recent survey	1
+Delhi Jal	1
+tenders fire	1
+Kerala Water	1
+Road beach	1
+recently released	1
+reasons behind it  with a major	1
+vigilance department	1
+Mission for Clean	1
+Development Authority	1
+tree cutting	1
+increased demand	1
+reports of casualties	1
+polluted air in Delhi	1
+electricity connections	1
+work carried	1
+free run	1
+coastal road	1
+carry   whether you are at work	1
+issues faced	1
+village of Charla mandal	1
+limits in the city	1
+Kerala State Electricity Board	1
+north Chennai	1
+bank manager	1
+environment clearance	1
+Orange City Water Limited  the private	1
+treatment from sewage	1
+holy city	1
+plant  STP	1
+central bank	1
+incident was reported	1
+Supply Company	1
+NCR Delhi	1
+issued fresh	1
+Capital Region	1
+issued a warning	1
+dry run	1
+stretch of km	1
+side of the road	1
+western Maharashtra	1
+levels in the state	1
+lack of proper	1
+km road	1
+HMWS SB  The Hyderabad Metropolitan Water Supply and Sewerage Board	1
+continue to operate	1
+suffered burn	1
+laid to rest	1
+incidents on rise	1
+Link Road	1
+Metropolitan Region	1
+tables bill	1
+levels high	1
+city recently	1
+illegal encroachments	1
+vehicles carrying	1
+monitoring committee	1
+pollution Delhi air	1
+floods in Chennai	1
+service providers	1
+lost ground	1
+health issues	1
+measures to control	1
+underground cable	1
+water drains storm	1
+impact on health	1
+city as part	1
+masks for face	1
+connection  The Water	1
+Delhi  West	1
+clearing garbage	1
+taluka panchayat	1
+stp Sewage Treatment Plant	1
+road project	1
+Index air quality	1
+Hyderabad Metropolitan Water Supply	1
+state  the Karnataka	1
+departments of electricity	1
+green buildings	1
+study finds	1
+Conservation of Nature	1
+riverfronts of Sabarmati	1
+proposed site	1
+pollution curb	1
+laid a trap	1
+Sports Authority	1
+flood situation	1
+face hurdles	1
+Dwarka in Delhi	1
+manage disasters	1
+areas bordering	1
+debris dumping	1
+Natarajan  Jayanthi	1
+survey conducted	1
+committee set	1
+quality improvement	1
+Issues Environmental	1
+air  everyone like to have a clear	1
+parts of western	1
+Safety and Standards	1
+residential project	1
+hazardous to health	1
+Thursday directed	1
+Middle East	1
+residences of  officials	1
+Sewerage Board  HMWS SB	1
+personnel department	1
+Metropolitan Water Supply and Sewerage Board	1
+Goa state pollution control	1
+rounds were fired	1
+due to a damage	1
+provide free	1
+suffered a major	1
+River Tapi	1
+vehicle checking	1
+sewerage  water supply	1
+Project  KRP  dam	1
+continues to remain	1
+Coastal Zone Management	1
+team of experts	1
+demanding release	1
+million     million	1
+system operators	1
+flying high	1
+road linking	1
+Sources said official	1
+department is working	1
+health concerns	1
+huge amount	1
+material used for constructing	1
+run into trouble	1
+areas to the industrial	1
+department of health	1
+works of maintenance	1
+road bridge	1
+supply project	1
+water potable	1
+illegally connecting water	1
+Metropolitan Development Authority	1
+plant trees	1
+ensure safety	1
+Foundations laid	1
+projects in the pipeline	1
+CPCB CAAQMS  The board	1
+situation  The near flood	1
+committee of experts	1
+warn experts	1
+capsized boat	1
+completion of projects	1
+build roads	1

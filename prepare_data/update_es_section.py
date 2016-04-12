@@ -26,7 +26,7 @@ def updateES(ESClient=Elasticsearch(), idfilename=basefolder+"ids.txt", bCategor
                 break
     
 def update_data(Client, id, section):
-    Client.update(index="news", doc_type="articles", id=id, body={"doc":{"section":section}})
+    Client.update(index="jan_news", doc_type="articles", id=id, body={"doc":{"section":section}})
 
 if __name__=="__main__":
     updateES(ESClient=es)

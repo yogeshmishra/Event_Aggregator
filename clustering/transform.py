@@ -30,7 +30,7 @@ aggSim = results
 
 with open("output.txt","w") as out:
     for s in aggSim:
-        outlist = sorted(list(enumerate(s)),key=lambda x: x[1], reverse=True)[:6]
+        outlist = sorted(list(enumerate(s)),key=lambda x: x[1], reverse=True)
         out.write(unicode(outlist))
         out.write('\n')
 

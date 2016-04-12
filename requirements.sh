@@ -4,10 +4,10 @@ sudo apt-get install libxml2-dev libxslt1-dev python-dev
 
 pip install scrapy
 pip install pyelasticsearch
-
+pip install networkx
 pip install python-dateutil
 pip install scrapyjs
-
+pip install --upgrade gensim 
 sudo apt-get update
 sudo apt-get install apt-transport-https ca-certificates
 sudo apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D

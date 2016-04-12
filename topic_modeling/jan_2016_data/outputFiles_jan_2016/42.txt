@@ -1,0 +1,655 @@
+civic body	1614
+Municipal Corporation	761
+Nagpur Municipal Corporation	545
+district administration	511
+district collector	437
+Pune Municipal Corporation	367
+municipal commissioner	361
+Nagpur Municipal Corporation  NMC	351
+Pune Municipal Corporation  PMC	242
+Kolhapur Municipal Corporation  KMC	225
+civic administration	212
+Municipal Council	207
+city corporation	175
+Corporate espionage	175
+district magistrate	160
+civic officials	157
+Nagpur District	153
+civic chief	149
+Pimpri Chinchwad	147
+Pimpri Chinchwad Municipal Corporation	147
+Kolkata Municipal Corporation	143
+municipal corporation  MC	130
+Deputy commissioner	126
+Lucknow Municipal Corporation	123
+Nashik Municipal Corporation  NMC	121
+Sunrisers Hyderabad	115
+Nagpur Improvement Trust	114
+Kolhapur district	112
+Kolhapur Municipal Corporation	108
+Thane Municipal Corporation  TMC	105
+general body	102
+Vadodara Municipal Corporation  VMC	97
+guardian minister	96
+Pravin Datke	96
+Surat Municipal Corporation  SMC	96
+civic agencies	96
+Nagpur Improvement Trust  NIT	91
+divisional commissioner	91
+district guardian minister	90
+Ramesh Shingare	90
+Greater Hyderabad Municipal Corporation  GHMC	90
+Pimpri Chinchwad Municipal Corporation  PCMC	90
+deputy mayor	89
+South Corporation	88
+Nashik Municipal Corporation	87
+Thane Municipal Corporation	85
+Ashok Chavan	82
+municipal administration	82
+general body meeting	81
+Ahmedabad Municipal Corporation  AMC	78
+South Delhi Municipal Corporation	77
+Aurangabad Municipal Corporation	77
+Shyam Wardhane	74
+Corporation Limited	73
+Surat Municipal Corporation	72
+Aurangabad Municipal Corporation  AMC	72
+Raai Laxmi	70
+Ashok Leyland	68
+local body	67
+Greater Visakhapatnam Municipal Corporation  GVMC	67
+Rajkot Municipal Corporation  RMC	62
+Prithviraj Chavan	60
+Charitable Trust	59
+girish bapat	58
+Ghaziabad Municipal Corporation	58
+deputy collector	57
+Kochi corporation	57
+Vadodara Municipal Corporation	57
+DY Patil	55
+city mayor	55
+Bhubaneswar Municipal Corporation  BMC	54
+senior citizens	53
+Chennai Corporation	52
+Nagpur Municipal Corporation Nagpur Improvement Trust	52
+Ahmedabad Municipal Corporation	51
+Panvel Municipal Council	51
+Sanatan Sanstha	50
+Greater Hyderabad Municipal Corporation	50
+Chandrashekhar Bawankule	50
+Delhi Municipal Council  NDMC	50
+North Corporation	50
+municipal bodies	49
+Sanjeev Jaiswal	49
+Chandrakant Patil	48
+Corporation of Chennai	47
+Pune and Pimpri Chinchwad	47
+civic body plans	47
+Laxmi Nagar	46
+Delhi Municipal Council	46
+civic polls	45
+civic authorities	45
+Kolkata Municipal Corporation  KMC	44
+assistant commissioner	44
+Indore Municipal Corporation  IMC	44
+Ajoy Mehta	43
+corporation officials	43
+municipal corporation elections	43
+Chandigarh Municipal Corporation	42
+Nagpur Municipal Corporation Municipal commissioner	42
+North Delhi Municipal Corporation	42
+Brihanmumbai Municipal Corporation	42
+civic issues	41
+Thane district	41
+Nagpur division	41
+Navi Mumbai Municipal Corporation	41
+Margao municipal council  MMC	40
+NCP corporator	40
+Suraj Parmar	40
+Additional municipal commissioner	40
+Jaipur Municipal Corporation  JMC	40
+null null	39
+Navi Mumbai	39
+Pune district	39
+Municipal Corporation  BMC	39
+ward office	38
+Pune division	37
+municipal councillors	37
+Yo Yo Honey Singh	37
+Kolhapur Municipal Corporation Kolhapur	36
+Coimbatore Corporation	36
+Madurai Corporation	36
+Greater Visakhapatnam Municipal Corporation	36
+Indore Municipal Corporation	36
+Bhopal Municipal Corporation	35
+Ramdas Kadam	35
+Shimla Municipal Corporation	35
+Cuttack Municipal Corporation	35
+Brihanmumbai Municipal Corporation  BMC	35
+corporal punishment	34
+Deputy Municipal Commissioner	34
+Rajkot Municipal Corporation	33
+East Delhi Municipal Corporation	33
+Ranjit Patil	33
+Nashik district	33
+Sanjay Rathod	33
+Kozhikode corporation	33
+Abhishek Krishna	32
+Vikhe Patil	32
+Sachin Kurve	32
+Girish Mahajan	32
+council meeting	31
+mayor Pravin Datke	30
+municipal commissioner Ajoy Mehta	30
+Anil Shirole	30
+assistant municipal commissioner	30
+municipal wards	30
+Shreehari Aney	29
+body language	29
+Yavatmal district	29
+Kolhapur Municipal Transport	29
+Margao Municipal Council	29
+Pravin Datke Nagpur Municipal Corporation	29
+Milind Ganvir	28
+corporate espionage case	28
+Rajeev Jadhav	28
+Kolhapur Municipal Corporation  KMC  election	28
+Manikrao Thakre	28
+civic amenities	28
+Ganesh Naik	28
+Dayashankar Tiwari	27
+Kamrup  Metro  district administration	27
+safai karamchari	27
+civic commissioner	27
+Mor Bhavan	27
+Satara district	27
+Nashik Municipal Corporation Nashik	26
+Jaipur Pink Panthers	26
+Mumbai Pune	25
+Bidhannagar Municipal Corporation	25
+corporation commissioner	25
+Pune City	24
+Ponda taluka	24
+Sandeep Patil	24
+Mormugao Port Trust	24
+Sitaram Kunte	24
+Nagpur Municipal Corporation Mayor	23
+Municipal Corporation of Delhi	23
+Municipal Corporation  VMC	23
+district collector s office	23
+private contractor	22
+Municipal Corporation  GMC	22
+Improvement Trust	21
+collector s office	21
+Municipal Corporation  SMC	21
+Ravindra Patil	21
+Aurangabad district	21
+PMC plans	20
+Yashwantrao Chavan	20
+Nagpur Municipal Corporation Nagpur	20
+Mormugao municipal council	20
+NMC official	19
+ward number	19
+Bhubaneswar Municipal Corporation	19
+Raigad district	19
+municipal polls	18
+east Delhi	18
+additional commissioner	18
+Corporation of the City of Panaji  CCP	18
+apex body	18
+mayor and deputy mayor	18
+minister Girish Mahajan	18
+Vaishali Nagar	18
+Kanpur Municipal Corporation	18
+Anil Deshmukh	18
+Mohali municipal corporation	17
+additional collector	17
+guardian minister Chandrashekhar Bawankule	17
+Maharashtra Municipal Corporation	17
+Nitin Raut	17
+senior official	17
+municipal elections	17
+Municipal Corporation  KMC	17
+district administration has decided	16
+civic elections	16
+Jaipur Municipal Corporation	16
+superintending engineer	16
+mayor s post	15
+District Collector Collector	15
+AMC Ahmedabad Municipal Corporation	15
+Varanasi Municipal Corporation	15
+MCG commissioner	15
+Mohali MC	15
+municipal council  MMC	15
+NMC Nagpur Municipal Corporation	14
+Municipal Corporation  PMC	14
+Municipal Council  PMC	14
+south Delhi	14
+Corporation Municipal	14
+delimitation of wards	14
+Guwahati Municipal Corporation	14
+municipal corporation commissioner	14
+BMC commissioner	13
+post of mayor	13
+Municipal Corporation  AMC	13
+private agency	13
+mayor of the city	13
+Patna Municipal Corporation	13
+city limits	13
+joint commissioner	12
+NMC Nashik Municipal Corporation	12
+Delhi Municipal Corporation	12
+mayoral elections	12
+Aurangabad Municipal	12
+Gadchiroli district	12
+Kishore Tiwari	12
+Chandigarh administration	11
+Ahmedabad Municipal	11
+Corporation  BMC	11
+Kamrup  Metro	11
+divisional officer	11
+Thane Municipal	11
+minister Chandrakant Patil	11
+Nagpur Metro	11
+Corporation of the City of Panaji	11
+passed a resolution	11
+Eknath Khadse	11
+Municipal Corporation  RMC	11
+Mohan Nagar	11
+mayor and deputy	11
+civic corporation	10
+commissioner Ajoy Mehta	10
+Shivaji Nagar	10
+north Delhi	10
+plan civic body	10
+minister Girish Bapat	10
+Ittehadul Muslimeen	10
+Biju Ramesh	10
+Ashok Nagar	10
+KMC polls	10
+Bidhannagar Municipal	9
+Pravin Datke Mayor	9
+Mapusa municipal	9
+Corporation of the City	9
+labour commissioner	9
+conduct a survey	9
+elections to six municipal corporations	9
+Corporation Mayor	9
+elected corporators	8
+NMC  is planning	8
+Kamrup  Metro  district	8
+Corporation councillor	8
+Chandrapur district	8
+Pune Municipal	8
+Shantaram Naik	8
+collector District Collector	8
+Corporation plans	8
+BMC plans	8
+Nagar district magistrate	8
+Navi Mumbai Municipal	8
+Margao Municipal	8
+Greater Hyderabad	8
+deputy engineer	8
+administration has decided	8
+deputy chief minister	8
+Vijay Nagar	8
+survey conducted	8
+Municipal Corporation Mayor	8
+Kolkata Municipal	8
+chief minister	8
+Rajendra Nagar	7
+Surat Municipal	7
+Nehru Nagar	7
+Mahesh Zagade	7
+South Goa	7
+administration    The district	7
+Corporation has decided	7
+taluka of the district	7
+south Mumbai	7
+commissioner s office	7
+civic body polls	7
+zonal office	7
+administrative officer	7
+Krishna district	7
+Corporation civic	7
+Visakhapatnam district	7
+elected mayor	6
+Vikas Gupta	6
+Collector  District	6
+Uttam Nagar	6
+Port Trust	6
+council chairman	6
+Kolhapur corporators	6
+official apathy	6
+Hyderabad Municipal Corporation	6
+JMC Jaipur Municipal Corporation	6
+Municipal Corporation Pune	6
+Pune Mumbai	6
+Visakhapatnam Municipal Corporation	6
+Pimpri Chinchwad Municipal	6
+district headquarters	6
+guardian minister District	6
+Muslimeen  MIM	6
+East and North	6
+Mumbai City	6
+Mormugao Port	6
+division  Pune	6
+Delhi s North	5
+councillors and corporators	5
+TMC Thane Municipal Corporation	5
+cities like Pune	5
+citizens  group	5
+north Chennai	5
+Corporation North	5
+minister Anil	5
+Nagar residents	5
+Ramesh Tawadkar	5
+administration  The civic	5
+Pune metro	5
+district  The Pune	5
+city areas	5
+Mangaluru City Corporation	5
+city residents	5
+Nagpur District Chess	5
+senior officer	5
+number of wards	5
+transport commissioner	4
+Goa collector	4
+elections to civic bodies	4
+local residents	4
+body plans	4
+Pink City	4
+Nagpur Municipal Corporation Municipal	4
+officials of the civic	4
+NIT Nagpur Improvement Trust	4
+Honey Singh	4
+Kailash Vijayvargiya	4
+Commissioner Deputy	4
+Corporation  KMC	4
+district and taluka	4
+BMC  Corporators	4
+KMC  The Kolhapur Municipal Corporation	4
+Municipal Corporation Municipal	4
+Municipal Corporation  JMC	4
+GVMC Greater Visakhapatnam Municipal Corporation	4
+Nagpur Corporation	4
+Private Limited	4
+official residence	4
+Corporation Garbage	4
+body meeting	4
+additional district	4
+deputy superintendent	4
+office of the deputy	4
+body  The civic	4
+official Corporation	4
+election to the Kolhapur Municipal Corporation  KMC	4
+Nashik Municipal	4
+Municipal commissioner  Nagpur Municipal Corporation	4
+Visakhapatnam Greater	4
+officer District Collector	4
+districts of Nagpur	4
+civic body elections	4
+Corporation Madurai	4
+Nagpur Municipal	4
+Municipal commissioner deputy	4
+Mumbai Municipal Corporation	4
+local body elections	3
+commissioner Mayor	3
+PMC corporator	3
+survey carried	3
+general administration	3
+Polls municipal	3
+mayors in three out of the six municipal corporations	3
+mayor of the corporation	3
+Municipal Corporation  GHMC	3
+Transport Corporation	3
+district  Kolhapur	3
+Delhi Municipal	3
+Pravin Datke Nagpur	3
+plan for the city	3
+Collector additional	3
+minister and guardian	3
+commissioner additional	3
+Municipal Corporation  The Greater Hyderabad	3
+Mumbai and Navi	3
+Nagar district	3
+district guardian	3
+minister Chandrashekhar Bawankule	3
+corporation elections	3
+South East	3
+Municipal Corporation  GVMC	3
+Visakhapatnam Municipal Corporation  GVMC	3
+PCMC  The Pimpri Chinchwad Municipal Corporation	3
+general elections	3
+VMC    The Vadodara Municipal Corporation	3
+Deepak Bajaj	3
+Municipal Corporation Mohali	3
+local MP	3
+Office to the collectorate	3
+Municipal Corporation  PCMC	3
+Krishna Nagar	3
+Municipal Corporation Kolhapur	3
+permissible limits	3
+GHMC    The Greater Hyderabad Municipal Corporation	3
+Nagpur  Nagpur Municipal Corporation	3
+KMC  corporator	3
+district  the Nashik	3
+PMC  The Pune Municipal Corporation	3
+area of the city	3
+district transport officer	3
+office of the  A  Ward	3
+regional officer	3
+Mahadev Naik	3
+chief engineer	3
+ward and municipality	3
+Municipal Corporation  Greater Visakhapatnam	2
+authorities have decided	2
+language body	2
+water bodies	2
+BMC  The Brihanmumbai Municipal Corporation	2
+chief commissioner	2
+North and South	2
+municipal corporations  Ahmedabad	2
+improvement plan	2
+meeting of the general body	2
+ward delimitation	2
+RMC  Rajkot Municipal Corporation	2
+Municipal Corporation Nashik	2
+Pink Panthers	2
+Mayor Commissioner	2
+Nagar  Laxmi	2
+PCMC corporators	2
+MC  of Mohali	2
+elected municipal	2
+Brihanmumbai Municipal	2
+North East	2
+Greater Hyderabad Municipal	2
+case Corporate espionage	2
+cantonments in Pune	2
+town planning	2
+Corporation Municipal commissioner	2
+post office	2
+Corporation  NMC	2
+Honey Singh  Yo Yo	2
+Municipal Corporation Aurangabad	2
+municipalities  municipal corporations	2
+Sharad Pawar	2
+plan BMC	2
+Ram Shinde	2
+Municipal Corporation Ghaziabad	2
+Municipal Transport	2
+Municipal Corporation Pimpri Chinchwad	2
+Port City	2
+Survey of India	2
+Corporation  TMC	2
+MMC Margao Municipal Council	2
+Hyderabad  Greater	2
+Deepak Sawant	2
+Municipal Council in Delhi	2
+district  Thane	2
+Madurai district	2
+commissioner after the elections	2
+Garbage corporator	2
+Senior Division	2
+Visakhapatnam Port Trust	2
+commissioner Municipal	2
+office of the commissioner	2
+Corporation NCP	2
+Rathod Sanjay	2
+city proposal	2
+KMC election	2
+North Goa	2
+Limited corporate	2
+Municipal Corporation Maharashtra	2
+Municipal Corporation  Cuttack	2
+MC  Municipal corporation	2
+commissioner of the corporation	2
+district of Gadchiroli	2
+Bhopal Municipal	2
+city  the Mumbai	2
+Municipal Corporation BMC  The Brihanmumbai	2
+Yo Yo	2
+Municipal Corporation Lucknow	2
+trust charitable	1
+municipality in Vadodara	1
+council  MMC	1
+Municipal Corporation Kanpur	1
+Nagar  Ashok	1
+Bhubaneswar Municipal	1
+Greater Visakhapatnam	1
+Shimla Municipal	1
+taluka Ponda	1
+Chandrashekhar Bawankule minister	1
+official senior	1
+Municipal Corporation of Hyderabad Greater	1
+district and additional	1
+engineer private	1
+Municipal Corporation Chandigarh	1
+Delhi corporations  The municipal	1
+TMC corporator	1
+local authorities	1
+AMC  The Aurangabad Municipal Corporation	1
+Chandrashekhar Bawankule  Guardian minister	1
+additional superintendent	1
+Municipal Corporation Municipal commissioner	1
+Cuttack Municipal	1
+district administration of Kamrup  Metro	1
+PWD minister	1
+Municipal Corporation Garbage	1
+Kadam  Ramdas	1
+RMC  corporators	1
+Corporation  PMC	1
+revenue officials	1
+Nagar Shivaji	1
+Corporation South	1
+Krishna Abhishek	1
+district Satara	1
+NCP Maharashtra	1
+south Kolkata	1
+Visakhapatnam Municipal	1
+deputy commissioner s office	1
+plan to improve	1
+minister Girish	1
+Nagpur Municipal Corporation to improve	1
+Trusts to improve	1
+contractor  The private	1
+Dilip Parulekar	1
+Mumbai Municipal	1
+meeting of the council	1
+Corporation  The Coimbatore	1
+municipal elections  corporators	1
+Regional Plan	1
+Delhi Transport Corporation	1
+Additional municipal	1
+council in  municipalities	1
+Hyderabad  Sunrisers	1
+Nagpur Improvement	1
+espionage Corporate	1
+body s general	1
+municipality Mapusa	1
+cities and towns	1
+Delhi  South	1
+revenue minister	1
+Municipal Corporation Guwahati	1
+Pune Cantonment	1
+plan PMC	1
+commissioner of labour	1
+limits in the city	1
+Municipal Corporation Visakhapatnam	1
+Nashik  The Nashik Municipal Corporation	1
+AMC  Corporators	1
+CCP  The Corporation of the City of Panaji	1
+city of Panaji	1
+municipal commissioner  Corporators	1
+office of the deputy commissioner	1
+residents of the city	1
+Pune and Pimpri	1
+Jaipur Metro	1
+asked officials	1
+chief    Civic	1
+Corporation  PCMC	1
+India Limited	1
+NDMC  New Delhi Municipal Council	1
+Municipal Corporation  The Jaipur	1
+Municipal Corporation  The Bhubaneswar	1
+Panaji Corporation of the City	1
+resolution passed	1
+decided to help the authorities	1
+Patil    Chandrakant	1
+minister Chandrashekhar	1
+Nagar  Krishna	1
+city plan	1
+NMC corporator	1
+Group chairman	1
+meet of the body	1
+East Division	1
+Sanstha Sanatan	1
+local elections	1
+divisions of Nagpur	1
+Municipal Corporation  Surat	1
+BMC    The Bhubaneswar Municipal Corporation	1
+Mumbai Port Trust	1
+Chandigarh Municipal	1
+Manish Gupta	1
+superintendent deputy	1
+municipal commissioner  Additional	1
+polls for the  civic bodies	1
+Chinchwad  The Pimpri	1
+Corporation  SMC	1
+body elections	1
+Municipal Corporation Pimpri Chinchwad PCMC	1
+Minister  Chief	1
+body polls	1
+Pimpri Chinchwad  Pune	1
+NMC municipal corporations	1
+Municipal Corporation Shimla	1
+Margao town	1
+Panaji  CCP	1
+Delhi Metro	1
+guardian minister Chandrashekhar	1
+Dinesh Singh	1
+commissioner  The municipal corporation	1
+corporators elected to municipal	1
+Pimpri  Pune	1
+Transport Authority	1
+Datke Nagpur Municipal Corporation	1
+Lucknow Municipal	1
+district of Yavatmal	1
+Municipality in Rajkot	1
+South India	1
+Council of India	1
+Jaipur Municipal	1
+Meetings official	1
+Municipal Corporation  The Brihanmumbai	1
+proposed construction	1
+Patil Ravindra	1
+Municipal Corporation Kolkata	1
+Mayor  Nagpur Municipal Corporation	1
+Laxmi  Raai	1
+carrying out a survey	1
+councillors of the first Municipal	1
+district  the Aurangabad	1
+Chess Nagpur District	1
+minister Chandrakant	1
+Ravindra Bhavan	1
+Nagpur Improvement Trust Nagpur Municipal Corporation	1

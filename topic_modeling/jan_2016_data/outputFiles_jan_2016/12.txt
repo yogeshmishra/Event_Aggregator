@@ -1,0 +1,949 @@
+Rahul Gandhi	872
+Mahatma Gandhi	502
+auto driver	443
+Sonia Gandhi	418
+road accident	376
+Rajiv Gandhi	355
+Indira Gandhi	336
+bus stand	253
+transport department	239
+Rahul Dravid	232
+public transport	226
+bus service	211
+autorickshaw drivers	200
+Regional Transport Office	186
+truck driver	172
+taxi driver	171
+drunk driving	160
+bus driver	158
+Maneka Gandhi	157
+road safety	148
+Chhota Rajan	146
+commercial vehicles	142
+driving licence	138
+State Road Transport Corporation	130
+Congress president Sonia Gandhi	127
+cab driver	119
+Regional Transport Office  RTO	118
+diesel vehicles	113
+private bus	108
+school bus	100
+rash driving	95
+city roads	95
+bus depot	92
+wearing helmets	92
+speeding truck	92
+road mishap	92
+General Motors	91
+Sonia Gandhi Rahul Gandhi	88
+killed in road accident	87
+Indira Gandhi International Airport	87
+car crash	86
+luxury car	84
+road rage	83
+killed   injured	83
+Transport Corporation	77
+Maruti Suzuki	77
+motor vehicle	76
+car rammed	75
+car sales	72
+Tata Motors	71
+met with an accident	71
+bus stop	70
+taxi aggregator	70
+transport commissioner	70
+Ramalinga Raju	68
+bus fares	68
+private vehicles	68
+taxi operators	68
+drunk driver	67
+Motor Vehicles Act	66
+state transport	66
+auto  taxi	66
+school buses	66
+Rima Kallingal	66
+taxi services	65
+number plates	65
+cab service	65
+fatal accident	64
+Ola Cabs	63
+bus accident	63
+Auto Expo	63
+car accident	62
+driving test	62
+car hit	62
+Gandhi Maidan	62
+fare hike	62
+Regional Transport Authority	61
+auto rickshaw	61
+car driver	60
+dies in accident	58
+speeding car	58
+Road Transport	57
+Gandhi Jayanti	57
+Uber  Ola	57
+Motor Accident Claims Tribunal	55
+registration number	55
+RTO officer	55
+car in which they were travelling	54
+killed in accident	54
+speed breakers	54
+heavy vehicles	52
+bus terminus	52
+Bajaj Auto	52
+state transport department	51
+Congress chief Sonia Gandhi	51
+Priyanka Gandhi	51
+died in a road accident	51
+truck rammed	50
+Haryana Roadways	50
+Hero MotoCorp	50
+helmet rule	48
+diesel cars	48
+Maharashtra State Road Transport Corporation  MSRTC	48
+pillion riders	48
+drunken driving	46
+car rally	46
+city buses	46
+ban on diesel vehicles	46
+Alina Saldanha	46
+city bus service	46
+AC buses	44
+hit the roads	44
+Chhota Shakeel	44
+auto parts	43
+accident victim	43
+riding pillion	42
+learner s licence	42
+buses plying	42
+Mercedes Benz	42
+bus operators	42
+Maharashtra State Road Transport Corporation	41
+bus conductor	41
+Rahul Gandhi Congress	41
+tourist taxi	41
+truck carrying	40
+driving cars	40
+cab aggregator	40
+share auto	40
+Congress vice president Rahul Gandhi	39
+car parking	39
+Dum Dum	39
+state transport commissioner	39
+Dum Laga Ke Haisha	39
+negligent driving	38
+Mayank Gandhi	38
+bus terminal	38
+Transport Authority	38
+killed as car	38
+rams car	38
+bus routes	37
+injured in accident	37
+hit by car	37
+speeding vehicle	36
+parked vehicles	36
+truck hit	36
+Delhi Transport Corporation	36
+National Highway	35
+Hero Honda Chowk	35
+DTC buses	35
+vehicle owners	35
+Uber driver	35
+public transport system	35
+Road Transport Corporation	35
+bus they were travelling	35
+Nashik Regional Transport Office  RTO	35
+car shed	34
+auto major	34
+people were killed	33
+people were injured	33
+transport minister	33
+bus shelters	33
+hit by a speeding	33
+Sanjay Gandhi National Park	33
+passenger vehicles	33
+radio taxi	32
+special drive	32
+emissions scandal	32
+transport strike	31
+Transport Office	31
+Satyam Computer	31
+tempo driver	31
+vehicles plying	31
+Rahul Gandhi to visit	31
+Honda Motor	31
+transport vehicles	30
+riding a bike	30
+roads in the city	30
+Sanjay Gandhi	30
+auto union	30
+Uber cab	30
+motor vehicle inspector	29
+buses in the city	29
+Road Transport and Safety Bill	29
+tyre burst	29
+mode of transport	29
+private buses	29
+Nashik Road	29
+Transport Services	29
+accident involving	28
+city bus	28
+sports utility vehicle	28
+bike rally	28
+vehicles parked	28
+parked car	28
+fitness certificate	27
+Gandhi Nagar	27
+car dealer	27
+Rajiv Chowk	27
+rickshaw driver	27
+Sonia Balani	27
+Rahul Bajaj	27
+Rahul Sridhar	26
+drivers and conductors	26
+injured as bus	26
+auto permits	26
+bike he was riding	26
+road transport ministry	26
+transport system	26
+car maker	26
+collided with a truck	26
+narrow escape	26
+Gandhi Rahul Gandhi	26
+motor vehicle department	26
+Mahatma Gandhi National Rural Employment Guarantee	26
+district transport officer	25
+City Transport Services	25
+DTC bus	25
+stolen vehicles	25
+truck collided	25
+cluster buses	25
+rammed into a truck	25
+registration plates	25
+injured in a road accident	25
+car runs	25
+auto rickshaw driver	25
+MTC bus	25
+underworld don Chhota Rajan	24
+bus rams	24
+TVS Motor	24
+number of vehicles	24
+Ford Motor	24
+Congress  Rahul Gandhi	24
+truck owners	24
+president Sonia Gandhi	24
+Hyundai Motor India	24
+diesel engine	24
+woman passenger	23
+gangster Chhota Rajan	23
+test drive	23
+Ola  Uber	23
+bus passengers	23
+dedicated bus lane	23
+private operators	23
+runs amok	23
+driving drunk	23
+bus hit	23
+Gandhi statue	23
+taxi scheme	23
+rams into vehicle	22
+die as car	22
+persons were killed and  injured	22
+school van	22
+riding a motorcycle	22
+launched a drive	22
+hit by a truck	22
+critically injured	22
+van driver	22
+road rage incident	21
+collided head	21
+public transport vehicles	21
+persons were killed	21
+separate road accidents	21
+vehicles carrying	21
+passenger bus	21
+Road Safety Week	20
+pink autos	20
+prepaid auto	20
+hits bike	20
+involved in an accident	19
+damaged vehicles	19
+tour operators	19
+driver of the car	19
+accident occurred	19
+escaped unhurt	19
+accident took place	19
+electric car	19
+emission norms	19
+Regional Transport	18
+truck loaded	18
+bus overturns	18
+stolen car	18
+run over by truck	18
+Truck crushes	18
+vehicle is stolen	18
+persons were injured	17
+Nashik Regional Transport Office	17
+Uber Technologies	17
+service Uber	17
+road divider	17
+Bus Owners	17
+killed in separate	17
+service providers	17
+ambulance service	17
+AC bus	17
+vintage cars	17
+luxury bus	17
+speeding car hit	17
+run buses	16
+seized vehicles	16
+polluting vehicles	16
+Hyundai Motor	16
+accident case	16
+drive to check	16
+plying buses	16
+Hero Honda	16
+plying in the city	16
+Suzuki Motor	16
+Rahul Bose	16
+driver killed	16
+trial run	16
+accidents  road	16
+crashed his car	16
+Owners Association	15
+Person Travel	15
+Uber taxi	15
+autorickshaws and taxis	15
+main road	15
+traffic rules	15
+KSRTC bus	15
+RTO Regional Transport Office	15
+buses run	15
+Sonia and Rahul Gandhi	15
+rams into bike	15
+injured when a speeding	15
+hit the motorcycle	15
+Roadways bus	15
+traffic department	15
+Driver Bus	15
+taxi and auto	15
+MG Road	15
+diesel vehicles over  years	15
+vehicle theft	14
+road fatalities	14
+travel agent	14
+Tesla Motors	14
+Sonia Gandhi Rahul	14
+vehicles transporting	14
+hike fares	14
+hit and run	14
+Indira Nagar	14
+India Motor	14
+travel agency	14
+side of the road	14
+ban on diesel	14
+regional officer	14
+freak accident	14
+hit and run case	13
+car collided	13
+vehicles damaged	13
+state highways	13
+bear the brunt	13
+roads in the state	13
+passengers injured	13
+case of road rage	13
+Delhi NCR	13
+registration of vehicles	13
+crushed by truck	13
+vehicle checking	13
+hit by one of the vehicles	13
+Indira Gandhi National	13
+injured when the car	13
+revised fares	13
+vice president Rahul Gandhi	12
+owners of vehicles	12
+narrow lanes	12
+vehicles entering	12
+high speed	12
+bike hits	12
+road rage case	12
+truck runs	12
+miraculous escape	12
+national capital	12
+ban on vehicles	11
+run over by car	11
+people died	11
+roads leading	11
+separate accidents	11
+State Road Transport	11
+Mahindra   Mahindra	11
+Link Road	11
+Sohna Road	11
+road accident victims	11
+Private Limited	11
+Maruti Suzuki India	11
+taxi fares	11
+ferry service	11
+sales  Car	11
+car s speed	11
+licence driving	11
+travelling in collided	11
+taxi and autorickshaw	11
+killed as truck	11
+car he was driving	11
+die   injured	11
+cross the road	11
+killing the driver	10
+checking drive	10
+road trip	10
+State Transport Corporation	10
+India Pvt	10
+travelling in a bus	10
+driver of a truck	10
+Gandhi Rahul	10
+killed  people	10
+car stolen	10
+road users	10
+passengers travelling	10
+vice president	10
+Diesel ban	10
+bus commuters	10
+ministry of road transport and highways	10
+bike rams	9
+safety officer	9
+bypass road	9
+hits scooter	9
+hit by a bus	9
+vehicle speed	9
+vehicle ban	9
+road block	9
+driver was arrested	9
+motorcycle they were riding	9
+Honda Hero	9
+Beach Road	9
+Race Course Road	9
+diesel vehicle ban	9
+en route	9
+truck kills	9
+utility vehicle	9
+sabbatical Rahul Gandhi	9
+test track	9
+hit a roadblock	9
+vehicle hit	9
+vehicle registration	9
+State transport minister	9
+fare revision	9
+carrying  passengers	9
+special purpose vehicle	9
+Public Service	8
+bus station	8
+private company	8
+authority  RTA	8
+GT Road	8
+hit by a speeding car	8
+car kills	8
+wrong side	8
+minister Maneka Gandhi	8
+Services Limited	8
+Road   injured	8
+killing one person	8
+road kills	8
+road transport and highways ministry	8
+stealing car	8
+Gandhi Indira	8
+Cabs  Uber	8
+motorcycle hit	8
+ban on entry	8
+accident that killed	8
+riders and pillion	7
+Delhi Transport	7
+block road	7
+killing one person and injuring	7
+launch of G services	7
+Gandhi Congress	7
+Pooja Gandhi	7
+km road	7
+persons  including	7
+city corporation	7
+Accident Claims	7
+collided with another car	7
+died on the spot	7
+illegal transportation	7
+Rahul Gandhi sabbatical	7
+Motor India	7
+persons died	7
+bus service in city	7
+loaded truck	7
+Accident Claims Tribunal	7
+people were killed and  injured	7
+Mumbai Metropolitan Region	7
+Office  RTO	7
+National Capital Region  NCR	7
+city limits	7
+fitness test	7
+crushed to death	7
+vehicle numbers	7
+road hit	6
+Commuters Bus	6
+Japanese tourist	6
+congested roads	6
+private firm	6
+started a drive	6
+Road  about km	6
+driver Uber	6
+spare parts	6
+checks on vehicle	6
+Motors Hyundai	6
+driver Auto	6
+India Gate	6
+incidents of road rage	6
+city recently	6
+parts of the city	6
+people  including	6
+driving rashly	6
+bus  Those injured	6
+ride a horse	6
+dividing road	6
+operators private	6
+Office Regional Transport	6
+Mumbai Metropolitan	6
+transports going off roads	6
+vehicle rammed	6
+visit to the city	6
+state capital	6
+terminated the services	6
+car injures	6
+tourist spots	5
+road conditions	5
+general public	5
+number of registrations	5
+RTO Nashik regional transport office	5
+vehicles seized	5
+Transport and Safety	5
+MSRTC Maharashtra State Road Transport Corporation	5
+visits Gandhi	5
+vehicles and private	5
+city airport	5
+ply vehicles	5
+service bus	5
+conductor of a bus	5
+strike by transporters	5
+Public Safety	5
+start operations	5
+Transport Services Limited	5
+safety norms	5
+Motor Accident	5
+Riding high	5
+suzuki Maruti	5
+union transport	5
+Buses Best AC	5
+Transport and Safety Bill	5
+narrow road	5
+road traffic	5
+transport ministry	5
+case of an accident	5
+diesel and petrol	5
+rams bus	5
+Road accidents kill	5
+buses and private	4
+motorists and pedestrians	4
+Pune City	4
+number of people	4
+service launched	4
+VIP Road	4
+horse riding	4
+visit to Rahul Gandhi	4
+driver  A cab	4
+drive launched	4
+cancel the licences	4
+Indira Gandhi International	4
+safety Road	4
+Driver Auto rickshaw	4
+illegally operating	4
+ban on sale	4
+Gandhi Memorial	4
+Department of Transportation	4
+parts of the state	4
+private players	4
+Congress vice president	4
+Uber like service	4
+pillion riding	4
+buses  DTC	4
+Congress president	4
+killed  people and injured	4
+Wardha Road	4
+recently launched	4
+injured when a passenger	4
+GPS system	4
+President s rule	4
+traffic violations	4
+accident injuries	4
+transport unions	4
+conductor and driver	4
+fatal road	4
+hit the streets	4
+unsung heroes	4
+Ram Nagar	4
+places in the city	4
+pedestrians crossing	4
+National Gandhi	4
+operating illegally	4
+permits autos	4
+tourists visiting	4
+service for the transportation	4
+cars when luxury	4
+travelling in a car	4
+transport bus	4
+tourist destination	4
+road race	4
+office of the transport	4
+driver  An autorickshaw	4
+safety check	4
+public utility	4
+State Road	4
+Road Nashik	4
+rash and negligent	4
+private schools	3
+km from the city	3
+public places	3
+Corporation Limited	3
+driver was drunk	3
+mishaps on roads	3
+victims of road accidents	3
+illegal parking	3
+head office	3
+India Maruti Suzuki	3
+bursting  of tyre	3
+underworld don	3
+Bus Transport	3
+drivers  taxi	3
+Public School	3
+taxi owners	3
+vehicles  public transport	3
+car dies	3
+transport regional	3
+regional transport office Nashik	3
+offices for safety	3
+Motor Co  Honda	3
+separate incidents	3
+International Airport	3
+case involving	3
+transport  public	3
+commissioner and transport	3
+tracking system	3
+acts against vehicles	3
+schools in the city	3
+accident  another injured	3
+cars and stealing	3
+check pollution	3
+operation of two bus	3
+Maharashtra State Road Transport	3
+cycle tracks	3
+road and a majority	3
+Nashik regional	3
+passengers stranded	3
+chief Sonia Gandhi	3
+pollution check	3
+lakh people	3
+injured  persons	3
+injured  three of them critically	3
+Congress  Gandhi	3
+public private	3
+helmet you wear	3
+vehicles  Motor	3
+taxi Uber	3
+Chhota Rajan    With gangster	3
+Gurgaon roads	3
+buses and school	3
+injuring  people	3
+city schools	3
+lifts ban	3
+Capital Region	3
+scooter was hit	3
+surface transport	3
+city and its suburbs	3
+Gandhi Mahatma	3
+major cities	3
+state president	2
+Road again   die	2
+Bus Rapid	2
+department has started	2
+National Park	2
+Fare Bus	2
+Sonia Gandhi President	2
+Road flyover	2
+persons involved	2
+owners of trucks	2
+cycle rally	2
+national and state highways	2
+passenger it carries	2
+autos  and prepaid	2
+aggregator Ola	2
+ministry of road	2
+Chennai airport	2
+operators  Taxi	2
+Services  the ferry	2
+services  several taxis	2
+President Congress  Sonia Gandhi	2
+private agency	2
+Rahul Gandhi  vice president	2
+Pink City	2
+highways Road Transport Ministry	2
+dedicated bus	2
+Regional Transport Office  RTO   Nashik	2
+Employment Guarantee	2
+Bus Best AC	2
+Road Transport Corporation  MSRTC	2
+software engineer	2
+claims for accidents	2
+Gandhi  Sonia	2
+autos and shared	2
+Gandhi National	2
+Rahul Gandhi President	2
+city streets	2
+inspectors motor vehicle	2
+State Road Transport Corporation  MSRTC	2
+NCR region	2
+bus    School	2
+persons died and another five were injured	2
+arrested the driver	2
+India Private Limited	2
+rules traffic	2
+highways and transport	2
+Tuesday started	2
+roads narrow	2
+assassination Gandhi	2
+road accident died	2
+died in a road	2
+bus to the DTC	2
+incident occurred	2
+route under the Bus	2
+Safety Bill	2
+Auto  Bajaj	2
+accident  A bus	2
+year old diesel vehicles	2
+reduce the number	2
+united nations	2
+ensure safety	2
+accident after a car	2
+registered a case	2
+Road Safety and Transport Bill	2
+accident victim on road	2
+commissioner s office	2
+vehicles diesel	2
+stop the bus	2
+violating traffic	2
+incident happened	2
+major roads	2
+Bajaj  Rahul	2
+taxi  Tourists	2
+state minister	2
+causing death	2
+launched on Tuesday	2
+Union  Auto	2
+capital city	2
+National Highway  NH	2
+launch app	2
+Chhota Rajan  Underworld don	2
+incident took place	2
+minister for transport	2
+transport and highways	2
+condition of roads	2
+pollution in Delhi	2
+road side	2
+Vehicles Act	2
+bus lane	2
+don Chhota Rajan	2
+United States	2
+knocked on the doors	2
+truck    A speeding	2
+parts auto	2
+road transport and highways	2
+transport authority  RTA	2
+Cabs Ola	2
+transport service in the city	2
+president Sonia	2
+city on Tuesday	2
+National Capital Region	2
+Rahul  Sonia Gandhi	2
+bad roads	2
+road stretch	2
+mechanical engineer	2
+leading to the death	2
+services were terminated	2
+president Sonia Gandhi to name the Congress	2
+rally to car	2
+ruling Congress	2
+carry in their vehicle	2
+maximum number	2
+purpose vehicle	1
+vehicles  The heavy	1
+aggregator  Taxi	1
+rush of passengers	1
+Motors suzuki	1
+Corporation of Chennai	1
+city  the Mumbai	1
+Motors  Ford	1
+Highways Authority	1
+place from the accident	1
+fare  taxi	1
+Manufacturers  Association	1
+Mahatma Gandhi National Rural Employment	1
+violating rules	1
+accident fatalities	1
+strike hits	1
+heavy rush	1
+Transportation Delhi	1
+Traffic curbs	1
+engineer private	1
+city is gearing	1
+deaths caused	1
+km stretch	1
+Motors Tesla	1
+Chowk Honda Hero	1
+engine with the software	1
+ministry of road transport	1
+Customs department	1
+number of cases	1
+safety in public	1
+transport in the state	1
+involving the personal	1
+Dravid  Rahul	1
+number of deaths	1
+vehicle can t get passenger	1
+providing services	1
+Road Transport Corporation  As many as  out of  Maharashtra State	1
+Company Limited	1
+Road Safety and Transport	1
+head injuries	1
+vehicle pollution	1
+case of hit and run	1
+Rahul Gandhi  Sonia	1
+union transport minister	1
+injured died	1
+Sonia Gandhi as the Congress chief	1
+city traffic	1
+Transport  The Metropolitan	1
+traffic congestion	1
+truckers strike	1
+Delhi Public School	1
+plate number	1
+services company	1
+Road Transport Corporation state	1
+Authority of India	1
+parked illegally	1
+Motors Tata	1
+Corporation to transport	1
+Rajan  Chhota	1
+run hit	1
+traffic Road	1
+Kozhikode corporation	1
+authorities and the transporter	1
+president Rahul Gandhi	1
+highways in the state	1
+Business School	1
+accidents in separate	1
+Road  Sohna	1
+seat sharing	1
+limits in the city	1
+Delhi Pollution	1
+Vice President UP congress Rahul Gandhi	1
+Union minister for road transport and highways	1
+office met	1
+victim of accident	1
+drive   The special	1
+buses cluster	1
+killed in road	1
+Depot bus	1
+check illegal	1
+pedestrians and motorists	1
+bus    A private	1
+NCR Delhi	1
+Road ministry	1
+vehicle for the purpose	1
+don  Underworld Chhota Rajan	1
+terminals like the airport	1
+national president	1
+minister of state	1
+Safety Week	1
+traffic on Gurgaon	1
+highways ministry	1
+run case	1
+Metropolitan Region	1
+Autos pink	1
+cars Vintage	1
+system operators	1
+states like Maharashtra	1
+Transport Corporation  MSRTC	1
+city as part	1
+Rahul  Vice President	1
+theft case	1
+case on the run	1
+auto drivers   rickshaw	1
+occurred  Accidents	1
+visiting tourists	1
+launched  Operation	1
+Met office	1
+accidents on roads  two killed	1
+Office Regional	1
+schools run	1
+AC Milan	1
+Mumbai City	1
+road transport minister	1
+MotoCorp Hero	1
+chief engineer	1
+horse racing	1
+Road Transport and Safety	1
+vehicle used for commercial	1
+cheating people	1
+dealers of used cars	1
+involved in  cases	1
+licences cancelled	1
+engineering department	1
+critical condition	1
+accident    In a freak	1
+run schools	1
+Road  Now  the bad	1
+bill on road safety and transport	1
+entry ban	1
+track  test	1
+Limited private	1
+Vice President  Congress	1
+cases  number	1
+Tuesday launched	1
+roadways  Haryana	1
+Scheme   Taxi	1
+norms Emission	1
+India launch	1
+separate cases	1
+people rushed	1
+Delhi Traffic	1
+head on collided	1
+Gandhi Priyanka	1
+Ke Haisha	1
+India  says Hyundai Motor	1
+stretch of road	1
+accident  a Motor	1
+Rahul Gandhi  Sonia Gandhi	1
+Mumbai Pune	1
+technology companies	1
+transport commissioner State	1
+run into trouble	1
+kills woman	1
+united states President	1
+drive started	1
+Gandhi s assassination	1
+drivers  vans	1
+Lane dedicated Bus	1
+injured in accidents on roads	1
+state department of transport	1
+Honda Chowk	1
+sharing seats	1
+passengers   a woman	1
+Madurai district	1
+company eClerx Services	1
+RTO officers Regional Transport	1
+road accidents in separate	1
+transporters road safety	1
+injured in two separate	1
+vehicular traffic	1

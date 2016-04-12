@@ -1,0 +1,478 @@
+real estate	651
+Real Madrid	529
+forest department	466
+Novak Djokovic	375
+stray dogs	335
+Tiger Reserve	327
+Rafael Nadal	260
+Tiger Woods	257
+forest officials	238
+La Liga	213
+Wildlife Sanctuary	208
+National Park	184
+Mann ki Baat	165
+Stan Wawrinka	161
+ghar wapsi	155
+Rory McIlroy	153
+forest area	126
+Ayushmann Khurrana	126
+Atletico Madrid	124
+Western Ghats	119
+forest land	115
+big cats	114
+Preity Zinta	112
+pet dog	104
+migratory birds	102
+wild animals	82
+Federal Reserve	80
+Roger Federer	79
+Roger Federer Novak Djokovic	78
+Carrie Underwood	76
+Tiger Shroff	76
+Sandeep Wagle	76
+Bird Sanctuary	75
+forest dept	75
+Zoological Park	73
+Chidiya Ghar	72
+National Tiger Conservation Authority	71
+wild boar	70
+forest officer	69
+Wildlife Institute of India	67
+state forest department	67
+wild elephants	67
+Real Estate Developers	64
+Roger Federer Rafael Nadal Novak Djokovic	64
+Asiatic lions	62
+animal activists	61
+forest division	57
+buffer zone	57
+forest range	56
+Rafael Nadal Novak Djokovic	54
+conservator of forests	54
+reserve forest	54
+Pearle Maaney	54
+Bombay Natural History Society	54
+animal husbandry	53
+animal lovers	52
+real estate sector	52
+sloth bear	51
+Okram Ibobi Singh	50
+Animal Welfare	50
+forest guard	49
+forest department officials	48
+divisional forest officer	47
+Mallika Sherawat	46
+Gir sanctuary	46
+Real Madrid La Liga	46
+Kaziranga National Park	45
+Rafael Benitez	44
+Roger Federer Rafael Nadal	43
+natural conservation	43
+dog bite	43
+Sardar Vallabhbhai Patel International Airport	43
+Chief Wildlife Warden	42
+sq km	42
+Okhla Bird Sanctuary	42
+Animal Welfare Board of India	41
+National Board for Wildlife	41
+range forest officer	41
+Central Zoo Authority	41
+leopard attack	40
+Zoo Authority	39
+endangered species	39
+Lucknow zoo	39
+leopard cub	37
+Seminary Hills	37
+Wildlife Conservation	37
+Elijah Wood	37
+Tiger Conservation	37
+stray animals	37
+forest cover	36
+bird species	36
+Ivo Karlovic	35
+pet owners	35
+Pench Tiger Reserve	35
+Animal Birth Control	35
+Bengal tiger	34
+stray dog menace	34
+Tiger Woods Rory McIlroy	34
+species of birds	34
+Elon Musk	33
+stray cattle	33
+wildlife board	33
+tiger cubs	33
+Biodiversity Board	32
+dog menace	32
+forest minister	32
+bird count	31
+Massimiliano Allegri	31
+Vansh Nimay	31
+camera traps	31
+Society for Prevention of Cruelty to Animals	30
+Zac Efron	30
+Wagle Estate	29
+Satkosia Tiger Reserve	29
+protected areas	28
+Forest Development Corporation	28
+animal rights	28
+International Union for Conservation of Nature	28
+Confederation of Real Estate Developers  Association of India  Credai	28
+real estate agent	28
+tiger population	27
+Tiger Reserve  STR	27
+Bird watchers	27
+Biological Park	27
+monkey menace	27
+tiger poachers	27
+real estate bill	26
+ghar wapsi  programme	26
+sniffer dogs	26
+honorary wildlife warden	26
+Wildlife Crime	25
+rare birds	25
+Seshachalam forests	25
+Veterinary officer	24
+animal husbandry department	24
+Narendra Modi Mann ki Baat	24
+Forest Development Corporation of Maharashtra  FDCM	23
+plant species	22
+La Liga Barcelona	22
+chief conservator of forests	22
+Biodiversity Park	22
+dog sterilization	20
+tiger census	19
+adopted village	19
+Zoological Survey of India	19
+wildlife warden	19
+Maharashtra Animal	19
+estate officer	18
+animal rescue	17
+Augusta National	17
+Prevention of Cruelty to Animals	17
+leopard trapped	17
+forest and wildlife	17
+Amreli district	16
+birds and animals	16
+Wagle  Sandeep	16
+Novak Djokovic  Roger Federer	16
+Ranthambore tiger	15
+Tiger kills	15
+Wildlife Protection	15
+ki Baat	14
+North Bengal	14
+forest conservation	14
+Animal Welfare Board	14
+department officials	14
+Okram Ibobi Singh government	13
+core area	13
+sterilization of dogs	13
+Protection Force	13
+animals and birds	13
+Stan Wawrinka Roger Federer	13
+environment and forests	13
+Leopard Rescue	12
+poultry farms	12
+Field director	12
+tiger poaching	12
+rescue operations	12
+animal cruelty	12
+Authority of India	12
+tourist spots	11
+forest and environment	11
+sensitive areas	11
+department of forest	11
+Chandrapur district	11
+Lions GIR	11
+rescue Leopard	11
+killed in tiger	11
+menace of stray dogs	11
+Gir lions	10
+forest range officer	10
+land forest	10
+Cruelty to Animals	10
+National Tiger	10
+sea turtles	9
+trap laid	9
+Central Zoo	9
+officials of the forest department	9
+Modi Mann ki Baat	9
+rights activists	9
+estate agent	9
+tiger as the national	9
+Welfare Society	9
+trapped a leopard	9
+wide range	8
+Conservation of Nature	8
+bear the brunt	8
+area to Forest	8
+Reserve  Tiger	8
+department of animal husbandry	8
+forest reserves	8
+state forest	8
+Madrid  Real	8
+green zone	7
+fisheries department	7
+nearby villages	7
+conduct a survey	7
+survey conducted	7
+gave birth	7
+birth control	7
+green activists	7
+range forest	7
+rescue team	7
+flying kites	6
+Society for Prevention of Cruelty	6
+protect wildlife	6
+attacked by a leopard	6
+rescued by animal	6
+fall prey	6
+concrete jungle	6
+Madrid  Atletico	6
+guard Forest	6
+Global Tiger	6
+Natural History	6
+officials of the forest	6
+Bill real estate	5
+population of tigers	5
+tigers from Ranthambore	5
+attract tourists	5
+Real Estate  Regulation	5
+Poaching  Tiger	5
+laid a trap	5
+conservation  Tiger	5
+Nadal Novak Djokovic	5
+breeding ground	5
+Nadal Rafael	5
+forests in the state	5
+species of plants	5
+bone of contention	5
+local authorities	5
+tribal village	5
+Welfare Association	5
+Confederation of Real Estate Developers	4
+Confederation of Real Estate Developers Association	4
+farm land	4
+Mann ki Baat   Narendra Modi	4
+outskirts of village	4
+village on the outskirts	4
+lush green	4
+government Okram Ibobi Singh	4
+Veterinary College	4
+Development Corporation of Maharashtra  FDCM	4
+tree census	4
+parking areas	4
+Society of India	4
+sanctuary  wildlife	4
+found a leopard	4
+human beings	4
+officer in the forest	4
+nearby areas	4
+developed for real estate	4
+surrounding areas	4
+Natural History Society	4
+Conservation via wildlife	4
+Barcelona rd La Liga	4
+tourists visiting	4
+plant trees	4
+dog into a pet	4
+carrying out a survey	4
+study has found	3
+Okram Ibobi	3
+Federer Rafael Nadal	3
+mann ki Baat Modi	3
+regulator  real estate	3
+survey carried	3
+Western India	3
+Association of India	3
+tree falls	3
+Rafael Nadal  Roger Federer	3
+village adopted	3
+Real Estate Developers  Association of India	3
+acres of land	3
+protect the environment	3
+Sardar Vallabhbhai	3
+Hills district	3
+green cover	3
+birds Migratory	3
+paddy field	3
+environment protection	3
+spread over  acres	3
+National Wildlife Board	3
+Kaziranga National	3
+Gadchiroli district	3
+western region	3
+Survey of India	3
+environmental activists	3
+save environment	3
+owners who pet	3
+tigers of Sariska	3
+Kolhapur district	3
+caught on camera	3
+land owners	3
+Madrid Open	3
+Wimbledon Roger Federer	3
+adjoining areas	3
+dogs  stray	3
+kite flying	3
+National Institute	3
+corridor  Greens	2
+counting birds	2
+bear fruit	2
+Credai    The Confederation of Real Estate Developers Association of India	2
+Satkosia Tiger	2
+tribal areas	2
+district of Chhattisgarh	2
+tourist attraction	2
+Tiger Global	2
+hectares of land	2
+India  The Animal Welfare Board	2
+programme  ghar wapsi	2
+recently spotted	2
+Federation of India	2
+chief conservator	2
+team rescues	2
+wildlife warden chief	2
+native village	2
+board  An animal welfare	2
+Central Zone	2
+Confederation of Real Estate Developers  Association of India	2
+study conducted	2
+Board for Wildlife	2
+North Carolina	2
+Malabar Hill	2
+attack kills	2
+Area Development	2
+official Department	2
+border areas	2
+rights groups	2
+laid to rest	2
+East Division	2
+common sight	2
+leopard was found	2
+Tiger Conservation Authority	2
+Sardar Vallabhbhai Patel International	2
+land sharks	2
+Regulation and Development	2
+Forest Development Corporation of Maharashtra	2
+Roger Federer  Wawrinka	2
+spread its wings	2
+animals in the wild	2
+Woods  Tiger	2
+females than in males	2
+Development Corporation	2
+Madrid La Liga	2
+crimes against wildlife	2
+La Liga  Madrid	2
+McIlroy is  up against it   Rory	2
+Pench Tiger	2
+farm  the poultry	1
+Djokovic  Novak	1
+central and north	1
+Wawrinka Stan	1
+Cantonment Board	1
+Royals  Rajasthan	1
+area adjoining	1
+Khurrana  Ayushmann	1
+Development Corporation   The Forest	1
+trap camera	1
+village in the district	1
+Conservation Authority	1
+Welfare Board	1
+district s Kulba village	1
+Owners Association	1
+sanctuary Gir	1
+Nimay  Vansh	1
+km stretch	1
+Maharashtra State	1
+welfare of animals	1
+Department  Forest officials	1
+Union for Conservation of Nature	1
+village nearby	1
+open defecation	1
+Tiger Reserve  Satkosia	1
+Vallabhbhai Patel International Airport	1
+Mann ki	1
+regional officer	1
+team of National	1
+fall sick	1
+area from the inner parking	1
+areas  Tribals	1
+divisional officer	1
+Board of Control	1
+forest officer divisional	1
+north Gujarat	1
+western disturbance	1
+Tourism dept	1
+Zoological Survey	1
+State Biodiversity Board	1
+Development Authority	1
+Development Board	1
+found abandoned	1
+lions Asiatic	1
+Allegri  Massimiliano	1
+Roger Federer  Stan Wawrinka	1
+College of Veterinary	1
+tiger and Bengal	1
+department state	1
+Scientists have developed	1
+green corridor	1
+International Airport	1
+Karnataka State	1
+Jitendra Singh	1
+reserve  tigers Pench	1
+stretch of km	1
+Vallabhbhai Patel	1
+encounter killings	1
+North Eastern	1
+taluka of the district	1
+activists  Animal	1
+state home	1
+birds  both rare	1
+Ibobi Singh	1
+minister Forest	1
+Forest Development	1
+state of Gujarat	1
+recent study	1
+species that are not endangered	1
+Office Regional	1
+National Park Kaziranga	1
+humans  according to the State	1
+government Kerala	1
+National Board	1
+lovers  Animals	1
+Wawrinka Roger Federer	1
+animal of Maharashtra	1
+La Liga  Real Madrid	1
+operation to rescue	1
+death trap	1
+survey has revealed	1
+land in which farming	1
+Board of India	1
+Federer  Roger	1
+Sariska Tiger	1
+killed   injured	1
+cameras caught	1
+develop forest	1
+census Tiger	1
+husbandry  Animal	1
+state government	1
+Lucknow Development	1
+watchers  Bird	1
+India and Miss	1
+chief minister	1
+found evidence	1
+Cub  A leopard	1
+National Augusta	1
+Institute National	1
+menace    Monkeys	1
+trees planted	1
+Roger Federer Novak	1
+Gujarat State	1
+villages in different talukas	1
+India  Credai	1
+Animal Preservation	1
+environment and forest minister	1
+district on Sunday	1
+home department	1
+expert team	1
+association of real estate developers	1

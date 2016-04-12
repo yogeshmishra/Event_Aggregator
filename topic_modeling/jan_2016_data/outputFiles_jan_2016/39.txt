@@ -1,0 +1,378 @@
+Saudi Arabia	407
+Donald Trump	285
+European Union	272
+Hillary Clinton	252
+Miley Cyrus	231
+United Kingdom	215
+false     UnhideWhenUsed	190
+John Abraham	189
+Jose Mourinho	187
+John Kerry	171
+David Cameron	136
+Prem Ratan Dhan Payo	129
+United States	127
+lock horns	115
+United Arab Emirates	109
+Angelina Jolie	107
+LsdException Locked  false	104
+Arnold Schwarzenegger	99
+Gwen Stefani	98
+Brad Pitt	96
+George Clooney	93
+Middle East	89
+San Francisco	85
+Arsene Wenger Arsenal	82
+Tomas Berdych	80
+Raksha Bandhan	78
+Arsene Wenger	77
+Mukhtar Abbas Naqvi	70
+Crystal Palace	68
+Anup Chetia	66
+Secretary of State John Kerry	64
+Eva Mendes	64
+Alexis Sanchez	63
+Wiz Khalifa	63
+Elton John	62
+Syrian refugees	61
+List Accent        w LsdException Locked  false	60
+united nations	60
+Angela Merkel	60
+Alexis Tsipras	59
+European Commission	56
+foreign minister	55
+Prime Minister David Cameron	54
+Kaley Cuoco	54
+Dr Babasaheb Ambedkar Marathwada University  Bamu	53
+Brad Haddin	53
+Bill Clinton	52
+Jeb Bush	52
+Dilip Parulekar	51
+San Diego	50
+QFormat  true	50
+Bhimrao Ambedkar	50
+San Bernardino	49
+Big Bang Theory	48
+Jose Mourinho Chelsea	48
+Shading Accent        w LsdException Locked  false	48
+refugee crisis	48
+John Isner	46
+Theo Walcott	45
+Republican presidential	45
+BR Ambedkar	45
+migrant crisis	44
+Tony Abbott	44
+Amal Clooney	44
+Neil Nitin Mukesh	43
+St John	42
+San Antonio Spurs	42
+UnhideWhenUsed  false	42
+John Terry	42
+Dilip Vengsarkar	41
+Kingdom of Dreams	41
+Brad Pitt Angelina Jolie	41
+Saudi Arabian	41
+George Bailey	41
+Dr Ambedkar	40
+Neil Patrick Harris	40
+SemiHidden  false	38
+Eden Hazard	38
+Laurent Blanc	37
+Eva Longoria	37
+Medium Grid  Accent        w LsdException Locked  false	36
+Yuri Milner	36
+Jihadi John	36
+Dr Babasaheb Ambedkar	35
+Lal Jose	35
+Nandish Sandhu	35
+Sonam Kapoor Salman Khan Prem Ratan Dhan Payo	35
+Marissa Mayer	35
+Dino Morea	35
+John Mayer	34
+Ali Khamenei	34
+King Salman	34
+Salman Khan Prem Ratan Dhan Payo	33
+FKA Twigs	33
+Keith Vaz	33
+presidential candidate	33
+Diego Costa	33
+foreign tourists	33
+Euro zone	32
+Markandey Katju	32
+Patrick Schwarzenegger	31
+Chalk N Duster	31
+European Parliament	31
+British Council	31
+Secretary of State	31
+Singer Miley Cyrus	30
+Babasaheb Ambedkar	30
+German Chancellor Angela Merkel	29
+Clinton Foundation	29
+Cyrus Mistry	29
+Chelsea manager Jose Mourinho	29
+Republican presidential candidate	29
+Prince Ali bin Al Hussein	28
+Mathieu Valbuena	28
+western Europe	28
+Laurent Fabius	27
+Saudi prince	27
+Justin Trudeau	27
+San Jose	27
+Gianni Infantino	27
+Dilip Shanghvi	26
+Stephen Harper	26
+Premier League Jose Mourinho	26
+coral reefs	26
+Dr BR Ambedkar	26
+Scotland Yard	26
+Malcolm Turnbull	26
+Saudi diplomat	26
+Dr Dre	25
+Burger King	25
+migrant labourers	25
+Great Barrier Reef	24
+Grid  Accent        w LsdException Locked  false	24
+Saudi embassy	24
+Ted Cruz	24
+Labour Party	24
+top priority	24
+Greece s bailout	24
+Germany France	23
+Foreign Language	23
+Prince William	23
+presidential campaign	23
+Salman bin	22
+Latin America	22
+Saudi king	21
+Diego Costa Chelsea	21
+Democratic presidential	21
+San Antonio	20
+million pounds	20
+Prince Ali	19
+Madonna Sebastian	18
+Arsenal manager	18
+presidential election	17
+Eden Hazard Chelsea	17
+debt crisis	17
+foreign trips	16
+Chancellor Angela Merkel	16
+Prince Ali bin	16
+presidential race	16
+visas to Indian	16
+Greece crisis	16
+financial crisis	15
+foreign tours	14
+top diplomat	14
+crisis Greece	14
+foreign countries	14
+Diego Maradona	13
+Abbas Naqvi	13
+million euros	13
+foreign policy	12
+France  Germany	12
+John Kerry  US secretary of state	12
+foreign secretary	12
+migrant workers	11
+manager Jose Mourinho	11
+Great Britain	11
+Indian citizenship	11
+Prime Minister	11
+Indian embassy	11
+Dr Babasaheb Ambedkar Marathwada University	10
+royal family	10
+Mohammed Ali	10
+visit to the UK	10
+Chelsea  Jose Mourinho	10
+false promises	9
+Ali bin Al Hussein	9
+UK visit	9
+president of the United States	9
+Clinton  Hillary	9
+British Prime Minister	9
+European Tour	9
+tops the list	8
+Trump  Donald	8
+manager Arsene Wenger	8
+Prem Ratan Dhan Payo  Salman Khan	8
+Great Indian	7
+Babasaheb Ambedkar Marathwada University	7
+Indian origin	7
+Chelsea  Mourinho	7
+travel agent	7
+sanctions on Iran	7
+Khan Prem Ratan Dhan Payo	7
+East Coast	7
+Prem Ratan Dhan	6
+Medium Grid	6
+Diplomatic Relations	6
+German Chancellor	6
+Miley Cyrus  Singer	6
+bailout of Greece	5
+Ali bin	5
+Republican Party	5
+Iran deal	5
+Clinton emails	5
+Chelsea manager	5
+foreign nationals	5
+Angelina Jolie and Brad Pitt	5
+North America	5
+st century	4
+Sanchez  Alexis	4
+Chelsea  Eden Hazard	4
+Medium List	4
+Al Qaeda	4
+Medium Shading	4
+Union European	4
+Asian countries	4
+management council	4
+North American	4
+political crisis	4
+emails Clinton	4
+Clinton Bill	4
+Kerry  John	4
+BAMU Babasaheb Ambedkar Marathwada University	4
+Al Hussein	4
+Actress Eva	4
+Indian diaspora	4
+union leader	4
+Oxford University	4
+Dr Babasaheb	3
+Bush  With Jeb	3
+Wenger Arsenal	3
+Cyrus  Miley	3
+African nation	3
+Indian American	3
+pledges support	3
+Chelsea s Diego Costa	3
+St Andrew	3
+Salman Khan Prem Ratan Dhan	3
+Angela Merkel  Chancellor	3
+Bin Ali	3
+Dr BR	2
+party s national	2
+African countries	2
+Mourinho  Jose	2
+Chelsea s Costa	2
+Spurs San Antonio	2
+country s foreign	2
+speak English	2
+University of California	2
+North Indian	2
+Jose Mourinho and the Premier League	2
+leader is a Muslim	2
+Indians will get visas	2
+Imran Khan	2
+St Cruz	2
+Chelsea manager Jose	2
+Arsenal  Arsene Wenger	2
+Terry John	2
+Foreign Exchange	2
+Dr Babasaheb Ambedkar Marathwada	2
+Sebastian next Madonna	2
+West Africa	2
+false  DefPriority      LatentStyleCount        w LsdException Locked	2
+list of top	2
+facing a crisis	2
+Arsenal manager Wenger	2
+tourists  With few foreigners	2
+manager Jose	2
+William Prince	2
+Prem Ratan Dhan Payo   Sonam Kapoor Salman Khan	2
+state unit	2
+English language	2
+Prem Ratan Dhan Payo  Salman Khan and Sonam Kapoor	2
+King George	2
+France de	2
+Ali  Prince	2
+financial support	2
+Reef  s coral	2
+Mayer  Marissa	1
+state and urged	1
+Parliament  The European	1
+Salman King	1
+Trudeau Justin	1
+dream big	1
+president elect	1
+signed a deal	1
+United Arab	1
+tours to foreign	1
+political leaders	1
+de France	1
+Hussein Al	1
+island nation	1
+groping in the dark	1
+table tops	1
+Indian consulate	1
+embassy in Saudi	1
+BR Ambedkar  The Dr	1
+nations United	1
+union workers	1
+executive council	1
+University  Bamu	1
+crisis  Refugees	1
+united states United	1
+Mukesh  Neil Nitin	1
+Dhan Payo	1
+Union minister	1
+Chelsea Mourinho   Jose	1
+St Thomas	1
+Salman Khan	1
+Jolie  Angelina	1
+National Liberation	1
+party supporters	1
+David Cameron  Prime Minister	1
+big fan	1
+Marathwada University  Bamu	1
+Michael Bloomberg	1
+elected president	1
+Sonam Kapoor	1
+Premier League	1
+Singer Miley	1
+president of the state	1
+foreign visits	1
+Brad Pitt Angelina	1
+country s top	1
+Dre Dr	1
+national secretary	1
+Cruz Ted	1
+Prem Salman Khan	1
+urged the Union	1
+German Chancellor Angela	1
+Britain Great	1
+British Prime	1
+PM s visit	1
+zone  West	1
+West Coast	1
+Francisco Xavier	1
+Democratic Party	1
+Neil Nitin	1
+English speaking	1
+Walcott  Theo	1
+Ambedkar BR	1
+Western Australia	1
+minister of foreign	1
+Costa Chelsea	1
+National Democratic	1
+Francisco San	1
+Joseph Vaz	1
+tour of Australia	1
+national executive	1
+Mourinho Chelsea	1
+state minister	1
+Ali Khan	1
+billion euros	1
+Iran sanctions	1
+Dreams Kingdom	1
+state secretary	1
+Big Bang	1
+Mukhtar Abbas	1
+euros     billion	1
+world leaders	1
+League Jose Mourinho	1
+Arabian Sea	1
+European markets	1
+Berdych  Tomas	1
+King  Burger	1
+Angelina Jolie Pitt	1
+Jose Mourinho is the best manager for Chelsea	1
+David Cameron will let ministers	1
+Prime minister  British	1

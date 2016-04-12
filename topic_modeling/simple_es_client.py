@@ -2,7 +2,7 @@ import json
 import sys, os
 from elasticsearch import Elasticsearch
 
-es = Elasticsearch(hosts=[{'host':'db03.cs.utah.edu'},{'host':'db04.cs.utah.edu'}])
+es = Elasticsearch(hosts=[{'host':'db03.cs.utah.edu'}])
 basefolder = 'rawFiles/'
 def create_lda_input_files(size=5000, filename="articles.txt", month =12 , year = 2015):
     print "Parameters are: " +  "Size: " + str(size) + " filename = " + filename + " month : " + str(month) + " year : " + str(year)
@@ -13,7 +13,7 @@ def create_lda_input_files(size=5000, filename="articles.txt", month =12 , year 
     os.remove(basefolder +'articles2.txt')
     os.remove(basefolder + 'id.txt')
     while total > from_value:
-        result_set = es.search(index="news",body={
+        result_set = es.search(index="jan_news",body={
         "query": {
            "bool": {
                 "must": [
@@ -40,10 +40,11 @@ def create_lda_input_files(size=5000, filename="articles.txt", month =12 , year 
                         if i%500  == 0 :
                             print i
                         c =  hit['_source']
-                        appended_words = c['title'] + ". " +  c['keywords'] + ". "+ c['focus']
+                        #print hit['_id'],c
+                        appended_words = c['title'] + ". " +  c.get('keywords'," ") + ". "+ c['focus']
                         if len(appended_words.split(" ")) > 4:
-                            f1.write((c['article'] + c['keywords'] +c['focus']).encode('utf-8').replace('\n',' '))
-                            f.write((c['title'] + ". " +  c['keywords'] + ". "+ c['focus']).encode('utf-8').replace('\n',' '))
+                            f1.write((c['article'] + c.get('keywords',"") +c['focus']).encode('utf-8').replace('\n',' '))
+                            f.write((c['title'] + ". " +  c.get('keywords',"") + ". "+ c['focus']).encode('utf-8').replace('\n',' '))
                             f2.write(hit['_id'].encode('utf-8'))
                             f.write("\n")
                             f1.write("\n")

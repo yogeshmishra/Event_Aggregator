@@ -1,0 +1,471 @@
+stock markets	311
+oil prices	304
+interest rates	161
+Sensex Nifty	158
+crude oil	156
+stock exchanges	154
+year low	109
+foreign exchange	108
+crude oil prices	107
+equity markets	101
+Pope Francis	96
+global cues	89
+Reliance Industries	86
+commodity prices	83
+market share	81
+futures trade	80
+Oil market	78
+month low	78
+BSE Sensex	77
+global markets	72
+oil and gas	69
+crude prices	69
+financial markets	66
+Gold prices	65
+natural gas	64
+Rupee vs dollar	63
+Indian market	63
+global economy	62
+BSE  NSE	60
+emerging markets	60
+Dow Jones	58
+Indian Oil	57
+Asian markets	55
+China stocks	54
+spot market	51
+macro economics	49
+retail inflation	49
+Hindustan UniLever	47
+Celine Dion	47
+trade deficit	44
+week low	44
+early trade	43
+Sensex Rupee	43
+market and exchange	43
+Asian shares	41
+Larsen   Toubro	41
+Share market	41
+lowest level	41
+China shares	40
+Mario Draghi	39
+paise against dollar in early trade	39
+exchange  stock	39
+dollar Rupee	39
+bullion market	39
+European shares	39
+stocks in focus	38
+gold imports	37
+China stock market	37
+market conditions	36
+circuit breaker	36
+fuel prices	35
+interest rates Inflation	35
+China market	35
+Gold prices Gold	34
+Shanghai Composite	33
+oil imports	33
+foreign currency	33
+Rupee falls	33
+hit record	33
+fell   per cent	31
+Petrol price	31
+Commodity Exchange	31
+gold and silver	31
+equities economy	30
+forex market	30
+currency values	30
+Day Trading	30
+week high	30
+rate hike	30
+Indian Oil Corporation	29
+Indian economy	29
+raw material	29
+natural rubber	29
+Retail investors	29
+castor seed	28
+price index	28
+bear market	28
+industrial production	27
+Brent crude	26
+rate cut	26
+market capitalisation	26
+oil companies	26
+market stocks	25
+cooking gas	25
+growth rate	25
+Indian rupee	25
+paise a litre	25
+factory output	25
+data showed	25
+reference rate	25
+low cost	24
+Euro zone	24
+Chinese markets	24
+stocks Sensex	24
+LPG cylinder	24
+bounce back	24
+Chinese stocks	23
+currency notes	23
+Interbank Foreign Exchange	23
+GDP growth	23
+morning trade	23
+banking stocks	23
+capital markets	23
+falling oil prices	23
+prices Oil	22
+market valuation	22
+petrol and diesel	22
+Essar Oil	22
+record low	21
+factory activity	21
+Brent crude oil prices	21
+Asian stocks	21
+national capital	21
+China slowdown	20
+foreign investors	20
+global growth	20
+foreign exchange market	20
+benchmark BSE Sensex	20
+billion dollar	20
+domestic market	19
+rating agency	19
+cent cent	19
+oil futures	19
+Yuan devaluation	19
+currency devaluation	19
+price hike	19
+edible oil	19
+low oil prices	19
+oil price fall	18
+paise against dollar	18
+manufacturing sector	18
+rose   per cent	18
+financial year	18
+Rupee Rupee vs dollar	18
+sensex BSE	18
+Asian Paints	18
+Steel prices	17
+gas prices	17
+import duty	17
+oil refinery	17
+BUY  or  SELL	17
+RIL Reliance Industries	16
+Chinese economy	16
+global oil prices	16
+billion yuan	16
+institutional investors	15
+cut their price	15
+list of top	15
+Oil Slide	15
+Rs   per kg	15
+prices fall	15
+price of Rs	14
+Gold Gold prices	14
+record high	14
+million tonnes	14
+Gold Gold	14
+trading day	14
+economic growth	14
+billion euros	14
+global economic	13
+lower prices	13
+market China	13
+NSE BSE	13
+oil falls	13
+China worries	13
+oil prices Oil	13
+prices lower	12
+Reliance Industries RIL	12
+Opec oil	12
+declined by  per cent	12
+cent to Rs	12
+worries over China	12
+Gold jewellery	12
+devaluation of the yuan	12
+stocks China	12
+dropped   per cent	11
+markets globally	11
+Oil prices Oil market	11
+Financial Services	11
+market is expected	11
+Brent crude oil	10
+gdp economy	10
+price cut	10
+global investors	10
+China s economy	10
+high level	10
+rise   per cent	10
+market volatility	10
+fiscal deficit	9
+world s biggest	9
+markets equities	9
+market economy	9
+cut rates	9
+cent growth	9
+economy China	9
+cent drop	9
+USD  billion	9
+Crude oil Oil	9
+fall in prices	8
+global oil	8
+close watch	8
+devalued its currency	8
+volatile market	8
+global trade	8
+steel industry	8
+Indian companies	7
+GOLD STANDARD	7
+falling rupee	7
+Composite Index	7
+December quarter	7
+prices Crude oil	7
+dollar  down  paise	7
+Oil market Oil prices	7
+increased by   per cent	7
+previous year	7
+market Oil	7
+emerging economies	7
+STANDARD GOLD	7
+Hindustan Petroleum	6
+Indian firms	6
+equity shares	6
+cent decline	6
+exchange market	6
+Silver Gold	6
+year earlier	6
+inflation Retail	6
+global slowdown	6
+fourth quarter	6
+million euros	6
+Ornamental Gold	6
+Nifty Sensex	6
+Consumer Products	6
+inflation rate	6
+weak global	5
+end of the year	5
+markets into a bear	5
+shares China	5
+services sector	5
+time in  years	5
+dollar in early trade	5
+billion years	5
+start to the year	5
+low oil	5
+market forex	5
+falling oil	5
+oil Crude	5
+China GDP	5
+Bank of China	5
+growth slows	5
+prices commodity	5
+import oil	5
+slowdown in China	5
+Thursday morning	5
+funds to keep off equities	4
+Wednesday morning	4
+diesel prices	4
+ended December	4
+Monday morning	4
+economic slowdown	4
+slowing growth	4
+Friday morning	4
+Indian Overseas	4
+financial crisis	4
+oil prices Crude	4
+domestic equity	4
+Times Global	4
+Growth economy	4
+November last year	4
+Energy Agency	4
+prices Crude	4
+stock market China	4
+oil prices Crude oil	4
+price Petrol	4
+Tuesday morning	4
+global financial	4
+invest    billion	3
+economy global	3
+crude oil Oil prices	3
+cent increase	3
+Expect market	3
+earlier this week	3
+BSE benchmark Sensex	3
+markets Asian	3
+exchange foreign	3
+rose by Rs	3
+Oil Oil prices	3
+gold bond	3
+Sensex Stock	3
+Rs cent	3
+foreign investment	3
+Fund manager	3
+invest equities	3
+stocks China market	3
+cent rise	3
+growth forecast	3
+early morning	3
+world economy	3
+market Foreign exchange	3
+Commerce and Industry	3
+growth cent	3
+trade global	3
+prices Fuel	3
+growth GDP	3
+Bank shares	3
+rates reference	3
+year end	3
+Rupee  Sensex	3
+increasing number	3
+earlier this month	3
+Reliance Capital	2
+stocks Chinese	2
+Rupee against dollar rupee	2
+large number	2
+data services	2
+pricing for data	2
+Growth sustainable	2
+investors foreign	2
+Food Security	2
+half years	2
+gas natural	2
+lows this year	2
+day of the year	2
+consecutive day	2
+past year	2
+imports gold	2
+share sale	2
+bonds gold	2
+hike rates	2
+current fiscal	2
+economy gdp	2
+market capital	2
+jewellery Gold	2
+equities  Domestic	2
+Investment Bank	2
+hike prices	2
+Oil Brent Crude	2
+market bullion	2
+China growth	2
+market  The domestic	2
+Oil Crude oil price	2
+cent after the report	2
+Oil Essar	2
+business and finance	2
+year in November	2
+Bank of Japan	2
+focus on stocks	2
+China s economic	2
+month earlier	2
+year and a half	2
+USD  million	2
+prices of gas	2
+steel imports	2
+past week	2
+slide in oil	2
+diesel and petrol	2
+December last year	2
+month end	2
+Crude Brent	2
+Brent crude prices  Oil	2
+euros     billion	2
+oil Crude oil	2
+BSE benchmark	2
+growth China	2
+prices Gold	2
+economy  markets	2
+rupee Indian	2
+year in December	2
+quarter earnings	1
+Global Times	1
+Oil prices Brent crude	1
+top spot	1
+cost of Rs	1
+domestic steel	1
+energy sector	1
+rates interest	1
+crude oil price Brent	1
+World Bank	1
+exchange commodities	1
+economy Chinese	1
+week earlier	1
+levels as high	1
+Oil OPEC	1
+billion as against USD	1
+United Nations	1
+oil global	1
+price  diesel	1
+stocks Asian	1
+Sell and Hold	1
+crude prices  US oil	1
+benchmark Sensex BSE	1
+yuan     billion	1
+rates Inflation	1
+sales in December	1
+products Consumer	1
+cylinder LPG	1
+Corporation  Indian Oil	1
+Global Business	1
+compared to last year	1
+Deutsche Bank	1
+market China stock	1
+duties on import	1
+oil US Crude Brent	1
+tops the list	1
+market Oil prices	1
+valuations after market	1
+gold ornaments	1
+economy economy	1
+index at a preset price	1
+end of this month	1
+market Indian	1
+Price Of Oil Low	1
+year as compared	1
+prices Oil market	1
+rate of growth	1
+December end	1
+gdp fiscal deficit	1
+Francis  Pope	1
+security concerns	1
+hits back	1
+shares European	1
+trading in castorseed futures	1
+kg gold	1
+Index Composite	1
+market Chinese	1
+falling price of oil	1
+markets financial	1
+price for steel	1
+benchmark BSE	1
+economics  macro	1
+crude oil price Oil	1
+high record	1
+forecasts  but growth	1
+economy equities	1
+oil edible	1
+litre and  paise	1
+years old   billion	1
+Year s Day	1
+steel sector	1
+Dion Celine	1
+manufacturing unit	1
+rubber natural	1
+sugar mills	1
+economic zones	1
+economy to grow	1
+Oil Indian	1
+companies Oil	1
+GDP China	1
+Oil Oil prices Crude	1
+year  according to financial	1
+number increase	1
+output factory	1
+jump of  per cent	1
+early trade    Dollar	1
+cent jump	1
+oil to as low	1
+steel production	1
+past  months	1
+Industries Reliance	1
+year starting	1
+Jones  Dow	1
+Sales Up     Shares	1

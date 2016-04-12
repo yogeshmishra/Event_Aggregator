@@ -1,0 +1,913 @@
+Tamil Nadu	2652
+Medical College	641
+Civil Hospital	398
+private hospital	393
+government hospitals	281
+Medical College and Hospital	255
+Tamil Nadu government	247
+Government Medical College	239
+health department	232
+organ donation	183
+health minister	162
+General Hospital	154
+Institute of Medical Sciences	149
+city hospital	122
+medical officer	114
+resident doctors	114
+Medical Council of India	113
+Government Medical College and Hospital  GMCH	112
+Tamil Nadu chief minister J Jayalalithaa	108
+Indian Medical Association	105
+King George s Medical University	104
+undergoing treatment	103
+district hospital	102
+health services	101
+Film and Television Institute of India  FTII	99
+Mental health	98
+cancer patients	98
+blood banks	96
+trauma centre	92
+Apollo Hospitals	89
+heart transplant	85
+Medical Council of India  MCI	84
+medical negligence	77
+public health	75
+medical devices	74
+Medical University	74
+admitted to hospital	73
+Indian Medical Association  IMA	71
+Flavia Pennetta	71
+Chief Medical Officer	71
+Medical Council	71
+health officials	68
+brain dead	68
+India Institute of Medical Sciences  AIIMS	68
+health care	67
+kidney transplant	67
+organ transplant	65
+JJ Hospital	64
+Hauz Khas Village	64
+cancer hospital	63
+govt hospitals	61
+private medical colleges	61
+Cancer Institute	60
+breast cancer	60
+medical students	60
+Indira Gandhi Government Medical College	60
+KEM Hospital	60
+India Institute of Medical Sciences	60
+hospital in the city	59
+city doctors	59
+patients suffering	58
+civil surgeon	58
+Memorial Hospital	58
+Mayo Hospital	58
+civil society	56
+Indian Council of Medical Research	56
+Government Medical College and Hospital	56
+medical treatment	56
+medical services	55
+Film and Television Institute of India	55
+World Health Organization	55
+dengue patients	54
+liver transplant	54
+team of doctors	53
+district of Tamil Nadu	52
+plastic surgery	52
+state government	52
+health ministry	50
+government doctor	50
+nursing home	50
+intensive care unit	50
+Research Institute	49
+donate organs	49
+Hospital doctors	49
+health officer	49
+students of the Film and Television Institute of India  FTII	49
+sskm hospital	47
+Hauz Khas	47
+SMS hospital	46
+Indira Gandhi	46
+SSG Hospital	45
+primary health centre	45
+Dental College	45
+medical practitioners	44
+JP Nadda	44
+Medical Sciences	43
+MBBS seats	43
+poor patients	43
+Tamil Nadu fishermen	43
+clinical trials	42
+King George Hospital	42
+Trauma Center	42
+Osmania General Hospital	42
+care centre	41
+Super Specialty Hospital	41
+health and family welfare	41
+Tamil Nadu State	41
+Goa Medical College	41
+rushed to hospital	40
+medical institute	40
+sonography machines	39
+Safdarjung Hospital	39
+cosmetic surgery	38
+Cancer Centre	38
+blood transfusion	38
+ambulance service	38
+Balrampur Hospital	38
+heart attack	38
+medical seats	37
+heart surgery	37
+Hospital in Sector	37
+health centre	37
+undergoing surgery	37
+Rajendra Institute of Medical Sciences  Rims	36
+cataract surgery	36
+Fortis hospital	36
+junior doctors	36
+Medical Research	35
+Dr Reddy	35
+medical superintendent	35
+nursing student	35
+emergency medical	35
+medical education	34
+patient died	34
+free treatment	34
+Research Centre	34
+cancer treatment	34
+cancer survivor	34
+Tamil Nadu govt	33
+University of Health Sciences	33
+diagnostic centres	33
+donate their eyes	33
+donate blood	32
+Tamil Nadu and Puducherry	32
+Medical Association	32
+Maharashtra University of Health Science	32
+medical care	32
+pvt hospitals	31
+FTII students	31
+Tamil Nadu chief minister	31
+Tata Memorial Hospital	31
+discharged from hospital	31
+private clinic	31
+critical condition	31
+Kasturba Hospital	30
+Medical Education and Research	30
+Maharashtra Association of Resident Doctors	30
+doctors in the city	30
+mentally ill	30
+ventilator support	30
+medical university king George	29
+Sanjay Gandhi Post Graduate Institute of Medical Sciences	29
+Directorate of Medical Education and Research	29
+operation theatre	29
+Sion Hospital	29
+chest pain	28
+kidney failure	28
+kidney disease	28
+medical fraternity	28
+tuberculosis  TB	28
+kidney stones	28
+AIIMS doctor	27
+cerebral palsy	27
+infant deaths	27
+GSVM Medical College	27
+Government General Hospital	27
+Orange City Hospital	27
+eye donation	27
+medical facilities	27
+health workers	27
+Council of India	27
+bed hospital	26
+Kirori Mal College	26
+department  OPD	26
+CT scan	26
+sadar hospital	26
+hospital staff	26
+Amma canteens	26
+Mahatma Gandhi Memorial Government Hospital  MGMGH	26
+state health department	26
+organ donors	26
+med colleges	26
+Tamil Nadu Congress Committee	26
+cardiac stents	26
+private hospital in the city	26
+surgeon Dr	26
+blood donation camp	25
+patients and their relatives	25
+medical store	25
+honorary doctorate	25
+heart of the city	25
+director of health services	25
+soil health cards	25
+health secretary	24
+orthopaedic surgeon	24
+tamil nadu Jayalalithaa	24
+health authorities	24
+head and neck	24
+Goa medical college  GMC  and hospital	23
+doctors  hospitals	23
+governing council	23
+FTII Film and Television Institute of India	23
+health dept	23
+critically ill	23
+Society of India	23
+kidney patients	23
+health condition	23
+doctors  strike	23
+patients admitted	23
+Cervical cancer	23
+health institute	23
+Rajendra Institute of Medical Sciences	23
+treat patients	22
+RML hospital	22
+World Health Organisation	22
+TB patients	22
+treatment of patients	22
+nursing college	22
+battle with cancer	22
+Tamil Nadu Agricultural University	22
+private doctors	21
+Deepak Sawant	21
+heart patients	21
+College and Hospital	21
+chief medical	20
+admitted to a private hospital	20
+head of the department	20
+medical emergency	20
+Jawaharlal Institute	20
+Dr Prakash	20
+Medical Test	20
+generic drugs	20
+public health department	19
+health sector	19
+National Institute	19
+FTII Society	19
+medical examination	19
+died at a private hospital	19
+Welfare Association	19
+blood samples	18
+Hospital private	18
+community health centres	18
+Gurgaon hospital	18
+blood donation	18
+Mangeshkar hospital	18
+Hospital Government	18
+camp organized	17
+state health	17
+health department officials	17
+Government College	17
+hospital bed	17
+super specialty	17
+hospital premises	17
+Hospital District	17
+Post Graduate Institute	17
+care unit	17
+community health	17
+post graduate	16
+government tamil nadu	16
+chief minister J Jayalalithaa	16
+blood group	16
+College of Medical	16
+Film and Television Institute	16
+states  In Tamil Nadu	16
+associate professor	16
+Preventive Medicine	16
+fell ill	15
+private colleges	15
+Government Dental College	15
+Mahatma Gandhi	15
+emergency services	15
+heart failure	15
+Film and Television Institute of India  FTII  students	15
+Dental and Medical	15
+Civil Lines	15
+heart disease	15
+number of patients	15
+soil health	15
+Indian Association	14
+Goa medical college  GMC	14
+health problems	14
+Jayalalithaa AIADMK	14
+Mahatma Gandhi Memorial Government Hospital	14
+Education and Research	14
+medical and dental	14
+suffered a heart attack	14
+Hospital medical	14
+Kilpauk Medical College	14
+free of cost	14
+trauma care	14
+oral cancer	13
+private players	13
+blood test	13
+Hospital civil	13
+Minister for health and family welfare	13
+Institute of Medical	13
+Mahatma Gandhi Memorial	13
+relatives of patients	13
+private medical	13
+died in a hospital	13
+hospital for treatment	13
+Lohia Hospital	13
+treatment at the hospital	13
+acute shortage	12
+centre of excellence	12
+save lives	12
+department of health	12
+Television Institute of India	12
+civil services	12
+city colleges	12
+transplant patient	12
+private sector	12
+ministry of health and family welfare	11
+prolonged illness	11
+Hospital Government Medical College	11
+staff crunch	11
+medical director	11
+provide free	11
+chief minister	11
+striking doctors	11
+family welfare	11
+Association of Medical	11
+hospitals and medical colleges	11
+staff shortage	10
+Association of India	10
+Institute of Health	10
+tract infection	10
+Veterinary College	10
+treatment for cancer	10
+Post Graduate Institute of Medical Sciences	10
+private nursing	10
+Welfare Society	10
+cancer drug	10
+department of health and family welfare	10
+education minister	10
+college students	9
+general public	9
+MBBS students	9
+dental and medical colleges	9
+premier institute	9
+Sanjay Gandhi	9
+Department of Education	9
+infectious diseases	9
+lung cancer	9
+patients after treatment	9
+Rehabilitation Centre	9
+patients being treated	9
+primary health	9
+admitting them  Patients	9
+Health Sciences	9
+health minister J P Nadda	9
+King George	9
+assistant professor	9
+community service	9
+health and family welfare department	9
+transplant Organ	9
+education department	8
+suffered severe	8
+good health	8
+director general	8
+Post Graduate Institute of Medical	8
+Dayanand Medical College	8
+cancer Cancer	8
+director of the institute	8
+educational institutions	8
+colleges in the city	8
+centres in the city	8
+Council for Indian	8
+cancer cure	8
+University Medical	8
+service providers	8
+health issues	8
+Kirori Mal	8
+United States	8
+Government Medical	8
+health hazards	8
+transplanted the heart	8
+health and family welfare minister	8
+Lata Mangeshkar	7
+doctors in government	7
+Indian Institute	7
+Medical Hospital	7
+fall sick	7
+government and private	7
+Hospital for not admitting	7
+health experts	7
+cancer prevention	7
+medical and dental colleges	7
+State Bank of India	7
+Drugs Controller	7
+prostate cancer	7
+doctor at AIIMS	7
+city on Friday	7
+hospitals died	7
+cardiovascular disease	6
+department head	6
+head injuries	6
+Hospital Fortis	6
+Tata Memorial	6
+people suffering	6
+Dr Ambedkar	6
+pool of blood	6
+dies of heart attack	6
+fishermen  Tamil Nadu	6
+city on Saturday	6
+hospital  Apollo	6
+Cancer breast cancer	6
+patient s heart	6
+chief and Tamil Nadu	6
+medical university king	6
+Khas Village	6
+Coimbatore Medical College	6
+College of Dental	6
+general secretary	6
+TB  Tuberculosis	6
+hospital to discharge	6
+AIDS Control Society	6
+admit students	6
+suffered injuries	6
+Directorate of Medical Education	6
+Hospital KEM	6
+Medical College Government	6
+PG students	6
+Specialty Hospital	6
+Jayalalithaa  Tamil Nadu	5
+students Medical	5
+organize a health	5
+Association  IMA	5
+Family Health	5
+city on Thursday	5
+Kerala government	5
+chief minister of Tamil Nadu	5
+health directorate	5
+staff members	5
+improve health	5
+Tamil Nadu agriculture	5
+prescription drugs	5
+fall ill	5
+heart health	5
+care health	5
+lung disease	5
+Gandhi Medical College	5
+Madurai district	5
+Maharashtra government	5
+patients in need of transplantation	5
+Indira Jain	5
+Indira Gandhi Medical College	5
+condition as critical	5
+team visits	5
+George Hospital	5
+Jayalalithaa  Chief minister	5
+College of Nursing	5
+Puducherry government	5
+doctors  With resident	5
+health services director	5
+Sanjay Gandhi Post Graduate Institute	5
+Indian Society	5
+staff at the hospital	4
+death of an infant	4
+deficiency in service	4
+health and family	4
+spread its wings	4
+district on Saturday	4
+Sciences University	4
+city private hospital	4
+operating procedure	4
+testing laboratory	4
+Council of India  MCI	4
+Medical College  GMC	4
+donation camp	4
+samples tested	4
+cancer awareness	4
+organized a programme	4
+shortage of staff	4
+city on Sunday	4
+Coordination Committee	4
+examining a medical	4
+admitted to the Government	4
+cure cancer	4
+Tamil Nadu districts	4
+ward number	4
+intensive care	4
+organized camps	4
+Science College	4
+stents and cardiac	4
+Indian Medical Council	4
+agriculture minister	4
+treatment free	4
+GMC  and hospital	4
+admitted to a private	4
+Medical College and Hospital  GMCH	4
+department officials	4
+prevent cancer	4
+National Health	4
+Education Society	4
+Sector  hospital	4
+Residents Welfare Associations	4
+Public Service	4
+Research Medications	4
+senior official	4
+public sector	4
+public private	4
+state health minister	4
+medical aspirants	4
+improve the condition	4
+Tamil Nadu chief	4
+Residents  Association	4
+Hospital General	4
+government officials	3
+Research Organization	3
+stores  A medical	3
+College of Science	3
+cancer battle	3
+died of dengue	3
+dengue fever	3
+colleges in the state	3
+chief secretary	3
+lack of coordination	3
+Association of Resident Doctors	3
+Film and Television Institute of India  The students	3
+Indian Institute of Science	3
+southern districts	3
+private university	3
+providing services	3
+leading to the death	3
+conducted an inspection	3
+institute director	3
+postgraduate medical	3
+private hospitals admit	3
+society of education	3
+Orange City	3
+weighing  kg	3
+died of cardiac	3
+member team	3
+disease Cancer	3
+Trichy district	3
+hospital  Sion	3
+educational and medical	3
+govt    The Tamil Nadu	3
+College Government	3
+spread awareness	3
+Goa medical college and hospital  GMC	3
+faculty members	3
+principal secretary	3
+Disease Control	3
+minister and health	3
+poor condition	3
+Hospital Lohia	3
+AIIMS  All India Institute of Medical Sciences	3
+Science Centre	3
+India in association	3
+World Health	3
+drug testing	3
+students admitted	3
+Aurangabad district	3
+team inspects	3
+Medical Sciences  AIIMS	3
+Indian students	3
+Institute of India  FTII	3
+residents of the city	3
+suffered a heart	3
+offer free	3
+minister J P Nadda	3
+King George s Medical	3
+facilities in the medical	3
+students of College	3
+government s failure	3
+detective department	3
+health improving	3
+Institute of Medical Sciences  Rims	3
+health of the state	3
+Association of Indian Medical	3
+hospital in Gurgaon	3
+visit to India	3
+visit to the city	3
+Gandhi Institute	3
+programme organized	3
+ethics committee	2
+science health	2
+Film and Television	2
+student organizations	2
+premises of the hospital	2
+education sector	2
+ministry of health	2
+community college	2
+Centre and the state government	2
+donor organ	2
+Bank of India	2
+drug Cancer	2
+chief minister of Tamil Nadu J Jayalalithaa	2
+Tata Consultancy Services	2
+institutions like the Film and Television	2
+test conducted	2
+World Bank	2
+centre Cancer	2
+Association Indian	2
+Maharashtra State	2
+student of Nursing	2
+transfusions blood	2
+Institute Cancer	2
+Indian Medical	2
+hospital  GMC	2
+centres and health	2
+Directorate of Research and Medical Education	2
+Centre for Science	2
+Jayalalithaa  Tamil Nadu chief minister	2
+India Medical Council	2
+government College of Medical	2
+Kerala University	2
+causing death	2
+seat MBBS	2
+blood cancer	2
+University professor	2
+medical chiefs	2
+PG College	2
+transplanted liver	2
+Institute of Science	2
+director director	2
+drug in the prescription	2
+chief minister O Panneerselvam	2
+live telecast	2
+patient of kidney	2
+students of the Film and Television Institute of India	2
+Indian Council of Medical	2
+Health University	2
+theatre  Operation	2
+government hospitals and medical colleges	2
+Memorial Hospital  All government	2
+members of a family	2
+University of Health	2
+spread of the disease	2
+Camps On Blood Donation	2
+provide facilities	2
+Manipal University	2
+College of Veterinary	2
+condition has improved	2
+mental and physical	2
+India  Authorities	2
+private operators	2
+city recently	2
+Institute of Post Graduate	2
+doctors  by a team	2
+conduct re examination	2
+IMA  Indian Medical Association	2
+hospitals and even college	2
+Post India	2
+Programme for Control	2
+dies of heart	2
+awareness on cancer	2
+hospital  sskm	2
+Salem district	2
+conduct tests	2
+chief educational officer	2
+Bank state	2
+Science Congress	2
+Mumbai City	2
+city residents	2
+clinic   a private	2
+student wing	2
+survivor Cancer	2
+discharging his duties	2
+surgeries of heart	2
+machines sonography	2
+minister of state for health	2
+diseases  kidney	2
+Nadu  tamil	2
+Dental College Medical	2
+Sunday saw the who s who of the city	2
+director of health	2
+private city hospitals	2
+blind eye	2
+India Institute	2
+Government Medical College Indira Gandhi	2
+National Bank	2
+Medical Research Council	2
+Negligence Medical	2
+state govt	2
+Veterinary officer	2
+Hospital after being rushed	2
+state minister for health	2
+City Centre	2
+diabetes Cancer	2
+Institute of Medical Sciences  AIIMS	2
+India Medical Institute	2
+stones in kidneys	2
+facilities provided	2
+damage control	2
+home department	2
+university king	2
+senior government	2
+organized a function	2
+Society of Indian	2
+Association Maharashtra	1
+Medical Government	1
+patient with dengue	1
+cancer Cervical	1
+welfare minister	1
+government departments	1
+education officer	1
+film fraternity	1
+principal chief	1
+city  the Mumbai	1
+ill and in mental	1
+medical education directorate	1
+Health and Family Welfare Ministry	1
+village in the district	1
+aspirant each for medical	1
+awareness programme	1
+Heart health heart	1
+home  nursing	1
+people died	1
+officer medical	1
+colon cancer	1
+Family Welfare  Department of health	1
+patients  poor	1
+FTII Film and Television Institute of India  As the student	1
+science department	1
+institute Indian	1
+Agricultural University	1
+Puducherry Tamil Nadu	1
+Nadda Health Minister	1
+AIADMK general secretary	1
+Sciences  AIIMS	1
+Directorate of Medical	1
+FTII students Film and Television Institute of India	1
+Medical Sciences has said the institute	1
+Indira Gandhi Medical College Government	1
+city received	1
+Tamil film	1
+Service Delivery	1
+superintendent medical	1
+civil services examination	1
+Institute Rajendra	1
+Goa Medical	1
+district  Trichy	1
+respiratory diseases	1
+Research Association	1
+India Pvt	1
+Medical Council Indian	1
+home minister	1
+Bank  World	1
+banks and seven new blood	1
+officer head	1
+experts    Health	1
+recently performed	1
+test drugs	1
+poor performance	1
+Maharashtra govt	1
+colleges  PG	1
+government hospital    As Mahatma Gandhi Memorial	1
+lab tests	1
+operators private	1
+Hospital  RML	1
+Hospital George	1
+Centre diagnostic	1
+research Indian Council of Medical	1
+Teachers Association	1
+service  public	1
+Maharashtra Control	1
+procedure from the operation	1
+Health Organisation	1
+students FTII	1
+services sector	1
+graduate and post	1
+Professor assistant	1
+surgery  Despite undergoing	1
+test for T  blood	1
+National Council	1
+cancer and other diseases	1
+centre  followed by a trauma	1
+Government Hospital  MGMGH	1
+testing labs	1
+minister Ashok	1
+College principal	1
+AIDS Control	1
+private banks	1
+Mumbai University	1
+function organized	1
+student dies	1
+transplant  Kidney	1
+state  Kerala	1
+government sources	1
+medicine  as prevention	1
+inspection team	1
+Institute of India	1
+private and public	1
+officer Health	1
+issue with the government	1
+Kerala State	1
+issues related	1
+Hospital in Sadar	1
+Centre and state	1
+Mal College	1
+group of students	1
+science institutions	1
+cancer  especially oral	1
+minister of state	1
+Dr BR Ambedkar	1
+Hospitals  SMS	1
+Mumbai suburban	1
+sector  Private	1
+lack of proper	1
+Hospital  GMCH	1
+university king George	1
+health department state	1
+Osmania University	1
+Hospital Cancer	1
+official  The health	1
+camp and donated	1
+colleges such as Kirori Mal	1
+patients at the th diabetes	1
+control the disease	1
+treatment at the medical	1
+pledges support	1
+Council of Medical Research	1
+Ranchi Rays	1
+Medical Sciences  The All India Institute	1
+students of the Film and Television Institute	1
+Indian fishermen	1
+health centres  from primary	1
+state minister	1
+colleges community	1
+physical and mental	1
+OPD  departments	1
+Ambedkar memorial	1
+services to emerge	1
+Thursday declared	1
+injury to his right shoulder	1
+medical college of the private	1
+Hospital SSG	1
+AIADMK chief J Jayalalithaa	1
+professors and associate	1
+city s first heart	1
+canteens  Amma	1
+public relations officer	1
+department Government	1
+Governance Congress	1
+Sanjay Gandhi Post Graduate Institute of Medical	1
+sectors as they come under public	1
+knee injury	1
+Services ambulance	1
+state secretary	1
+state unit	1
+University colleges	1
+inspection conducted	1
+district of Tamil	1
+Hospital  Safdarjung	1
+recent visit	1
+senior minister	1
+Thursday said the government	1
+India s leading	1
+Super Kings	1
+National Accreditation	1
+dept  Health	1
+state and the Centre	1
+Control Programme	1
+film director	1
+GMCH   the hospital	1
+GSVM Medical	1
+Friday said his government	1
+government on Friday	1
+zonal office	1
+patients or any number	1
+Osmania General	1
+Association for Research	1
+diabetes and hypertension	1
+supporting him publicly	1
+team of experts	1
+Resident Doctors Association	1
+Cancer breast	1
+heart attack  died	1
+diabetic patients	1
+government Maharashtra	1
+private hospital here  died	1
+Good Friday	1
+recently in the city	1
+medical research and education	1
+family members	1
+Sciences and Research	1
+suffering patients	1
+fever DENGUE	1
+Ambedkar College	1
+Institute of India Debajit Changmai Chitraban Film and Television	1
+Institute National	1
+severed head	1
+Nadda  JP	1
+Hospitals Pvt	1
+surgery  Plastic	1
+student of a private	1
+district education officer	1
+Television Institute	1
+Diagnostic Techniques	1
+failure of the government	1
+Gandhi Government Medical College	1
+official visit	1
+Indian Science Congress	1
+district on Sunday	1
+Forensic Science	1
+cancer lung	1
+forensic experts	1
+GMCH from Government Medical College and Hospital	1
+doctors at a private	1
+Organization controlled	1

@@ -1,0 +1,508 @@
+oil prices	416
+petrol pump	150
+onion prices	149
+LPG cylinder	142
+natural gas	128
+Jantar Mantar	124
+Mariah Carey	110
+petrol and diesel	109
+crude oil	107
+Pradhan Mantri	106
+sugar mills	106
+Dharmendra Pradhan	102
+Maruti Suzuki	100
+Rs  per kg	97
+Roland Garros	97
+Regional Passport Office	87
+sugar factories	86
+Vin Diesel	86
+LPG subsidy	85
+oil and gas	81
+crude prices	75
+gas leak	74
+tur dal	73
+price rise	70
+crude oil prices	69
+Katti Batti	69
+million tonnes	66
+price cut	64
+cooking gas	63
+Indian Oil Corporation	62
+Mani Ratnam	62
+fish market	61
+oil companies	58
+scrap dealer	57
+prices of pulses	56
+Vegetable prices	55
+essential commodities	51
+Indian Oil	51
+rising prices	50
+Ennu Ninte Moideen	50
+edible oil	49
+Passport Seva Kendra	48
+vegetable market	47
+oil market	47
+Ford Foundation	47
+sugarcane farmers	47
+coconut oil	46
+Rs  per litre	45
+organic farming	45
+oil ministry	44
+Dona Paula	43
+wholesale market	43
+import duty	43
+cylinder blast	43
+price of Rs	42
+price hike	42
+black marketing	42
+Passport mela	41
+food items	41
+food and civil supplies	41
+Mario Draghi	40
+fuel prices	40
+Agriculture Produce Market Committee  APMC	40
+metric tonnes	40
+Petroleum ministry	40
+fair price shops	40
+Milk Producers	40
+lakh tonnes	39
+Harsh Vardhan	39
+Rs   per quintal	38
+prices of onions	38
+emission norms	37
+food prices	36
+food grains	36
+Oil minister Dharmendra Pradhan	36
+Hindustan Petroleum	35
+Oil and Natural Gas	35
+oil spill	35
+commodity prices	34
+black hole	34
+sugar industry	34
+Rise of a Warrior	34
+minimum support price	34
+price tag	34
+Medha Patkar	34
+wholesale prices	33
+prices fall	33
+Drugs Price	32
+dairy products	32
+civil supplies	32
+retail prices	30
+passport office	30
+greenhouse gas	30
+dal prices	29
+raw material	29
+GI tag	29
+milk products	29
+oil tanker	28
+spilled the beans	28
+differential pricing	28
+grain market	28
+piped natural gas	28
+wholesale onion	27
+fruits and vegetables	27
+Olivier Giroud	27
+APMC market	27
+gas cylinder	27
+dairy farmers	27
+Crawford Market	26
+burn a hole	26
+BS VI	26
+prices of vegetables	26
+export price	26
+bear fruit	26
+LPG consumers	25
+oil imports	25
+gas prices	25
+Petrol price	25
+market price	25
+olive oil	24
+oil producers	24
+fossil fuel	23
+pulses Price	23
+agricultural production	23
+retail market	23
+food subsidy	22
+Agriculture Marketing	22
+open market	22
+vegetables and fruits	22
+petroleum and natural gas	22
+increase prices	22
+Direct Benefit Transfer of LPG	22
+paddy procurement	21
+prices oil	21
+flooded the market	21
+gas pipeline	21
+jet fuel	21
+Market Yard	21
+Market Committee	21
+lower prices	21
+greenhouse gases	21
+Maruti Suzuki India	20
+hike in prices	20
+food and civil supplies department	19
+imported pulses	19
+Agriculture Produce Market Committee	19
+prices soar	19
+passport applicants	19
+price stability	19
+Oil minister	19
+consumer affairs	19
+food processing	19
+falling prices	19
+diesel prices	18
+milk prices	18
+Brent crude	18
+Retail inflation	18
+country s largest	18
+Marketing Federation	18
+paddy field	18
+genetically modified	18
+emission cuts	18
+higher prices	18
+cane farmers	18
+chilli powder	18
+dry fruits	17
+ticket price	17
+agriculture department	17
+prices skyrocket	17
+chemicals and fertilizers	17
+cash transfer	17
+falling oil prices	17
+carbon emission	17
+food and supplies	17
+drop in prices	16
+weighing  kg	16
+Oil prices fall	16
+domestic market	15
+food products	15
+Opec oil	15
+cooperative societies	14
+average wholesale onion prices	14
+cut prices	14
+wholesale onion prices at the country s largest	14
+price increases	13
+Corporation Limited	13
+huge quantity	13
+prices of commodities	13
+gold imports	13
+Veggie prices	13
+Agriculture Produce	13
+rising demand	13
+customs duty	12
+civil supplies department	12
+domestic product	12
+Cooperative Milk	12
+fair price	12
+Indian market	12
+subsidy on LPG	12
+Price Control	12
+low cost	11
+Food Security	11
+Petroleum Corporation	11
+increased demand	11
+support price	11
+agriculture minister	11
+Oil Corporation	11
+pump owners	11
+wholesale onion prices	11
+National Dairy	11
+push up prices	10
+regulated market	10
+fall short	10
+leaking gas	10
+control the prices	10
+Lasalgaon Agriculture Produce Market Committee	10
+supplies department	10
+ammonia gas	10
+paying the price	10
+Direct Benefit Transfer	10
+Department of Agriculture	10
+prices drop	10
+oil falls	10
+spot market	10
+skyrocketing prices	9
+soaring prices	9
+international market	9
+cut costs	9
+Traders Association	9
+minister Dharmendra Pradhan	9
+agricultural fields	9
+retail outlets	9
+markets are flooded	9
+exports and imports	9
+increased by  per cent	9
+cost of Rs	8
+prices Wholesale	8
+poultry farms	8
+prices lower	8
+kharif season	8
+suzuki Maruti	8
+cut emissions	8
+food and consumer	8
+price of the drug	8
+procured paddy	8
+price for gas	8
+stock markets	7
+prices of petrol	7
+pulse import	7
+kharif crop	7
+due to farmers	7
+Federation of India	7
+global markets	7
+food processing industry	7
+Thomas Cook	7
+cent to Rs	7
+food adulteration	7
+diesel and petrol	7
+seized kg	6
+import export	6
+faces shortage	6
+sugar cooperative	6
+India Limited	6
+prices fell	6
+oil Crude	6
+market complex	6
+price of crude oil	6
+duty on imported	5
+cent increase	5
+Association of India	5
+steady rise	5
+India Maruti Suzuki	5
+cost cutting	5
+wheat crop	5
+Fertilizers and Chemicals	5
+medicinal plants	5
+Rs   or   per cent	5
+natural resources	5
+ministry of petroleum	5
+stabilize prices	5
+wholesale price of onion	5
+Seva Kendra	5
+sharp decline	5
+supplying of uncertified food	4
+farmers due	4
+production agricultural	4
+natural gas and    from oil	4
+subsidy Food	4
+mills  UP Sugar	4
+prices of fuel	4
+South Gujarat	4
+cent rise	4
+prices in the market	4
+Gold prices	4
+rate cut	4
+powder in chilli	4
+excise duty	4
+prices of food	4
+raw deal	4
+poor quality	4
+Asia s largest	4
+falling oil	4
+price of milk	4
+cent to  per cent	4
+farmers  sugarcane	4
+sharp rise	4
+market  wholesaler	4
+industry  sugar	4
+textile traders	4
+farmers Cane	4
+horticulture department	4
+shop owner	4
+fell   per cent	3
+Produce Market	3
+markets  Oil	3
+regional passport	3
+civil society	3
+price shops	3
+Natural oil	3
+Manufacturers  Association	3
+gases greenhouse	3
+organic food	3
+consumer products	3
+food stalls	3
+oil  Indian	3
+farming for organic	3
+higher rates	3
+Corporation K Indian Oil	3
+Oil price Crude	3
+demand rises	3
+produces  milk	3
+rate higher	3
+sold for Rs	3
+NATIONAL STOCK	3
+bear market	3
+increasing rate	3
+import oil	3
+Cairn India	3
+civil aviation	3
+consumers in the state	3
+relaxed norms	3
+industries minister	2
+dal  Tur	2
+prices push	2
+store owner	2
+declined  per cent	2
+Malwa region	2
+price of crude	2
+APMC Agriculture Produce Market Committee	2
+norms eased	2
+rabi crop	2
+Gold prices Gold	2
+markets at the APMC	2
+Department of Energy	2
+pay dues	2
+Consumer Protection	2
+application for a passport	2
+Society of Indian	2
+company supplying	2
+adulterated food	2
+demanding increase	2
+Oil and Natural	2
+Industries Association	2
+oil  olive	2
+hike rates	2
+market their produce	2
+processed food	2
+sharp increase	2
+Direct Benefit	2
+LPG  The Direct Benefit Transfer	2
+crisis being faced	2
+prices help retailers	2
+prices of dal	2
+Milk Cooperative	2
+futures trade	2
+eastern region	2
+Rs  lakh	2
+Trade Fair	2
+reduce the cost	2
+minimum support	2
+gas emissions	2
+producers oil	2
+Passport Seva	2
+oil coconut	2
+market for vegetables	2
+India s largest	2
+production company	2
+Energy Department	2
+prices at fair	2
+Food and Drug	2
+prices higher	2
+fell short	2
+paid Rs	2
+priced tickets	2
+price she pays	2
+Rs  to Rs	2
+onions in the wholesale	2
+million     million	2
+ministers of oil	2
+price of diesel	2
+regional officer	2
+reduce carbon	2
+onion market	2
+inflation rate	2
+market is expected	2
+consumers LPG	2
+Ennu Ninte	2
+global trend	2
+capping process	1
+BT Exclusive	1
+manufacturing industry	1
+demanding Rs	1
+market stocks	1
+short fall	1
+pump Petrol	1
+ministry of civil aviation	1
+rate increase	1
+shell out Rs	1
+Minister agriculture	1
+manufacturing company	1
+office Passport	1
+worries farmers	1
+Indian Federation	1
+Distribution Company	1
+cent decline	1
+Association Trader	1
+affairs ministry	1
+affairs minister	1
+federation that markets	1
+products Consumer	1
+cylinder LPG	1
+domestic and international	1
+BUY  or  SELL	1
+Agriculture Market Produce Committee s  APMC	1
+crop damage	1
+litre and Rs	1
+Federation of Indian	1
+seized gold	1
+committee as well as a market	1
+give a boost	1
+mela  A passport	1
+fields    The paddy	1
+Green Revolution	1
+Benefit Transfer	1
+markets under the agricultural	1
+cotton crop	1
+Spill oil	1
+market    A fish	1
+Dharmendra Pradhan  Minister	1
+companies oil	1
+lakh to Rs	1
+prices  Veggie	1
+consuming food	1
+Agriculture agriculture department	1
+international and domestic	1
+departments  particularly the food and civil supplies	1
+pay hike	1
+passports    The regional	1
+market Grains	1
+Crude Brent	1
+crude prices oil	1
+energy minister	1
+Carey  Mariah	1
+Product Recall	1
+farmers whose crops	1
+falling price of oil	1
+company s products	1
+million litres	1
+Office Regional	1
+facing a crisis	1
+cylinder Gas	1
+fuels  fossil	1
+emissions carbon	1
+farmers worried	1
+crops like cotton	1
+Marketing International	1
+pharma company	1
+global stock	1
+cent rate	1
+production from domestic	1
+pipelines and supply	1
+fields  the agriculture	1
+global firms	1
+farmers  dairy	1
+rate hike	1
+import Gold	1
+Drugs Controller	1
+eases norms	1
+market for Indian	1
+proved costly	1
+fair trade	1
+million euros	1
+Association Indian	1
+cost is estimated	1
+Agriculture Produce Market	1
+products to the Food	1
+National Food Security	1
+onion prices Wholesale	1
+price export	1
+rise   per cent	1
+selling fresh	1
+markets and domestic	1
+pharmaceutical company	1
+continue to rise	1
+norms Emission	1
+kg and another weighing	1
+oil  Opec	1
+market onion	1

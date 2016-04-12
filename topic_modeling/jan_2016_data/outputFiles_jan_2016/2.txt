@@ -1,0 +1,414 @@
+Restaurant Review	207
+beef ban	190
+iron ore	180
+Virender Sehwag	131
+illegal mining	125
+liquor shops	119
+Kei Nishikori	110
+Red Bull	106
+cow slaughter	98
+Cara Delevingne	96
+ban on sale	93
+tobacco products	90
+spectrum auction	88
+mining leases	86
+red sanders	85
+sand mining	85
+shop owner	78
+plastic bags	75
+online shopping	70
+liquor ban	67
+red tape	64
+illegal sand mining	63
+Dow Jones	63
+liquor vends	55
+mining activities	55
+sand mafia	54
+Owners Association	53
+hooch tragedy	53
+hotel room	50
+mining companies	50
+lifts ban	49
+star hotel	48
+Ordnance Factory	47
+meat ban	47
+stone pelting	46
+slaughter houses	46
+foreign liquor	45
+excise department	44
+influence of alcohol	42
+hotels and restaurants	41
+pictorial warnings	41
+ban on beef	40
+red sanders smugglers	40
+illicit liquor	40
+alma mater	39
+beef festival	38
+illegal liquor	38
+ban on cow slaughter	38
+United Spirits	37
+Sandra Bullock	37
+Bengaluru Bulls	36
+pelted stones	36
+online sale	36
+raw material	36
+Urvashi Rautela	36
+Red Cross	36
+OYO Rooms	35
+De Beers	35
+ban on plastic	35
+slaughtered a cow	34
+red flags	33
+Goa meat complex	33
+stone quarries	33
+Pernia Qureshi	32
+liquor sale	32
+total prohibition	32
+liquor policy	32
+complete ban	31
+bauxite mining	31
+Guardians of the Galaxy	31
+illegal sand	31
+ban on liquor	30
+shut shop	30
+Standard Chartered Mumbai Marathon	30
+Maharashtra Animal Preservation	30
+bar owners	30
+sand boa	29
+shopping malls	29
+hotel owners	29
+eating beef	29
+liquor bottles	29
+commercial establishments	29
+shopping online	28
+meat shops	28
+trade licence	28
+mines and geology	28
+fishing ban	28
+Phoenix Marketcity	27
+downed shutters	27
+Chanda Kochhar	26
+polythene bags	26
+Mines and Minerals	26
+restaurant owner	25
+restaurant chain	25
+beef traders	25
+cracks whip	25
+luxury hotel	25
+Malwani hooch tragedy	25
+coffee shop	24
+red meat	24
+illegal activities	24
+Chinese manja	24
+Chemists and Druggists	24
+imposed a ban	23
+packing their bags	23
+Boston Marathon	23
+manufacturing unit	23
+carry bags	22
+human sacrifice	21
+retail stores	21
+ban imposed	21
+animal sacrifice	21
+Traders Association	21
+grocery shop	21
+illegal transportation	21
+coal mines	20
+drug lord	20
+bar hotel	20
+truck carrying	19
+bar and restaurant	19
+food review	19
+retail outlets	19
+production house	18
+food stalls	18
+sale of beef	18
+blanket ban	17
+red sanders smuggling	17
+Maharashtra beef ban	17
+ban on meat	16
+excise policy	16
+store owner	15
+Hotel Management	15
+Bar Association	15
+sale of liquor	15
+liquor seized	15
+beef eating	15
+open its first store	15
+truck owners	15
+Mumbai Marathon	14
+slaughtering of animals	14
+smuggling red sanders	14
+ban on slaughter	14
+spectrum sale	14
+demanding a ban	14
+Red Hills	13
+sale ban	13
+excise officials	13
+cow slaughter ban	13
+consumption of liquor	13
+ore transportation	13
+red card	12
+liquor consumption	12
+beef ban in Maharashtra	12
+raids were conducted	12
+Mining of sand	11
+bottles of liquor	11
+supply chain	11
+brick kiln	11
+restaurants and hotels	11
+mining ban	11
+operating illegally	11
+conducted raids	11
+ban on fishing	11
+plastic ban	11
+Shoppers Stop	10
+animal slaughter	10
+order banning	10
+restaurant and bar	10
+cancel the licences	9
+room of a hotel	9
+city hotel	9
+Bernie Sanders	9
+Review Restaurant	9
+warnings on tobacco	9
+seized kg	8
+ordered the closure	8
+remain closed	8
+Malwani hooch	8
+food items	8
+Association of Bars	8
+excise duty	8
+mines to be auctioned	8
+shopping complex	8
+commercial activities	8
+Govt ban	8
+sand illegally	7
+auction of mines	7
+illegal mining of sand	7
+Chandrapur district	7
+mineral mines	7
+ban on cow	7
+cold storage	7
+decision to ban	7
+surprise checks	7
+Bar   Grill	7
+beef sale	7
+involved in illegal	6
+animal lovers	6
+coal auction	6
+Manufacturers  Association	6
+alcohol addiction	6
+mining bauxite	6
+illegally operating	6
+food and beverage	6
+Sehwag  Virender	6
+Product Recall	6
+mining Coal	6
+online retail	6
+slaughter ban	6
+animal activists	6
+hotel in the city	6
+ban lifted	5
+huge quantity	5
+generic drugs	5
+transport ore	5
+hotels  bars	5
+associations and owners	5
+remain shut	5
+action against illegal	5
+store  but online	5
+stores open	5
+Bag  Still carrying	5
+ban on mining	5
+conducted surprise	5
+permissible limits	5
+Drugs Controller	5
+mining Illegal	5
+chain of restaurants	4
+officials on and excise	4
+room in OYO	4
+raided the house	4
+online store	4
+food adulteration	4
+joint operation	4
+Customs officials	4
+gun control	4
+licences cancelled	4
+food products	4
+drinking alcohol	4
+officials seized	4
+carried out raids	4
+fish market	4
+customs duty	3
+drug menace	3
+iron rod	3
+block auction	3
+doping ban	3
+Company Limited	3
+Lounge and Bar	3
+hooch in Malwani	3
+review Food	3
+sacrifice of animals	3
+human chain	3
+ban ordered	3
+import export	3
+check illegal	3
+operations continued	3
+transported illegally	3
+seized liquor	3
+owners of the shops	3
+guest house	3
+remain open	3
+Druggists   chemists	3
+raid carried	3
+North Goa	3
+Marathon in Mumbai	3
+review the policy	3
+Standard Chartered	3
+Kitchen and Bar	3
+selling fresh	3
+food and supplies	3
+owner of the store	2
+bags packed	2
+alcohol but not under influence	2
+units and to the manufacturer	2
+illegal possession	2
+owners of bars	2
+licence  trade	2
+mine sand illegally	2
+policy liquor	2
+small business	2
+liquor from an illegal	2
+products dairy	2
+control room	2
+quarry stones	2
+retail online	2
+adulterated food	2
+ore mining	2
+Hotel Star	2
+imposed a fine	2
+geology   mining	2
+continue to operate	2
+enforce a strict	2
+raw deal	2
+food festival	2
+running a marathon	2
+industrial units	2
+crosses own red	2
+production company	2
+sale online	2
+city areas	2
+Madurai district	2
+excise and taxation	2
+food delivery	2
+shop  More than  liquor	2
+hooch tragedy at Malwani	2
+Goa meat	2
+illegal  actions	2
+loaded truck	2
+stores after the retail	2
+mined ore	2
+lovers in the city	2
+food poisoning	2
+raided the premises	2
+owner of Hotel	2
+Foreign Trade	2
+dry run	2
+Bar   Kitchen	2
+online portal	2
+drug smuggling	2
+AB de	1
+sting operation	1
+district chandrapur	1
+house raided	1
+review its decision	1
+remain suspended	1
+commercial complexes	1
+survey carried	1
+country s foreign	1
+President  Chinese	1
+food and drinks	1
+Active mines	1
+District Bar	1
+Geological Survey	1
+meat   in the red	1
+Customs department	1
+vending liquor	1
+sale spectrum	1
+narcotic substance	1
+mining ILLEGAL SAND	1
+arms licences	1
+acute shortage	1
+shops shut	1
+companies to manufacture	1
+possession of illegal	1
+duty excise	1
+drive to check	1
+Small Industries	1
+meat complex	1
+auction spectrum	1
+Wednesday  district	1
+chain of supply	1
+manja Chinese	1
+premises raided	1
+Kochhar  Chanda	1
+Qureshi  Pernia	1
+eat food	1
+Mumbai Marathon  Standard Chartered	1
+banned for doping	1
+owner of the house	1
+restrictions imposed	1
+festive spirit	1
+strict enforcement	1
+affordable housing	1
+found abandoned	1
+Ban on Govt	1
+prohibitory orders	1
+kg  was seized	1
+run over by truck	1
+smuggling drugs	1
+products tobacco	1
+run dry	1
+spirit units	1
+activities for commercial	1
+demanding action	1
+strict action	1
+pulling out all stops	1
+manager in the hotel	1
+Marathon Run	1
+consuming poison	1
+banned beef through the Maharashtra	1
+tobacco warnings	1
+licences and use of armed	1
+Chartered Mumbai Marathon	1
+sanders   also known as red	1
+production Coal	1
+Food and Drug	1
+Narcotic Drugs	1
+smugglers of red sanders	1
+food and consumer	1
+malls and other shopping	1
+drinks  food	1
+drug addiction	1
+sand  illegally mined	1
+bags  Polythene	1
+festival Beef	1
+Limited Company	1
+Protection Act	1
+seized by officials	1
+BUY  or  SELL	1
+control the drug	1
+Maharashtra govt	1
+alcoholic drinks	1
+remove illegal	1
+shopping groceries	1
+leases to mine	1
+department officials	1
+hotel  one of the first luxury	1
+group companies	1
+coal block auction	1
+market complex	1
+carrying out a survey	1
+Jones  Dow	1
+owners of some restaurants	1

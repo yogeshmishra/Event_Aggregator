@@ -55,7 +55,7 @@ def updateES(ESClient=Elasticsearch(), idfilename=basefolder+"id.txt", topicfile
                 break
     
 def update_data(Client, id, topics, keywords):
-    Client.update(index="news", doc_type="articles", id=id, body={"doc":{"topics":topics, "enriched_keywords":keywords}})
+    Client.update(index="jan_news", doc_type="articles", id=id, body={"doc":{"topics":topics, "enriched_keywords":keywords}})
 if __name__=="__main__":
     getTopicNames(filename=basefolder+ "topicNames.txt")
     updateES(ESClient=es)

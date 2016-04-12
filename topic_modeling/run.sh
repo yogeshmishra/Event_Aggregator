@@ -24,7 +24,10 @@ optimizationInterval=50
 touch rawFiles/id.txt
 touch rawFiles/articles2.txt
 touch rawFiles/$2
-#python simple_es_client.py $1 $2 $3 $4 
+python simple_es_client.py $1 $2 $3 $4 
+mkdir -p output/outputFiles
+cp rawFiles/id.txt output/outputFiles/
+cp rawFiles/$2 output/outputFiles/
 cd TopicalPhrases 
 #Run Data preprocessing
 ./runDataPreparation.sh $inputFile

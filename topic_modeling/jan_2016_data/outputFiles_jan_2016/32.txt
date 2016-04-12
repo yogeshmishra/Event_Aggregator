@@ -1,0 +1,661 @@
+Navi Mumbai	612
+housing society	233
+Taj Mahal	219
+illegal constructions	176
+Wall Street	164
+Marine Drive	153
+demolition drive	145
+Pope Francis	145
+building collapse	130
+Teesta Setalvad	111
+illegal structures	102
+Walled City	101
+south Mumbai	94
+Dalal Street	94
+Nirmala Sitharaman	93
+street vendors	92
+open spaces	89
+slum dwellers	85
+heritage sites	84
+illegal buildings	78
+sq ft	76
+heritage structures	76
+illegal hoardings	75
+Salma Hayek	75
+wall collapse	75
+affordable housing	71
+Housing Board	69
+Lleyton Hewitt	69
+Francis D Souza	69
+world heritage site	68
+Red Fort	67
+World Heritage	65
+heritage buildings	60
+Ricky Kej	58
+build houses	56
+Church Street	54
+guest house	54
+Aarey Colony	53
+construction site	52
+residential buildings	51
+unauthorized constructions	51
+Port Trust	48
+Jubilee Hills	47
+unauthorized colonies	47
+housing project	46
+Banjara Hills	45
+Fort Kochi	44
+Buildings Construction	43
+St Joseph	43
+brick kiln	42
+Sao Jose de Areal	41
+dilapidated buildings	41
+St Inez	40
+compound wall	40
+Jesus Christ	40
+plans to build	39
+flat owners	39
+construction building	39
+Shine Tom Chacko	39
+office space	39
+faux pas	39
+heritage walk	38
+Eiffel Tower	38
+Heritage City	38
+Blessed Joseph Vaz	38
+religious structures	37
+Joseph Vaz	37
+remove encroachments	37
+St Estevam	37
+housing scheme	36
+Malabar Hill	36
+Mumbai Port Trust	36
+residential areas	36
+hawking zones	36
+floor of a building	36
+cultural heritage	35
+Capitol Complex	35
+construction activity	35
+heritage tag	35
+island city	34
+St Thomas	34
+Cooperative Housing Society	34
+apartment complex	34
+Catholic Church	34
+boundary wall	33
+commercial establishments	33
+floor space index	32
+Heritage Conservation Committee	32
+demolish illegal	32
+commercial building	32
+Chandni Chowk	32
+commercial complexes	31
+st century	31
+city residents	31
+Chandigarh Housing Board	31
+residential colony	30
+rented house	30
+Town Hall	30
+building plans	30
+Slum Rehabilitation Authority	29
+Aashka Goradia	29
+St Francis Xavier	29
+parking space	29
+Christ Church	28
+local residents	28
+Chhota Imambara	28
+St Francis	28
+Kharghar residents	28
+home buyers	27
+Wall Street stocks	27
+residential complex	27
+South Goa	27
+area of the city	27
+raze illegal	27
+Heritage Conservation	27
+Unesco World Heritage	27
+acres of land	26
+flat buyers	26
+Port City	26
+Robinson Street	26
+Wall Street Journal	26
+Snehal Ambekar	26
+building permissions	26
+Mumbai Port Trust  MbPT	26
+public library	26
+Raj Bhavan	26
+razes illegal structure	26
+construction work	26
+protected monument	25
+Doppler radar	25
+residential plots	25
+cooperative societies	25
+redevelopment project	25
+ward office	25
+Kis Kisko Pyaar Karoon	25
+full house	24
+Slum Rehabilitation	23
+illegal parking	23
+Lutyens  Bungalow	23
+constructed houses	22
+de Souza	22
+state museum	22
+St Mary	21
+floor flat	21
+square metre	21
+floor of the house	21
+city s heritage	21
+public property	21
+heritage monuments	20
+port town	20
+plot allotment	20
+encroached land	20
+action against illegal	20
+green buildings	20
+city areas	20
+shopping complex	20
+storey building	20
+BMC plans	19
+Seminary Hills	19
+residential property	19
+town planning	19
+Memorial Museum	19
+visit to the city	19
+house owners	19
+residential society	19
+heart of the city	18
+resident of Sector	18
+world s tallest	18
+debris dumping	18
+remove illegal	18
+cracks whip	17
+Signature Tower	17
+clear encroachments	17
+property owners	17
+open to the public	16
+official residence	16
+activist Teesta Setalvad	16
+dumping of debris	16
+civil society	15
+Red Hills	15
+street lights	15
+residential project	15
+house in Sector	15
+St Xavier	15
+Shine Tom	15
+St John	14
+West Zone	14
+house on rent	14
+alleged illegal	14
+construction projects	14
+plot of land	14
+eviction notices	14
+occupancy certificate	13
+stand tall	13
+encroachments removed	13
+cell towers	13
+public spaces	13
+construction workers	13
+illegal shrines	13
+Lutyens  Delhi	13
+housing building	13
+world s oldest	12
+parts of the city	12
+raj shekhar	12
+Polo Grounds	12
+Mumbai City	12
+house burgled	12
+St Andrew	12
+Housing and Development Board	12
+civic authorities	12
+tourist spots	11
+build roads	11
+Nagar area	11
+entering the house	11
+proposed site	11
+market complex	11
+Sao Paulo	10
+dumping ground	10
+illegal activities	10
+city  the Mumbai	10
+land encroached	10
+Park Street	10
+collapse building	10
+stop work	10
+proposal to build	10
+south Kolkata	10
+pelted stones	10
+Mumbai and Navi	10
+city streets	10
+main road	10
+narrow lanes	10
+illegal encroachments	10
+roads and buildings	10
+thrown open	10
+lease of life	10
+city tag	10
+plans to construct	10
+tourists visiting	10
+commercial activities	10
+building violations	9
+lying vacant	9
+restoration work	9
+green zone	9
+thrown open to the public	9
+violation of building	9
+Temple complex	9
+piece of land	9
+World Heritage City	9
+Marina Beach	9
+city roads	9
+painted walls	9
+major portion	9
+temple town	9
+public places	9
+opened its doors	8
+memory lane	8
+south Delhi	8
+Residents complain	8
+west Delhi	8
+home town	8
+constructed illegally	8
+residential and commercial	8
+town planner	8
+lying unused	8
+Francis Xavier	8
+lakh sq	8
+parked illegally	8
+houses were constructed	8
+land owners	8
+shelter home	7
+newly constructed	7
+opened its gates	7
+damage to property	7
+places of worship	7
+residents of the area	7
+St Cruz	7
+encroachments and illegal	7
+house officer	7
+buyer of a flat	7
+Central Zone	7
+Residents oppose	7
+spread over  acres	7
+residents of the locality	7
+allotment of plots	7
+illegal structures razed	7
+standing committee	7
+Red Cross	7
+construction materials	7
+MIDC area	7
+shop owner	7
+religious places	6
+rehabilitation of slum	6
+shopping malls	6
+cellphone towers	6
+hectares of land	6
+city walls	6
+building proposal	6
+Development Authority	6
+outskirts of the city	6
+work carried	6
+core area	6
+local authorities	6
+Ravindra Bhavan	6
+locked house	6
+residents of Kharghar	6
+stone pelting	6
+wall painting	6
+proposed construction	6
+cleared the decks	6
+land allotment	6
+protected areas	5
+allotment of land	5
+plans to shift	5
+land lease	5
+City Beautiful	5
+Raj Nagar	5
+royal family	5
+started a drive	5
+buildings  illegally	5
+building is in a dilapidated	5
+repair work	5
+Memorial Hall	5
+opposing the proposed	5
+locations in the city	5
+Nagar residents	5
+Francis  Pope	5
+ancient temples	5
+Link Road	5
+nearby areas	5
+special drive	5
+sq km	5
+Port Blair	5
+residents of the city	5
+White House	5
+Mumbai Port	5
+Planning Authority	5
+Margao town	5
+Equal Streets	5
+land belonging	5
+LED lights	5
+church attack	5
+shed light	5
+buildings should have at least two floors	5
+certificate  NOC	5
+opposed the move	4
+km from the city	4
+city on Thursday	4
+road map	4
+Kis Kisko Pyaar	4
+permission to build	4
+sites constructed	4
+lovers in the city	4
+metres  about   square	4
+buildings and residential	4
+owners of properties	4
+development works	4
+east Delhi	4
+streets of the city	4
+land grab	4
+residence in T Nagar	4
+plans to install	4
+Raj Thackeray	4
+roads in the city	4
+attacks on churches	4
+art and culture	4
+cities and towns	4
+proposal to shift	4
+project in the city	4
+inside her house	4
+Beach Road	4
+site of the proposed	4
+resident of village	4
+road construction	4
+narrow road	4
+Ambedkar memorial	4
+stocks  Wall Street	4
+served notices	4
+work on the construction	4
+development plan	4
+put in place	4
+adjoining areas	4
+hit the streets	4
+material used for constructing	4
+Rehabilitation and Resettlement	3
+city on Tuesday	3
+illegally demolished	3
+roads leading	3
+bungalow in Lutyens	3
+road work	3
+throws light	3
+Hills Vs Jubilee	3
+tall claims	3
+Archaeological Survey	3
+Nehru Nagar	3
+Fort Red	3
+Port Mumbai	3
+area on Wednesday	3
+full public view	3
+Santa Cruz	3
+flat  The th floor	3
+world s largest	3
+Development Board	3
+drive started	3
+Church catholic	3
+Mumbai suburban	3
+vendors street	3
+construction of roads	3
+gates opened	3
+road repair	3
+hotel room	3
+Mormugao Port Trust	3
+heritage and culture	3
+lease land	3
+team inspects	3
+work to restore	3
+Imambara     Chhota	3
+Sector  resident	3
+owner of the land	3
+urban areas	3
+Drive    Marine	3
+places in the city	3
+housing cooperative society	3
+sell their land	3
+monument that s protected	3
+area residents	3
+open its first store	3
+activist Teesta	3
+City project	3
+conservation of heritage	3
+city and its suburbs	3
+urban housing	3
+largest in the world	3
+burgled    The house	3
+Sector  house	3
+acquiring land	3
+completion of projects	3
+huge cache	2
+area adjoining	2
+panchayat raj	2
+development projects	2
+store owner	2
+mega projects	2
+construction of a bridge	2
+towns of Margao	2
+illegal possession	2
+Conservation Authority	2
+complex being used for commercial	2
+Dwellers  Slum	2
+visiting tourists	2
+cement concrete	2
+Street stocks	2
+public works	2
+remote areas	2
+collapse  wall	2
+activities at construction	2
+maintenance work	2
+working to stop	2
+work of art	2
+plotted residential	2
+Bhavan Raj	2
+proposed to develop	2
+societies and residential	2
+Setalvad  Teesta	2
+suburbs and city	2
+commercial and residential	2
+house had been locked	2
+full swing	2
+road block	2
+owner of the house	2
+buildings following green	2
+city located	2
+Pyaar Karoon	2
+allegedly violating	2
+structures razes illegal	2
+clear stand	2
+House guest	2
+parking areas	2
+floor space	2
+housing cooperative	2
+Art Gallery	2
+Encroachments cleared	2
+Ravindra Patil	2
+stretch of road	2
+Green Drive	2
+realty sector	2
+housing affordable	2
+development of the city	2
+structures  Illegal	2
+city plan	2
+temple on an ancient	2
+action plan	2
+civic amenities	2
+civic officials	2
+repair roads	2
+recent visit	2
+condition of roads	2
+visiting temples	2
+green activists	2
+large parts	2
+small town	2
+Jose de Areal	2
+found inside	2
+minister Francis D Souza	2
+monuments and other heritage	2
+village resident	2
+Street  Wall	2
+low lying	2
+road connecting	2
+families living	2
+land acquired	2
+Urban Cooperative	2
+Area Development Authority	1
+owner of the flat	1
+complain residents	1
+housing and urban	1
+Housing and Urban Development	1
+property damage	1
+parts of the world	1
+allot   acres	1
+Delhi Development Authority  DDA	1
+public  open	1
+stay put	1
+project to construct	1
+city hotel	1
+major hurdle	1
+life and works	1
+city port	1
+survey carried	1
+development and housing	1
+km stretch	1
+Street  Church	1
+dug up roads	1
+proposal and cleared	1
+property dispute	1
+Mormugao Port	1
+colonies  residential	1
+tag for city	1
+buyers  Home	1
+spot recently	1
+Housing and Development	1
+building get a heritage	1
+Upper House	1
+oldest in the world	1
+Circle officer	1
+move to oppose	1
+green cover	1
+streets  where they are parked	1
+completion certificates	1
+stand clear	1
+find a place	1
+Modern Family	1
+Mumbai attacks	1
+walks km	1
+ambitious plan	1
+development blocks	1
+de Kolkata	1
+complexes and shops	1
+city visit	1
+village on the outskirts	1
+Delhi  South	1
+mega block	1
+Delhi Development Authority	1
+home state	1
+Housing Board  Chandigarh	1
+recent survey	1
+projection in the residential	1
+city s major	1
+Board is planning	1
+Green Park	1
+estate officer	1
+km walk	1
+claimed  lives	1
+declared on Thursday	1
+parts of the state	1
+house in Chandigarh	1
+breeding ground	1
+walk through heritage	1
+house  On the second floor	1
+Drive   A little green	1
+gave its nod	1
+luxury hotel	1
+complete the work	1
+colonies  unauthorized	1
+stay at home	1
+Area Development	1
+begin work	1
+buildings and a commercial	1
+drive Demolition	1
+city s development	1
+tag  A heritage	1
+comprising  teams	1
+city of Panaji	1
+structural heritage	1
+proposed Sunstream City	1
+plan BMC	1
+project planning	1
+planning and development	1
+check illegal	1
+land use of four plots	1
+work if public	1
+city recently	1
+museum in the state	1
+local urban	1
+DDA  Delhi Development Authority	1
+lost ground	1
+radar doppler	1
+city as part	1
+map  roads	1
+area to have residential	1
+committee to work	1
+views from the public	1
+Teesta Setalvad as other activists	1
+recently in the city	1
+Kochi Fort	1
+towns and cities	1
+house full	1
+Hoardings  Illegal	1
+lakh families	1
+Chacko Shine Tom	1
+Mumbai  trust Port MbPT	1
+Tom  Shine	1
+malls and other shopping	1
+Mumbai    South	1
+Land Ceiling	1
+part of a large	1
+city a better place	1
+Resettlement and Rehabilitation	1
+main opposition	1
+authority  The Slum Rehabilitation	1
+evidences found	1
+space for his office	1
+illegal  actions	1
+remote village	1
+Wednesday started	1
+offices and houses	1
+Hewitt  Lleyton	1
+public sector undertakings	1
+disputed land	1
+acres allotted	1
+Karoon  Kis Kisko Pyaar	1
+attack on Mumbai	1
+Areas  Protection	1
+Colony Aarey	1
+plan for the city	1
+board of a housing	1
+complexes  apartments	1
+Tom Chacko Shine	1
+build an  storeyed	1
+Delhi s Lutyens	1
+hotel in the city	1
+project to develop	1
+city proposal	1
+rich cultural	1
+Cruz  St	1
+Town home	1
+official visit	1
+concrete road	1
+VIP Road	1
+grab land	1
+suburban Mumbai	1
+cross the road	1

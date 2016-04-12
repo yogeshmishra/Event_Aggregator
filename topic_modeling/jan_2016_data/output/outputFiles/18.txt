@@ -1,0 +1,347 @@
+Wall Street	201
+road safety	182
+road accidents	175
+National Highway	145
+killed   injured	111
+Road Transport	102
+auto drivers	67
+road projects	65
+taxi driver	65
+pillion riders	65
+highway projects	64
+bus service	60
+sq ft	59
+district administration	55
+fire broke	54
+opened fire	53
+set on fire	51
+Dalai Lama	51
+road mishap	50
+Road Safety Week	49
+Dalal Street	48
+bus stand	47
+drunk driving	46
+Greater Noida	43
+Mariah Carey	43
+persons were injured	42
+disaster and accident	41
+wearing helmets	41
+Ring Road	40
+traffic police	39
+transport department	39
+traffic jams	39
+BRT corridor	38
+Wall Street US stocks	38
+city roads	38
+toll plaza	38
+Garo Hills	36
+Red Road	36
+parking lots	36
+office space	35
+green corridor	35
+illegal hoardings	34
+Red Cross	34
+bus driver	34
+illegal constructions	33
+National Highways Authority	33
+driving licences	33
+road construction	32
+killed in road accident	32
+Dubai hotel	32
+truck owners	32
+truck driver	31
+dumping ground	31
+injured in road mishap	31
+Regional Transport Office	31
+open spaces	30
+area of city	30
+removing encroachments	29
+catches fire	28
+public transport	28
+Development Authority	28
+traffic rules	28
+Rent Control	28
+commercial vehicles	28
+escapes unhurt	26
+road trip	26
+autorickshaw drivers	26
+injured in accident	26
+Friday morning	26
+helmet rule	26
+killed in road mishap	26
+parking space	26
+Transport Corporation	24
+school bus	24
+killed in accident	24
+Yamuna Expressway	24
+construction work	24
+block road	23
+road widening	23
+injured as bus	23
+roads in the city	22
+road traffic	22
+National Park	22
+public places	22
+traffic violations	21
+traffic congestion	21
+bus accident	21
+residential areas	21
+Sunday morning	20
+people were killed	20
+Saturday morning	20
+City area	20
+city residents	20
+early hours	20
+Rapid Transit	20
+traffic snarls	19
+theme park	19
+construction of road	19
+control room	18
+parts of the city	18
+accident victims	18
+District Collector	17
+Chennai Corporation	17
+unidentified persons	17
+Motor Vehicles	17
+construction and property	17
+driving drunk	17
+speeding car	17
+km long	16
+car parking	16
+people and injured	16
+Sunday evening	16
+Happy Streets	15
+Buildings Construction	15
+Monday morning	15
+residents of the city	15
+killed  people	15
+Saturday night	15
+people died	14
+helmets compulsory	14
+Thursday morning	14
+garbage dumped	13
+city outskirts	13
+Fort Kochi	13
+city police	13
+Sunday night	12
+safety audit	12
+housing project	12
+official residence	12
+liquor shops	12
+transport office	12
+waste dumping	12
+park their cars	12
+Motor Vehicles Act	11
+District Magistrate	11
+Wednesday morning	11
+dumping of waste	11
+construction building	11
+Nagar area	11
+Space Park	11
+Tuesday morning	11
+Saturday evening	11
+create awareness	10
+spread awareness	10
+traffic cops	10
+Driver of taxi	10
+widening of the road	10
+incident took place	10
+Thursday evening	10
+persons were killed	9
+persons  including	9
+road block	9
+Thursday night	9
+separate incidents	9
+Municipal Corporation	9
+killed  people and injured	9
+death toll	9
+injured persons	9
+people were killed and  injured	9
+sustained injuries	8
+district headquarters	8
+late night	8
+early morning	8
+injuring  people	8
+transport  road	8
+Noida Greater	7
+km   miles	7
+water transport	7
+Navi Mumbai	7
+Tuesday night	7
+started work	7
+housing society	7
+Construction Company	7
+luxury hotel	7
+development works	7
+Public Works Department	7
+encroachment removal	7
+accident  road	6
+Hotel in Dubai	6
+Monday night	6
+Wednesday night	6
+Friday night	6
+Outer Ring	6
+accident  disaster	6
+stocks  Wall Street	6
+put in place	6
+department officials	6
+Corporation Limited	5
+dies after falling	5
+city hospital	5
+Rajiv Chowk	5
+project will help the whole city	5
+Monday evening	5
+private cars	5
+Chennai floods	5
+services  bus	5
+Disaster Management	5
+work on the construction	5
+police sources	5
+projects  Road	5
+Tuesday evening	5
+projects highway	5
+dumping garbage	5
+constructions illegally	4
+violation of rules	4
+Safety Week	4
+traffic on road	4
+Chhatrapati Shivaji	4
+lakh people	4
+development projects	4
+highways as National	4
+burn injuries	4
+stage protest	4
+LPG cylinder	4
+takes a dig	4
+rule violators	4
+Public Works	4
+capital city	4
+registration number	4
+public private	4
+district police	4
+safety  road	4
+national capital	4
+Highways Authority	3
+large number	3
+Red Fort	3
+work public	3
+recent floods	3
+official sources	3
+helmet wear	3
+policemen killed	3
+acres of land	3
+injury he sustained	3
+Friday evening	3
+Collector s office	3
+died and several people	3
+Cities as part	3
+work to start	3
+died due	3
+infrastructure projects	3
+Public School	3
+control traffic	3
+jams    The traffic	3
+Development Corporation	3
+private schools	2
+Corporation of Chennai	2
+Regional Transport	2
+waste management	2
+early on Sunday	2
+hospital in the city	2
+outskirts of the city	2
+residents and officials	2
+Rule  Karnakata helmet	2
+City project	2
+Uber driver	2
+Police  Traffic	2
+set the stage	2
+police official	2
+due to lack	2
+utility vehicle	2
+Works Department	2
+electric car	2
+police officer	2
+private sector	2
+miles   km	2
+Drivers   especially auto	2
+space  opens	2
+including two women	2
+Managing waste	2
+late on Friday	2
+riders and pillion	1
+headquarters of each district	1
+tourist spots	1
+road  The injured	1
+Ram temple	1
+Collector  District	1
+morning on Thursday	1
+Street Wall	1
+night of Monday	1
+market conditions	1
+Street US stocks	1
+accident  One killed	1
+Nagar police	1
+department and police	1
+protest march	1
+morning of Tuesday	1
+taking part	1
+areas of a residential	1
+awareness  spread	1
+heritage sites	1
+private company	1
+floods Chennai	1
+driver of a bus	1
+minutes to  hours	1
+Hospitalities Private	1
+Street becomes Happy	1
+kill  policemen	1
+Stage set	1
+entry of women	1
+hours early	1
+Officer and Collector	1
+includes  persons	1
+complete the work	1
+charred to death	1
+Private Limited	1
+border areas	1
+infrastructure development	1
+Karnataka State	1
+North Eastern	1
+Park  the National	1
+works to be completed	1
+authorities highway	1
+violate traffic	1
+manage disasters	1
+department have its own work	1
+congestion  Traffic	1
+officials police	1
+hit and run	1
+bus were injured	1
+project development	1
+accident when a bus	1
+police local	1
+Expressway Yamuna	1
+private hospital	1
+General Hospital	1
+kill two persons	1
+Protest staged	1
+development plan	1
+projects Infrastructure	1
+Corridor Green	1
+Rising Pune	1
+corridor BRT	1
+Citi capital	1
+police district	1
+fired the opening	1
+people of lakhs	1
+National Capital Region	1
+compulsory helmet	1
+rules traffic	1
+accident  injured	1
+state capital	1
+national flag	1
+Bus Berklee School	1
+licence  many driving	1
+public sector	1
+transport    The regional	1
+ft to  sq	1

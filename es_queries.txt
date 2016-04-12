@@ -1,0 +1,85 @@
+#####################################
+
+
+{
+  "query": {
+    "bool": {
+      "must": [
+        { "match": { "month": "1" } },
+        { "match": { "year": "2016" } },
+        { "match": { "day": "28" } },
+        { "match": { "origin": "THE_HINDU" } }
+      ]
+    }
+  },
+  "size": 0,
+  "sort":{"day":{"order":"asc"}}
+}
+
+
+#######################################
+
+
+{
+  "query": {
+    "bool": {
+      "must": [
+        { "match": { "month": "1" } },
+        { "match": { "year": "2016" } },
+        { "match": { "origin": "THE_HINDU" } }
+      ]
+    }
+  },
+  "size": 1,
+  "sort":{"day":{"order":"desc"}}
+}
+
+
+#######################################
+
+
+{
+  "query": {
+    "bool": {
+      "must": [
+        { "match": { "month": "1" } },
+        { "match": { "year": "2016" } },
+        { "match": { "origin": "THE_HINDU" } }
+      ]
+    }
+  },
+  "size": 1,
+  "aggs": {
+    "group_by_origin": {
+      "terms": {
+        "field": "day"
+      }
+    }
+  }
+}
+
+
+#######################################
+{
+  "query": {
+    "bool": {
+      "must": [
+        { "match": { "month": "1" } },
+        { "match": { "year": "2016" } },
+        { "match": { "origin": "THE_HINDU" } }
+      ]
+    }
+  },
+  "size": 0,
+  "aggs": {
+    "group_by_origin": {
+      "terms": {
+        "field": "day",
+        "size":40
+      }
+    }
+  }
+}
+
+
+
