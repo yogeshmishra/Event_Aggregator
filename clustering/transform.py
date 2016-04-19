@@ -3,6 +3,7 @@ import sys
 from gensim import corpora, models, similarities                               
 baseFolder ="results/"
 fileList = ['non_ners.txt', 'locations.txt', 'persons.txt', 'enriched_keys.txt']
+param_values = [ 1 ,1 ,1,0.5]
 sims ={}
 for filename in fileList:
     dictionary = corpora.Dictionary.load('/tmp/' + filename.strip('.txt')+'.dict')
@@ -22,10 +23,13 @@ fileListRemoved = [ 'locations.txt', 'persons.txt', 'enriched_keys.txt']
 mainFile = 'non_ners.txt' 
 results = [[ 0.0 for i in range(len(sims[mainFile][0]))] for j in range(len(sims[mainFile]))]
 #print results
+paramindex = 0
 for key in fileList:
     sim = sims[key]
+    param = param_values[paramindex]
     for i in range(len(sim)):
-        results[i] = [ x + y for x,y in zip(results[i],sim[i])]
+        results[i] = [ (x*paramindex + param*y)/(paramindex+ 1*param) for x    ,y in zip(results[i],sim[i])]
+    paramindex = paramindex + 1
 aggSim = results
 
 with open("output.txt","w") as out:
